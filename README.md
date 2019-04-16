@@ -5,7 +5,7 @@ This repository contains a collection of documents and resources designed to sup
 
 # Getting started
 ## General information
-* Lab code of conduct
+* [Lab code of conduct](https://github.com/GMRI-SEL/Lab-Management/blob/master/CodeOfCoduct.md)
 
 ## To Do List
 * Building orientation
