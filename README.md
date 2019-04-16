@@ -18,7 +18,7 @@ This repository contains a collection of documents and resources designed to sup
 * TBD. There are a couple options here and will likely depend on what works best for Kathy. One option would be updating a document that Kathy could review when she has time [following this template](https://github.com/WhitakerLab/Onboarding/blob/master/Setting-up-your-weekly-meetings.md), quick (15-30 minute check ins) each week, and one or two larger meeting time chunks (1-2 hrs?) that are assigned depending on what is most pressing. 
 
 # Group lab meetings
-Lab meetings are scheduled for every other Wednesday from 1:00 - 2:00. For the late/spring summer, we will have lab meetings on 4/24, 5/8. 5/22, 6/5, 6/19, 7/3, 7/17, 7/31, 8/14, 8/28 in the Boulos (second floor) conference room. Andrew will send out a meeting reminder the morning of, which will also include information if you need to use zoom to connect remotely.
+Lab meetings are scheduled for every other Wednesday from 1:00 - 2:00. For the late/spring summer, we will have lab meetings on 4/24, 5/8, 5/22, 6/5, 6/19, 7/3, 7/17, 7/31, 8/14, 8/28 in the Boulos (second floor) conference room. Andrew will send out a meeting reminder the morning of, which will also include information if you need to use zoom to connect remotely.
 
 Have an idea for an upcoming lab meeting topic? [Add it to the list!](https://docs.google.com/document/d/1PVWt2vhLGfHVYaQJkdCamAPiajUAa-xUM5aoaydEGGk/edit)
 
