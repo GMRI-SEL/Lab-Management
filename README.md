@@ -7,7 +7,7 @@ This repository contains a collection of documents and resources designed to sup
 ## General information
 * [Lab code of conduct](https://github.com/GMRI-SEL/Lab-Management/blob/master/CodeOfCoduct.md)
 
-## To Do List
+## New lab members to do list
 * GMRI new hire checklist
 * Computer and email set up
 * Get added to the lab email list and the GMRI quant group list serv
@@ -26,6 +26,7 @@ Have an idea for an upcoming lab meeting topic? [Add it to the list!](https://do
 ## R
 * Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz) and [Advanced R](http://adv-r.had.co.nz)
 * Yihui Xie (and others) [definitive guide to R Markdown](https://bookdown.org/yihui/rmarkdown/)
+* rOpenSci's [package development/maintenance and peer review tips](https://ropensci.github.io/dev_guide/reviewtemplate.html)
 
 ## Git and GitHub
 * Jenny Bryan's [Happy Git](https://happygitwithr.com)
