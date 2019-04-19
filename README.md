@@ -1,5 +1,5 @@
 # Welcome!
-Welcome to Dr. Kathy Mills' Systems Ecology Lab at the Gulf of Maine Research Institute!
+Welcome to Dr. Kathy Mills' Integrated Systems Ecology Lab at the Gulf of Maine Research Institute!
 
 This repository contains a collection of documents and resources designed to support the development of individual lab members, and in doing so, create an open, effective and productive lab team.
 
