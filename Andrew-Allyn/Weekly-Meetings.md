@@ -1,7 +1,7 @@
 # Table of Contents
 ### 2019
-* [6 May 2019](#date-6th-may-2019)
-* [29 April 2019](#date-29th-april-2019)
+* [6 May 2019](#date-6-may-2019)
+* [29 April 2019](#date-29-april-2019)
 
 # Meeting Notes
 ### Date: 6 May 2019
