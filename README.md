@@ -21,19 +21,22 @@ This repository contains a collection of documents and resources designed to sup
 ## Weekly progress
 * To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these files, take the following steps:
 1. Fork the [GMRI-SEL Lab Management repository](https://github.com/GMRI-SEL/Lab-Management) to make a copy on your own GitHub account.
-2. Establish an upstream connection by adding the lab as a remote by entering 
+2. Establish an upstream connection by adding the lab as a remote by navigating to the correct directory in the terminal and entering 
+
 <git remote add upstream https://github.com/GMRI-SEL/Lab-Management 
-in the terminal.
+
 3. Navigate to the folder with your name and the Weekly-Meetings.md file. 
 4. Edit the file, including the table of contents for your new weekly entry. Commit the changes as "Date-commit."
 5. Submit a pull request to the lab and title the pull request: "LastName-Date."
 6. Kathy will review and possibly add comments to the weekly entries <using Markdown block quotes. She will commit any comments as "MillsComments-Date."
-7. Review your weekly entry and Kathy's comments and then pull these changes into your local, forked Lab Management repo by entering
+7. Review your weekly entry and Kathy's comments and then pull these changes into your local, forked Lab Management repo using the terminal and entering
+
 <git pull upstream master --ff-only
-in the terminal.
+
 8. Complete the process by entering 
+
 <git push
-in the terminal.
+
 9. Make another weekly review edit and repeat the process, starting at step #4.
 10. Have a look at other lab member's Weekly-Meeting.md files to see what everyone else is up to!
 
