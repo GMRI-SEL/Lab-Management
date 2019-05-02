@@ -6,7 +6,7 @@
 
 #### Who did you help this week?
 
-This week I went over a sea surface temperature extraction code with Matt, provided a trawl data processing function to Matt and Lindsay and helped Aaron with analyzing some of their electronic monitoring data.
+This week I went over a sea surface temperature extraction code with Matt, provided a trawl data processing function to Matt and Lindsay and helped Aaron with analyzing some of their electronic monitoring data. 
 
 #### Who helped you this week?
 
@@ -18,6 +18,8 @@ This week I got help from the entire mills Lab while working through how to use 
 * Drafted Git/Github/RStudio workflow slides and walked through collaborative coding example with Mills Lab
 * Moved COCA methods paper and seasonality manuscripts along
 * Worked on some Mills Lab management things
+
+# Nice work!
 
 #### What did you struggle with?
 
