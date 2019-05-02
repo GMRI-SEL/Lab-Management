@@ -2,7 +2,7 @@
 ### 2019
 * [29 April 2019](#date-29-april-2019)
 
-# Meeting Notes
+# Weekly Notes
 ### Date: 29 April 2019
 
 #### Who did you help this week?
