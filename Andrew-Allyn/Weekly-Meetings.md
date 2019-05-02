@@ -1,4 +1,3 @@
-# Table of Contents
 ### 2019
 * [29 April 2019](#date-29-april-2019)
 
