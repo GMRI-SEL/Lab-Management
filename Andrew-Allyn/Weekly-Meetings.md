@@ -6,35 +6,36 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+This week I went over a sea surface temperature extraction code with Matt, provided a trawl data processing function to Matt and Lindsay and helped Aaron with analyzing some of their electronic monitoring data.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+This week I got help from the entire mills Lab while working through how to use Git/GitHub/RStudio projects to work collaboratively and from Alex K. on generating THREDDS URLS to access climate model projections.  
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Produced a collection of functions to collect and process physical oceanographic data from THREDDS servers, including OISST data and CMIP5 projections
+* Drafted Git/Github/RStudio workflow slides and walked through collaborative coding example with Mills Lab
+* Moved COCA methods paper and seasonality manuscripts along
+* Worked on some Mills Lab management things
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Finding and sticking to focused writing time
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Re submit COCA methods paper to Kathy
+* Wrap up COCA seasonality paper
+* Lead Mills Lab meeting to recap GitHub progress/discuss next steps: Box file organization, function code-a-thon
 
 #### Where do you need help from Kathy?
 
-* Replace this text with a bullet point list of what you need help from Kathy on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Next week: COCA methods paper
 
 #### Where do you need help from other lab members?
+
+* Guidance with Box file organization/priortizing what functions we might want to write as a lab/feed back on how all of these new things are working (FreedCamp, GitHub, Weekly-meetings markdown file updates)
 
 #### Any other topics
 
