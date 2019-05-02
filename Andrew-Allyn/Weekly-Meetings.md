@@ -4,7 +4,7 @@
 * [04/29/2019](#)
 
 # Meeting Notes
-### Date: [05/06/2019]
+### Date: [05/06/2019](#)
 
 #### Who did you help this week?
 
@@ -42,7 +42,7 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 This space is yours to add to as needed.
 
-### Date: [04/29/2019]
+### Date: [04/29/2019](#)
 
 #### Who did you help this week?
 
