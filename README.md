@@ -19,7 +19,7 @@ This repository contains a collection of documents and resources designed to sup
 * This is a work in progress as we try to find scheduling options that work best for everyone.
 
 ## Weekly progress
-* To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these Markdown files, fork and clone the folder with your name within the Lab-Management repository. This should bring a copy to your private GitHub account. You can then update the Weekly-Meetings.md file (directly in GitHub online if you want), and commit the changes to your private copy. After doing that, submit a pull request to the lab account. 
+* To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these Markdown files, fork the GMRI-SEL Lab Management repository repository. This should bring a copy to your private GitHub account. You can then update the Weekly-Meetings.md in your folder directly in GitHub. After making your changes, with a commit message that has the weekly date in the message. Finally, submit a pull request to the GMRI-SEL Lab Management repository. 
 
 ## Group lab meetings
 Lab meetings are scheduled for every other Wednesday from 1:00 - 2:00. For the late/spring summer, we will have lab meetings on 4/24, 5/8, 5/22, 6/5, 6/19, 7/3, 7/17, 7/31, 8/14, 8/28 in the Boulos (second floor) conference room. Andrew will send out a meeting reminder the morning of, which will also include information if you need to use zoom to connect remotely.
