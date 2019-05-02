@@ -19,7 +19,23 @@ This repository contains a collection of documents and resources designed to sup
 * This is a work in progress as we try to find scheduling options that work best for everyone.
 
 ## Weekly progress
-* To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these Markdown files, fork the GMRI-SEL Lab Management repository repository. This should bring a copy to your private GitHub account. You can then update the Weekly-Meetings.md in your folder directly in GitHub. After making your changes, with a commit message that has the weekly date in the message. Finally, submit a pull request to the GMRI-SEL Lab Management repository. I *think* that after doing this you will want to make an upstream pull to the Lab account before submitting your next weekly meeting update -- this would presumably allow Kathy to comment directly in your weekly meetings file and then you would be able to see those comments?
+* To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these files, take the following steps:
+1. Fork the [GMRI-SEL Lab Management repository](https://github.com/GMRI-SEL/Lab-Management) to make a copy on your own GitHub account.
+2. Establish an upstream connection by adding the lab as a remote by entering 
+<git remote add upstream https://github.com/GMRI-SEL/Lab-Management 
+in the terminal.
+3. Navigate to the folder with your name and the Weekly-Meetings.md file. 
+4. Edit the file, including the table of contents for your new weekly entry. Commit the changes as "Date-commit."
+5. Submit a pull request to the lab and title the pull request: "LastName-Date."
+6. Kathy will review and possibly add comments to the weekly entries <using Markdown block quotes. She will commit any comments as "MillsComments-Date."
+7. Review your weekly entry and Kathy's comments and then pull these changes into your local, forked Lab Management repo by entering
+<git pull upstream master --ff-only
+in the terminal.
+8. Complete the process by entering 
+<git push
+in the terminal.
+9. Make another weekly review edit and repeat the process, starting at step #4.
+10. Have a look at other lab member's Weekly-Meeting.md files to see what everyone else is up to!
 
 ## Group lab meetings
 Lab meetings are scheduled for every other Wednesday from 1:00 - 2:00. For the late/spring summer, we will have lab meetings on 4/24, 5/8, 5/22, 6/5, 6/19, 7/3, 7/17, 7/31, 8/14, 8/28 in the Boulos (second floor) conference room. Andrew will send out a meeting reminder the morning of, which will also include information if you need to use zoom to connect remotely.
