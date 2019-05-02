@@ -1,8 +1,8 @@
 ### 2019
-* [29 April 2019](#date-29-april-2019)
+* [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
-### Date: 29 April 2019
+### Date: 3 May 2019
 
 #### Who did you help this week?
 
@@ -19,7 +19,7 @@ This week I got help from the entire mills Lab while working through how to use 
 * Moved COCA methods paper and seasonality manuscripts along
 * Worked on some Mills Lab management things
 
-(&#x1F537;) Sounds great! (&#x1F537;)
+> Example Kathy comment: Sounds good!
 
 #### What did you struggle with?
 
