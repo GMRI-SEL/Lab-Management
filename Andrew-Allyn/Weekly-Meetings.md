@@ -19,7 +19,7 @@ This week I got help from the entire mills Lab while working through how to use 
 * Moved COCA methods paper and seasonality manuscripts along
 * Worked on some Mills Lab management things
 
-Sounds great!(&#x1F34E)
+Sounds great!(&#x1F34E;)
 
 #### What did you struggle with?
 
