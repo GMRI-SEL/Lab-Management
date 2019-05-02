@@ -1,9 +1,9 @@
 # Table of Contents
 ## 2019
-* [04/29/2019](#Week of 4/29)
+* [04/29/2019](#){Week of 4/29}
 
 # Meeting Notes
-### Date: [04/29/2019](#){name=Week of 4/29}
+### Date: [04/29/2019]
 
 #### Who did you help this week?
 
