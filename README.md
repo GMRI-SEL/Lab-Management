@@ -16,10 +16,10 @@ This repository contains a collection of documents and resources designed to sup
 
 # Meetings
 ## Individual meetings with Kathy
-* This is a work in progress as we try to find scheduling options that work best for everyone.
+This is a work in progress as we try to find scheduling options that work best for everyone.
 
 ## Weekly progress
-* To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these files, take the following steps:
+To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these files, take the following steps:
 1. Fork the [GMRI-SEL Lab Management repository](https://github.com/GMRI-SEL/Lab-Management) to make a copy on your own GitHub account.
 2. Establish an upstream connection by adding the lab as a remote by navigating to the correct directory in the terminal and entering 
 >git remote add upstream https://github.com/GMRI-SEL/Lab-Management 
