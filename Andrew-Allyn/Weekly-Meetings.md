@@ -1,10 +1,10 @@
 # Table of Contents
-## 2019
-* [05/06/2019](#)
-* [04/29/2019](#)
+### 2019
+* [6 May 2019](#date-6th-may-2019)
+* [4 April 2019](#date-4th-april-2019)
 
 # Meeting Notes
-### Date: [05/06/2019](#)
+### Date: 6 May 2019
 
 #### Who did you help this week?
 
@@ -42,7 +42,7 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 This space is yours to add to as needed.
 
-### Date: [04/29/2019](#)
+### Date: 29 April 2019
 
 #### Who did you help this week?
 
