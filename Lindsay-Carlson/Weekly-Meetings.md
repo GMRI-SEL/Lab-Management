@@ -21,10 +21,14 @@ Andrew helped the lab by creating slides and an exercise to help us further our 
 * I did EDA on spatial and temporal trends in salmon growth data
 * I made leaps and bounds in my understanding of Git!
 
+> Awesome progress!
+
 #### What did you struggle with?
 
 * I struggled with figuring out how to code the multistate structure of the encounter histories. I used a pretty hacky approach that will probably work, but could be done better. 
 * I struggled to figure out the organizaton of the trawl data.
+
+> Join the club, it isn't the easiest. You may have already seen this, though just in case, the "SVDBS Elements by Table and Column" file on the shared NMFS Trawl Data folder is somewhat helpful. Definitely let me know if it would be easier to meet and discuss -- could loop in Andrew/Matt, too.
 
 #### What would you like to work on next week?
 
@@ -35,6 +39,8 @@ Andrew helped the lab by creating slides and an exercise to help us further our 
 
 * Meeting with Kathy and Matt to get oriented to the trawl data would be helpful.
 * There are still some unanswered questions about the salmon data that I have listed in the [Ask Kathy Freedcamp project](https://freedcamp.com/Lindsay_6rU/Ask_Kathy_pAt/todos). 
+
+> Awesome. I'll plan to connect with you and Matt on the trawl data and have a look at the FreedCamp questions!
 
 #### Where do you need help from other lab members?
 
