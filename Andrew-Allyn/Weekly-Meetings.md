@@ -17,7 +17,7 @@ This week I got help from the entire mills Lab while working through how to use 
 * Produced a collection of functions to collect and process physical oceanographic data from THREDDS servers, including OISST data and CMIP5 projections
 * Drafted Git/Github/RStudio workflow slides and walked through collaborative coding example with Mills Lab
 * Moved COCA methods paper and seasonality manuscripts along
-* Worked on some Mills Lab management things
+* Worked on some Mills Lab management things (landing page, weekly meetings template)
 
 #### What did you struggle with?
 
