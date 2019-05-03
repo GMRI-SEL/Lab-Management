@@ -19,8 +19,6 @@ This week I got help from the entire mills Lab while working through how to use 
 * Moved COCA methods paper and seasonality manuscripts along
 * Worked on some Mills Lab management things
 
-> Example Kathy comment: Sounds good!
-
 #### What did you struggle with?
 
 * Finding and sticking to focused writing time
@@ -33,7 +31,7 @@ This week I got help from the entire mills Lab while working through how to use 
 
 #### Where do you need help from Kathy?
 
-* Next week: COCA methods paper
+* Next week: COCA methods paper, Job and planning (time on ME Sea Grant, NSF WARMEM, others?)
 
 #### Where do you need help from other lab members?
 
