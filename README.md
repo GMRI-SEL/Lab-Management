@@ -20,7 +20,7 @@ This repository contains a collection of documents and resources designed to sup
 This is a work in progress as we try to find scheduling options that work best for everyone.
 
 ## Weekly progress
-We will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding) to keep Kathy (and everyone else) updated on what is going on in the lab, track our own progres, and build a stronger lab team. The idea with the weekly meetings markdwon file is to reflect on your work week, including who you helped, who helped you, what you accomplished, what you struggled with and what you need from Kathy or other lab members. Along with providing an update, ideally this process will support a strong, open and collaborative lab culture. Another benefit is it gives everyone time to celebrate the little victories, which can be easily overshadowed by the regular defeats that are so common in the scientific journey.
+We will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding) to keep Kathy (and everyone else) updated on what is going on in the lab, track our own progress, and build a stronger lab team. The idea with the weekly meetings markdown file is to reflect on your work week, including who you helped, who helped you, what you accomplished, what you struggled with and what you need from Kathy or other lab members. Along with providing an update, ideally this process will support a strong, open and collaborative lab culture. Another benefit is it gives everyone time to celebrate the little victories, which can be easily overshadowed by the regular defeats that are so common in the scientific journey.
 
 To use this system:
 1. Fork the [GMRI-SEL Lab Management repository](https://github.com/GMRI-SEL/Lab-Management) to make a copy on your own GitHub account.
@@ -51,6 +51,10 @@ Have an idea for an upcoming lab meeting topic? [Add it to the list!](https://do
 ## Git and GitHub
 * Jenny Bryan's [Happy Git](https://happygitwithr.com)
 * Git/GitHub/RStudio workflow(https://docs.google.com/presentation/d/1ghOk8L7cn1W1HNLOJ0282wT1FIZggFX5A2DlN3dERn4/edit?usp=sharing)
+
+## Markdown
+* Comprehensive [Markdown Guide](https://www.markdownguide.org)
+* [Markdown cheat sheet](https://en.support.wordpress.com/markdown-quick-reference/)
 
 ## Writing
 * [The 5 pivotal paragraphs of a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
