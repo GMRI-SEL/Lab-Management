@@ -1,41 +1,45 @@
 ### 2019
-* [29 April 2019](#date-29-april-2019)
+* [3 May 2019](#date-03-may-2019)
 
 # Weekly Notes
-### Date: 29 April 2019
+### Date: 3 May 2019
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+This week, I spent a few hours working to learn more Git code on my own so I could be a more informed participant in the GitHub lab discussion on Wednesday. Though it didn't help anyone individually, I think active participation by everyone in the lab helps everyone else to learn too. 
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+Miguel helped me by ammending his algorithm to work for my dataset. It is very well annotated and concisely coded, and I really appreciate him sharing his work so I didn't have to reinvent the wheel. 
+Andrew helped the lab by creating slides and an exercise to help us further our GitHub discussion. He also did a really great job making this repository! 
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* I wrote a loop to create a tagging history of all Carlin-tagged fish that can be merged with the recapture datasets
+* I used the reshape packages to create encounter histories for recaptured salmon
+* I integrated growth markers placed by Miguel's algorithm into the circuli dataset
+* I did EDA on spatial and temporal trends in salmon growth data
+* I made leaps and bounds in my understanding of Git!
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* I struggled with figuring out how to code the multistate structure of the encounter histories. I used a pretty hacky approach that will probably work, but could be done better. 
+* I struggled to figure out the organizaton of the trawl data.
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* I would like to spend more time with the trawl data. 
+* I would like to do some reading to figure out a better MS-CMR encounter history structure.
 
 #### Where do you need help from Kathy?
 
-* Replace this text with a bullet point list of what you need help from Kathy on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Meeting with Kathy and Matt to get oriented to the trawl data would be helpful.
+* There are still some unanswered questions about the salmon data that I have listed in the [Ask Kathy Freedcamp project](https://freedcamp.com/Lindsay_6rU/Ask_Kathy_pAt/todos). 
 
 #### Where do you need help from other lab members?
 
+* I would like to continue to work collaboratively to all become proficient (enough) on GitHub.
+
 #### Any other topics
 
-This space is yours to add to as needed.
+
