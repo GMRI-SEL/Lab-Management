@@ -8,22 +8,25 @@ This repository contains a collection of documents and resources designed to sup
 * [Lab code of conduct](https://github.com/GMRI-SEL/Lab-Management/blob/master/CodeOfCoduct.md)
 
 ## New lab members to do list
-* GMRI new hire checklist
-* Computer and email set up
-* Get added to the lab email list and the GMRI quant group list serv
-* Join lab slack channel 
+* Complete the GMRI new hire checklist with Kathy
+* Send an email to [Andrew](aallyn@gmri.org) from your new GMRI email to get added to the lab email list and the GMRI quant group list serv
+* Register your new email on slack and get added to the ISEL lab slack channel
 * Register an account with [Freed Camp](https://freedcamp.com), make a personal group and then invite Kathy to an associated project (Professional Development)
+* Register an account with [Mendeley](https://www.mendeley.com/newsfeed) and get added to the ISEL lab Mendeley folders
+* Set up a GitHub account and a time to walk through the Git/GitHub/RStudio tutorial with Andrew
 
 # Meetings
 ## Individual meetings with Kathy
 This is a work in progress as we try to find scheduling options that work best for everyone.
 
 ## Weekly progress
-To keep everyone up to date on what other folks are working on in the lab, we will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding). To use these files, take the following steps:
+We will use [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding) to keep Kathy (and everyone else) updated on what is going on in the lab, track our own progres, and build a stronger lab team. The idea with the weekly meetings markdwon file is to reflect on your work week, including who you helped, who helped you, what you accomplished, what you struggled with and what you need from Kathy or other lab members. Along with providing an update, ideally this process will support a strong, open and collaborative lab culture. Another benefit is it gives everyone time to celebrate the little victories, which can be easily overshadowed by the regular defeats that are so common in the scientific journey.
+
+To use this system:
 1. Fork the [GMRI-SEL Lab Management repository](https://github.com/GMRI-SEL/Lab-Management) to make a copy on your own GitHub account.
-2. Establish an upstream connection by adding the lab as a remote by navigating to the correct directory in the terminal and entering 
+2. In the terminal, make sure you are in the Lab Management directory on your local machine and then establish an upstream connection
 >git remote add upstream https://github.com/GMRI-SEL/Lab-Management 
-3. Navigate to the folder with your name and the Weekly-Meetings.md file. 
+3. Using GitHub online (or a text editor if you prefer), navigate to the folder with your name and the associated Weekly-Meetings.md file. 
 4. Edit the file, including the table of contents for your new weekly entry. Commit the changes as "Date-commit."
 5. Submit a pull request to the lab and title the pull request: "LastName-Date."
 6. Kathy will review and possibly add comments to the weekly entries <using Markdown block quotes. She will commit any comments as "MillsComments-Date."
