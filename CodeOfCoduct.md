@@ -1,3 +1,1 @@
-To be worked on collectively as a lab. 
-
-For a few examples: [Malin Pinsky's Lab](https://github.com/pinskylab/how_we_work/blob/master/code-of-conduct.md), [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md)
+This is a work in progress and will be worked on collectively. For a few examples: [Malin Pinsky's Lab](https://github.com/pinskylab/how_we_work/blob/master/code-of-conduct.md), [Whitaker Lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md), [Bahlai Lab](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md).
