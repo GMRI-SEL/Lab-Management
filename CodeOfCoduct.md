@@ -28,7 +28,7 @@ This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstu
 
 > While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
 
-The hours that members choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
+The hours that members choose to work are up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
 
 **If you experience any challenges related to flexible working within the lab** please contact [Kathy Mills](kmills@gmri.org). All communication will be treated as confidential.
 
