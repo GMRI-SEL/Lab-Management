@@ -1,5 +1,47 @@
 ### 2019
 * [3 May 2019](#date-03-may-2019)
+* [10 May 2019](#date-10-may-2019)
+
+# Weekly Notes
+### Date: 10 May 2019
+
+#### Who did you help this week?
+
+I helped Andrew work through some Shared Box->RProject navigation using the 'here' package. He put together a cool "test run," then I worked through it on my computer to see if it would work as a shared code. I think we found and solved a few issues!
+
+#### Who helped you this week?
+
+Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation I ran into on my computer when running a shared code.
+
+#### What did you achieve?
+
+* I rewrote some of my hacky code using a more sophisticated loop
+* I created a version-controlled R project and associated repository for the trawl data
+* I worked on the [exploratory data analysis](http://rpubs.com/lgcarlson/CarlinEDA5102019) for the salmon growth data that Kathy and I talked about during this week's meeting
+* I read a few papers about how to calculate leading/trailing edge
+* I learned how to use the packages 'here' and 'formattable'
+
+#### What did you struggle with?
+
+* I struggled for quite some time with the memory problem on my computer before asking for help. Then, once I asked for help, a lot of time was spent by all parties trying to figure it out. I stopped working on the trawl data after Karen determined that we were sent the wrong computer. Hopefully that solves the problem, but it didn't make sense to keep spending time on fixing something that seems to work for everyone but me. 
+
+#### What would you like to work on next week?
+
+* I will keep working on the salmon growth data and figure out next steps for the analysis. 
+* I did not get to it this week, so next week I would like to do some reading to figure out a better MS-CMR encounter history structure.
+
+#### Where do you need help from Kathy?
+
+* Meeting with Kathy and Matt at some point to get oriented to the trawl data would be helpful.
+* There are still some unanswered questions about the salmon data that I have listed in the [Ask Kathy Freedcamp project](https://freedcamp.com/Lindsay_6rU/Ask_Kathy_pAt/todos). 
+
+#### Where do you need help from other lab members?
+
+* I don't necessarily need help from anyone, but I think I will do the function-writing Datacamp over the weekend or next week to improve my function skills. I wrote a few successful functions and loops this week, but I just couldn't figure out how to do one and reverted to the longhand approach. 
+
+
+
+
 
 # Weekly Notes
 ### Date: 3 May 2019
