@@ -1,41 +1,38 @@
 ### 2019
-* [29 April 2019](#date-29-april-2019)
+* [10 May 2019](#date-10-May-2019)
 
 # Weekly Notes
-### Date: 29 April 2019
+### Date: 10 May 2019
 
 #### Who did you help this week?
-
-Replace this text with a one/two sentence description of who you helped this week and how.
+I don't think I helped anyone
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+Kathy during our meeting 
+Kathy and Andy during the Lobster Collabrative meeting
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* I finished incoorporating density into the update buoy function
+* I succesfully ran and downloaded the OISST dataset and was able to create anomaly sst maps
+* I finished writing a function to calculate and the temperature, salinity, or density anomalies for any buoy at any depth over several different time scales. 
+* I also finished writing a function to calculate the stratification index anomalies.
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* I am currently struggling with adding N01 and M01 buoys to the code that downloads all of the buoy data at once. Those buoys have data for different depths than the other buoys and the current script doesn't allow variation in depth.
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+I am going to continue to work on the update buoy function to include the M and N buoys. When I complete this I am going to combine the OISST and buoy data
 
 #### Where do you need help from Kathy?
 
-* Replace this text with a bullet point list of what you need help from Kathy on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+At the moment I think I am good with what I have and will continue to chug along
 
 #### Where do you need help from other lab members?
-
+Possibly with trying to add the M and N buoy into the updatebuoy function - I'll give it some more work first
 #### Any other topics
 
 This space is yours to add to as needed.
