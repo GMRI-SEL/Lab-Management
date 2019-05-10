@@ -43,7 +43,7 @@ Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation
 
 
 
-# Weekly Notes
+
 ### Date: 3 May 2019
 
 #### Who did you help this week?
