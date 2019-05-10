@@ -1,7 +1,53 @@
 ### 2019
+* [10 May 2019](#date-10-may-2019)
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 10 May 2019
+
+#### Who did you help this week?
+
+Mostly an isolated work week this week for me. Though, I did some experimenting tryng with Git/GitHub/RStudio/Box, which seems to be working and will hopefully be helpful when we have time to look over the example code/workflow as a lab, and participated in first round post doc interviews for Andy's NSF WARMEM project. 
+
+#### Who helped you this week?
+
+This week I got help from Lindsay testing out the Git/GitHub/RStudio/Box workflow and from Alex K navigating some Mac file storage weirdness. 
+
+#### What did you achieve?
+
+* Edited Brian's COCA community report code to work with Brad's economics model results
+* Produced example economic model results treemaps for Brad/Kathy to review
+* Worked on COCA methods manuscript
+* Proposed Box file organization structure
+* Created an example vingette to show how to work with Git/GitHub/RStudio/Box
+* Drafted professional development fund application materials
+* Participated in post doc interviews
+* Took some time for long-term strategizing
+
+#### What did you struggle with?
+
+* Writing -- there appears to be a trend here
+
+#### What would you like to work on next week?
+
+* **GET THE COCA METHODS PAPER DRAFT COMPLETED AND BACK TO KATHY**
+* COCA seasonality manuscript
+* Kathy and Andy meeting
+* Have lab members up to speed on Git/GitHub/RStudio/Box work
+
+#### Where do you need help from Kathy?
+
+* Next week: Kathy/Andy meeting, time to go over Git/GitHub and Kathy's review process of weekly progress documents
+* Next two weeks: COCA methods draft reviews
+
+#### Where do you need help from other lab members?
+
+* More of the same help experimenting and finding solutions to lab software and workflow approaches as we all try to figure out how to work together as efficiently as possible.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 ### Date: 3 May 2019
 
 #### Who did you help this week?
