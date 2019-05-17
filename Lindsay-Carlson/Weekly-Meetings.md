@@ -1,8 +1,48 @@
 ### 2019
 * [3 May 2019](#date-03-may-2019)
 * [10 May 2019](#date-10-may-2019)
+* [17 May 2019](#date-17-may-2019)
 
 # Weekly Notes
+### Date: 17 May 2019
+
+#### Who did you help this week?
+
+I found a conflict between the "here" and "lubridate" packages and posted the solution on the lab Slack page so other people can avoid it.
+
+#### Who helped you this week?
+
+Kathy and Tim helped me understand the salmon dataset better by taking some time to answer some of the big questions about it. Andrew suggested a Wednesday meeting, and we all brainstormed some good ideas to better integrate Box and a Git workflow, as well as longer-term goals and projects we want to work together on. 
+
+#### What did you achieve?
+
+* I wrote code to calculate monthly growth increments based on methods decribed by Todd et al. 2013 in a paper titled [A simple method of dating marine growth circuli on scales of wild one sea-winter and two-sea winter Atlantic salmon](https://www.nrcresearchpress.com/doi/10.1139/cjfas-2013-0359#.XN8CzchKi70).
+* I created [glms](http://rpubs.com/lgcarlson/growthincrementglm) to better understand the effect of some of the cat vars on first year increments (age, state, season, etc).
+* I compiled lists of missing data in Carlin dataset for Tim.
+* I set up Git on a new computer and made it talk to R successfully!
+* I wrote lots of loops, used some if/else statements, and improved my function writing/understanding substantially!
+
+#### What did you struggle with?
+
+* I struggled for a while on Friday to conceptualize a nested loop I thought I needed for the monthly growth calculation. I figured out the nested loop, but in the processed realized there was a much less verbose method. 
+
+#### What would you like to work on next week?
+
+* I will finish the monthly growth increment calculations.
+* I will work on the trawl EDA Kathy and I discussed during our meeting on Friday.
+
+#### Where do you need help from Kathy?
+
+* I think we are all set for a while after our Friday meeting! 
+
+#### Where do you need help from other lab members?
+
+* I am looking forward to collaborating on our Shiny project. 
+
+
+
+
+
 ### Date: 10 May 2019
 
 #### Who did you help this week?
@@ -38,8 +78,6 @@ Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation
 #### Where do you need help from other lab members?
 
 * I don't necessarily need help from anyone, but I think I will do the function-writing Datacamp over the weekend or next week to improve my function skills. I wrote a few successful functions and loops this week, but I just couldn't figure out how to do one and reverted to the longhand approach. 
-
-
 
 
 
