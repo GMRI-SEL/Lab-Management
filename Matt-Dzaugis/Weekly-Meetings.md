@@ -1,6 +1,6 @@
 ### 2019
 * [10 May 2019](#date-10-May-2019)
-* [17 May 2019] (#date -17-May-2019)
+* [17 May 2019](#date -17-May-2019)
 
 # Weekly Notes
 ### Date: 17 May 2019
