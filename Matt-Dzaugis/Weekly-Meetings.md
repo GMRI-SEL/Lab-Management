@@ -1,5 +1,30 @@
 ### 2019
 * [10 May 2019](#date-10-May-2019)
+* [17 May 2019] (#date -17-May-2019)
+
+# Weekly Notes
+### Date: 17 May 2019
+
+
+#### What did you achieve?
+
+* I finished the DataCamp on R markdown and several chapters of ggplot
+* I started to make each r code page stand alone and incorporated the here package
+* I read several papers on lobster and read the FO paper that we are reviewing a few times
+
+#### What did you struggle with?
+
+* I am trying to keep up with github and integrate it into my normal workflow
+
+#### What would you like to work on next week?
+
+* I am going to continue to read more about lobsters and do some exploratory data analysis on the phyiscal data in the GoMe
+
+#### Where do you need help from Kathy?
+
+At the moment I think I am good with what I have and will continue to chug along
+
+
 
 # Weekly Notes
 ### Date: 10 May 2019
