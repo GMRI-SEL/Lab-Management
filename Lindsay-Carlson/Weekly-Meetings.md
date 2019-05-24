@@ -2,8 +2,50 @@
 * [3 May 2019](#date-03-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [17 May 2019](#date-17-may-2019)
+* [24 May 2019](#date-24-may-2019)
 
 # Weekly Notes
+### Date: 24 May 2019
+
+#### Who did you help this week?
+
+I put together a RMarkdown "how to" document and example and put it on GitHub so everyone can access it easily. 
+
+#### Who helped you this week?
+
+Miguel and I had a really good discussion about the zooplankton dataset we are working to incorporate into the salmon work. 
+Kathy generously picked up my IKEA furniture and brought it to Portland! 
+
+#### What did you achieve?
+
+* I worked on code to assign growth increment values to each month using monthly growth models I wrote last week. 
+* I used Kathy's code to calculate the center of biomass for each species, I rewrote some of the data wrangling steps using dplyr pipes rather than base
+* I created the [plots](http://rpubs.com/lgcarlson/trawledafigs) that Kathy and I discussed last week (biomass by latitude over decades, biomass weighted density by decade, and slope of center, leading, trailing edge)
+* I used these plots to visualize what different proportions of biomass would look like as leading/trailing edges
+* I read [Poloczanska et al. 2013](10.1038/nclimate1958), [Hampe et al. 2005](10.1111/j.1461-0248.2005.00739.x), [Knutsen et al. 2013](10.1371/journal.pone.0067492), [Woolbright et al. 2014](http://dx.doi.org/10.1016/j.tree.2014.05.003), [Sunday et al. 2012](10.1098/rspb.2010.1295), and [Haak et al. 2010](10.1577/1548-8446-35.11.530). None had useful descriptions/definitions of leading/trailing edges
+
+#### What did you struggle with?
+
+* I struggled to find any description of how to define/calculate a leading/trailing edge. 
+* I got stuck on the loop to assign monthly growth increment values. 
+
+#### What would you like to work on next week?
+
+* I will go back and try to finish the growth increment assignment loop. 
+* I will continue to explore the leading/trailing edge literature to get a better understanding of how these are defined. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges.   
+
+#### Where do you need help from other lab members?
+
+* We had further discussion about workflow/files organization in the shared Box folders. I'm still not sure how the trawl/Pew project fits in to everything, so I might need some help figuring out the best home for that work. 
+
+
+
+
+
 ### Date: 17 May 2019
 
 #### Who did you help this week?
