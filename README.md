@@ -10,10 +10,10 @@ This repository contains a collection of documents and resources designed to sup
 ## New lab members to do list
 * Complete the GMRI new hire checklist with Kathy
 * Send an email to [Andrew](aallyn@gmri.org) from your new GMRI email to get added to the lab email list and the GMRI quant group list serv
-* Register your new email on slack and get added to the ISEL lab slack channel
+* Register your new email on slack and get added to the lab slack channel
 * Register an account with [Freed Camp](https://freedcamp.com), make a personal group and then invite Kathy to an associated project (Professional Development)
-* Register an account with [Mendeley](https://www.mendeley.com/newsfeed) and get added to the ISEL lab Mendeley folders
-* Set up a GitHub account and a time to walk through the Git/GitHub/RStudio tutorial with Andrew
+* Register an account with [Mendeley](https://www.mendeley.com/newsfeed) and get added to the lab Mendeley folders
+* Set up a GitHub account and schedule a time to walk through the Git/GitHub/RStudio tutorial with Andrew
 
 # Meetings
 ## Individual meetings with Kathy
