@@ -1,9 +1,52 @@
 ### 2019
+* [31 May 2019](#date-31-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 31 May 2019
+
+#### Who did you help this week?
+
+This week I helped out Brian working through the Stonington community report. I also helped Lindsay by providing a couple of papers and talking through measures of species distributions.
+
+#### Who helped you this week?
+
+This week I got help from a couple of people on different tasks. Miguel/Lindsay/Matt/Brian all helped me try to figure out what was going on with a weird coding issue. Brian also helped me out making some figures for the community report.
+
+#### What did you achieve?
+
+* COCA Stonington community report figures
+* Code checking
+* Moving most files over to Box
+* FO paper review
+* Lab management tidy tuesday
+
+#### What did you struggle with?
+
+* Time management with the COCA report figures. I always struggle with making figures and seem to spend hours just going back and forth between RStudio and viewing the output. I should look for opportunities to streamline this process and also maybe retstrict the actual time I dedicate to making figures -- otherwise it can zap entire weeks. 
+
+#### What would you like to work on next week?
+
+* Lab management catch up (Tidy tuesday, FreedCamp, Git/GitHub weekly updates, slack channel)
+* COCA MS discussion read through
+* Joint Species Distribution Modeling work
+* Future air temperature work
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA Methods MS review, Lab management stuff (FreedCamp, GitandGitHub for weekly comments)
+
+#### Where do you need help from other lab members?
+
+* Tidy tuesday!
+* Check in on FreedCamp/Git and GitHub/Slack -- are folks using it? Why or why not? 
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 ### Date: 17 May 2019
 
 #### Who did you help this week?
