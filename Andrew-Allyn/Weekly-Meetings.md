@@ -1,8 +1,93 @@
 ### 2019
+* [31 May 2019](#date-31-may-2019)
+* [17 May 2019](#date-17-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 31 May 2019
+
+#### Who did you help this week?
+
+This week I helped out Brian working through the Stonington community report. I also helped Lindsay by providing a couple of papers and talking through measures of species distributions.
+
+#### Who helped you this week?
+
+This week I got help from a couple of people on different tasks. Miguel/Lindsay/Matt/Brian all helped me try to figure out what was going on with a weird coding issue. Brian also helped me out making some figures for the community report.
+
+#### What did you achieve?
+
+* COCA Stonington community report figures
+* Code checking
+* Moving most files over to Box
+* FO paper review
+* Lab management tidy tuesday
+
+#### What did you struggle with?
+
+* Time management with the COCA report figures. I always struggle with making figures and seem to spend hours just going back and forth between RStudio and viewing the output. I should look for opportunities to streamline this process and also maybe retstrict the actual time I dedicate to making figures -- otherwise it can zap entire weeks. 
+
+#### What would you like to work on next week?
+
+* Lab management catch up (Tidy tuesday, FreedCamp, Git/GitHub weekly updates, slack channel)
+* COCA MS discussion read through
+* Joint Species Distribution Modeling work
+* Future air temperature work
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA Methods MS review, Lab management stuff (FreedCamp, GitandGitHub for weekly comments)
+
+#### Where do you need help from other lab members?
+
+* Tidy tuesday!
+* Check in on FreedCamp/Git and GitHub/Slack -- are folks using it? Why or why not? 
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+### Date: 17 May 2019
+
+#### Who did you help this week?
+
+I helped the lab go over a potential workflow that links Git/GitHub to RStudio Projects and GMRI's Box file management system. Everything *seems* to be working okay. 
+
+#### Who helped you this week?
+
+This week I got help from the other people in the lab reviewing the potential workflow. I got help from Andy and Kathy with longterm planning. Karen also helped me with setting up some folders on Box.
+
+#### What did you achieve?
+
+* Progress on COCA methods MS. I lost about a day of work after a random Microsoft Word crash and having to find the most recent drafts amidst an unformatted text file -- lesson learned. Only going to be writing with google docs from here on out. I have about three paragraphs left, but it's definitely ready for some other eyes on it.
+* COCA community report figures
+* Reviewed example vingette with lab members that shows how to work with Git/GitHub/RStudio/Box
+* Long-term strategizing with Kathy and Andy
+
+
+#### What did you struggle with?
+
+* Wait for it...writing and, specifically, the discussion of the COCA methods ms. I'm not sure why this is all too surprising, as I don't write that frequently. Moving forward, going to make time to practice writing at least a few times a week, rather than just waiting for a paper or proposal. I'd also really be interested in getting a writing workshop together to hear other people's approaches to writing.
+
+#### What would you like to work on next week?
+
+* COCA seasonality manuscript
+* Wrap up PD and long term planning stuff
+* Distribute vingette to other lab members for Git/Github/Rstudio/Box
+* Summer intern prep
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA Methods MS review, PD review, long term planning stuff, summer intern prep
+
+#### Where do you need help from other lab members?
+
+* More of the same help experimenting and finding solutions to lab software and workflow approaches as we all try to figure out how to work together as efficiently as possible.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 ### Date: 10 May 2019
 
 #### Who did you help this week?
