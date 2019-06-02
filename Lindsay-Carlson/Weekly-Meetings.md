@@ -3,8 +3,56 @@
 * [10 May 2019](#date-10-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [24 May 2019](#date-24-may-2019)
+* [31 May 2019](#date-31-may-2019)
 
 # Weekly Notes
+### Date: 31 May 2019
+
+#### Who did you help this week?
+
+I dug into the documentation for dplyr::nest() when Andrew was having difficulties with it. I didn't solve his problem, but I sure tried!  
+
+#### Who helped you this week?
+
+Andrew sent me some leading/trailing edge papers, and we talked a little about how you could define leading/trailing edges quantitatively. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* I finished loop to assign growth period/monthly growth increments.
+* Calculated "early growth" [growth rates](https://rpubs.com/lgcarlson/monthlygrowthlong).
+
+*Trawl*
+
+* Wrote loop to save the (many) species density plots to PDF, picked out the seemingly most interesting to [discuss with Kathy](https://docs.google.com/presentation/d/1LRz5f86rx5A9Pk98QLI72aoYjNMYzEVd4zivEsc8T0E/edit?usp=sharing).
+* Did more reading about leading/trailing edges. I still haven't found a paper that provides a quantitiative definition. The closest thing I found in the supplementary information of a meta-analysis by [Poloczanska et al. 2013](https://media.nature.com/original/nature-assets/nclimate/journal/v3/n10/extref/nclimate1958-s1.pdf):
+
+>We classified each observation as leading edge (n=111), trailing edge (n=106) or centre (n=105). Centre of distribution encompassed any observations that were not leading or trailing edge e.g. abundance centre, mean latitude of occurrence. Leading edges were not restricted to the poleward edge of a distribution but were taken as any section at the edge of the distribution where it is likely that distribution may be moderated by cooler waters beyond the distributional edge. For example, expansions of intertidal invertebrates eastwards along the English Channel towards the colder North Sea were classified as leading edge expansions. Similarly, equatorward range shifts of flatfish in the southern North Sea were also classified as leading edge as the species were previously excluded from these waters by cold winter temperatures. Conversely, trailing range edges were taken as locations where it is possible that distributions may be constrained by warmer temperatures beyond the range edge. Changes in range edges were calculated as the average of all observed shifts,  including no change observations.
+
+*Other*
+
+* Spent some time beginning to learn Shiny tools to prepare for our group coding session next week.
+
+
+#### What did you struggle with?
+
+* I struggled to find any description of how to define/calculate a leading/trailing edge. 
+
+#### What would you like to work on next week?
+
+* I need to figure out next steps for both salmon and trawl analyses. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges. This might be a good thing to loop in Andrew on.    
+
+#### Where do you need help from other lab members?
+
+* We had further discussion about workflow/files organization in the shared Box folders. I'm still not sure how the trawl/Pew project fits in to everything, so I might need some help figuring out the best home for that work. 
+------
+
+
 ### Date: 24 May 2019
 
 #### Who did you help this week?
@@ -22,7 +70,7 @@ Kathy generously picked up my IKEA furniture and brought it to Portland!
 * I used Kathy's code to calculate the center of biomass for each species, I rewrote some of the data wrangling steps using dplyr pipes rather than base
 * I created the [plots](http://rpubs.com/lgcarlson/trawledafigs) that Kathy and I discussed last week (biomass by latitude over decades, biomass weighted density by decade, and slope of center, leading, trailing edge)
 * I used these plots to visualize what different proportions of biomass would look like as leading/trailing edges
-* I read [Poloczanska et al. 2013](10.1038/nclimate1958), [Hampe et al. 2005](10.1111/j.1461-0248.2005.00739.x), [Knutsen et al. 2013](10.1371/journal.pone.0067492), [Woolbright et al. 2014](http://dx.doi.org/10.1016/j.tree.2014.05.003), [Sunday et al. 2012](10.1098/rspb.2010.1295), and [Haak et al. 2010](10.1577/1548-8446-35.11.530). None had useful descriptions/definitions of leading/trailing edges
+* I read [Poloczanska et al. 2013](https://doi.org/10.1038/nclimate1958), [Hampe et al. 2005](https://doi.org/10.1111/j.1461-0248.2005.00739.x), [Knutsen et al. 2013](https://doi.org/10.1371/journal.pone.0067492), [Woolbright et al. 2014](http://dx.doi.org/10.1016/j.tree.2014.05.003), [Sunday et al. 2012](https://doi.org/10.1098/rspb.2010.1295), and [Haak et al. 2010](https://doi.org/10.1577/1548-8446-35.11.530). None had useful descriptions/definitions of leading/trailing edges
 
 #### What did you struggle with?
 
@@ -41,7 +89,7 @@ Kathy generously picked up my IKEA furniture and brought it to Portland!
 #### Where do you need help from other lab members?
 
 * We had further discussion about workflow/files organization in the shared Box folders. I'm still not sure how the trawl/Pew project fits in to everything, so I might need some help figuring out the best home for that work. 
-
+------
 
 
 
@@ -80,7 +128,7 @@ Kathy and Tim helped me understand the salmon dataset better by taking some time
 #### Where do you need help from other lab members?
 
 * I am looking forward to collaborating on our Shiny project. 
-
+------
 
 
 
@@ -120,7 +168,7 @@ Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation
 #### Where do you need help from other lab members?
 
 * I don't necessarily need help from anyone, but I think I will do the function-writing Datacamp over the weekend or next week to improve my function skills. I wrote a few successful functions and loops this week, but I just couldn't figure out how to do one and reverted to the longhand approach. 
-
+------
 
 
 
