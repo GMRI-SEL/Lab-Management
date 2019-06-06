@@ -12,6 +12,10 @@
 
 This is an example of how you would do this on your own machine. Hopefully it works! Fill out your answers and then scroll down to the bottom of the page...
 
+*Here is where you could add comments. Right now, I think this would show up as italics. But we could do something else...slight departure while I figure out block quotes in markdown...*
+
+>Other option doing something like this?
+
 #### Who helped you this week?
 
 This week I got help from a couple of people on different tasks. Miguel/Lindsay/Matt/Brian all helped me try to figure out what was going on with a weird coding issue. Brian also helped me out making some figures for the community report.
