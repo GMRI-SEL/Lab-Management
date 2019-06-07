@@ -79,11 +79,13 @@ To use the code provided by David, again there are two options.
 >git remote -v
 
 and notice the only connections we have are to our fork/cloned copy of the data-screencasts repository.
+
 7. Go back to your GitHub account in the browser and at the top of the page you should see something like 
 *your name/data-screencasts*
 and below that you should see
 *forked from dgrtwo/data-screencasts*
 click on the *forked from dgrtwo/data-screencasts*
+
 8. Now, you should be on David's data-screencasts page. Go to the "Clone  or Download" button and copy the https link.
 9. Go back to the terminal, make sure you are in your data-screencasts folder and then type
 >git remote add upstream *paste the link you copied from step 8*
