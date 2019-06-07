@@ -33,6 +33,7 @@ and notice the only connections we have are to our fork/cloned copy of the Tidy 
 and below that you should see
 *forked from rfordatascience/tidytuesday*
 click on the *forked from rfordatascience/tidytuesday*
+
 8. Now, you should be on the R for Data Science Tidy Tuesday page. Go to the "Clone  or Download" button and copy the https link.
 9. Go back to the terminal, make sure you are in your tidy tuesday folder and then type
 >git remote add upstream *paste the link you copied from step 8*
