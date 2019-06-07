@@ -43,6 +43,7 @@ click on the *forked from rfordatascience/tidytuesday*
 >git remote -v
 
 And you should now see connections to the R for Data Science Tidy Tuesday account
+
 11. In the terminal, you can now pull these changes as
 >git pull upstream master --ff-only
 
@@ -95,6 +96,7 @@ click on the *forked from dgrtwo/data-screencasts*
 >git remote -v
 
 And you should now see connections to David's data-screencasts account
+
 11. In the terminal, you can now pull these changes as
 >git pull upstream master --ff-only
 
