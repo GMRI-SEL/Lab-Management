@@ -43,6 +43,7 @@ We will participate in the R for Data Science Tidy Tuesday effort to enhance our
 * Git/GitHub/RStudio [workflow](https://docs.google.com/presentation/d/1ghOk8L7cn1W1HNLOJ0282wT1FIZggFX5A2DlN3dERn4/edit?usp=sharing)
 
 ## Markdown
+* Lindsay's [Intro to markdown](https://github.com/LGCarlson/Lab-Markdown-Intro)
 * Comprehensive [Markdown Guide](https://www.markdownguide.org)
 * [Markdown cheat sheet](https://en.support.wordpress.com/markdown-quick-reference/)
 
