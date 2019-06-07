@@ -17,6 +17,7 @@ ramen_ratings <- readr::read_csv("https://raw.githubusercontent.com/rfordatascie
 5. Off you go! 
 
 *Option Two -- Fork/clone and establish upstream connection to the Tidy Tuesday repository*
+
 This is a bit more involved. However, it will likely make things a bit easier/more reproducible. Additionally, it will help increase our Git/GitHub skills and who doesn't want to do that?!
 
 1. Log in to your GitHub account
