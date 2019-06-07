@@ -40,7 +40,7 @@ We will participate in the R for Data Science Tidy Tuesday effort to enhance our
 
 ## Git and GitHub
 * Jenny Bryan's [Happy Git](https://happygitwithr.com)
-* Git/GitHub/RStudio workflow(https://docs.google.com/presentation/d/1ghOk8L7cn1W1HNLOJ0282wT1FIZggFX5A2DlN3dERn4/edit?usp=sharing)
+* Git/GitHub/RStudio [workflow](https://docs.google.com/presentation/d/1ghOk8L7cn1W1HNLOJ0282wT1FIZggFX5A2DlN3dERn4/edit?usp=sharing)
 
 ## Markdown
 * Comprehensive [Markdown Guide](https://www.markdownguide.org)
