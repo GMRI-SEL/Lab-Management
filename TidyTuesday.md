@@ -28,6 +28,7 @@ This is a bit more involved. However, it will likely make things a bit easier/mo
 >git remote -v
 
 and notice the only connections we have are to our fork/cloned copy of the Tidy Tuesday repository.
+
 7. Go back to your GitHub account in the browser and at the top of the page you should see something like 
 *your name/tidytuesday*
 and below that you should see
