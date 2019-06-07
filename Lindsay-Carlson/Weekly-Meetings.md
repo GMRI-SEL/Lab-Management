@@ -1,11 +1,64 @@
 ### 2019
+#### May
 * [3 May 2019](#date-03-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [24 May 2019](#date-24-may-2019)
 * [31 May 2019](#date-31-may-2019)
+#### June
+* [7 June 2019](#date-07-june-2019)
 
 # Weekly Notes
+
+### Date: 7 June 2019
+
+#### Who did you help this week?
+
+I updated my "Intro to Markdown" document to include examples from Tidy Tuesday and shared it with the quant group via slack. I also put it on [GitHub](https://github.com/LGCarlson/Lab-Markdown-Intro/blob/master/Tidy_Tuesday_Markdown_06042019.Rmd). This week at Tidy Tuesday, I was able to share my knowledge and hopefully help other lab members understand the tidyverse commands better.   
+
+#### Who helped you this week?
+
+Matt shared his Shiny code, and its really helpful to have a familiar working example like that.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Visualed time series of [monthly growth increment](https://rpubs.com/lgcarlson/monthlygrowthlong).
+* Broke growth down into "seasonal increments" and visualized those time series.
+* Used Carlin dataset to create figures similar to Fig 7 in [McCarthy, Friedland, and Hansen 2008](https://doi.org/10.1111/j.1095-8649.2008.01820.x). 
+
+*Trawl*
+
+* Investigated problem of extremely large biomass values for 1990s and 2000s/extermely low biomass for 2010s by creating histograms of tows per year, total biomass per year, biomass/tow per year. Found that tow per year is consistent until 2009, where it nearly doubles. Therefore, the number of tows is not skewing the 1990s/2000s biomass, but faulty biomass adjustment may be responsible for 2010s discrepancies. 
+* Plotted 90, 95, 99 percentile of [latitude distribution](https://rpubs.com/lgcarlson/trawledafigs) for each species. 
+
+*Other*
+
+* Completed vessel safety training and learned how to do survival suit formations! 
+* Tidy Tuesday for Ramen Data
+
+
+#### What did you struggle with?
+
+* Nothing specifically, just accomplishing all of the many things I hoped to get done with such a busy week of extracurriculars (intern meetings, vessel safety, quant group). 
+
+#### What would you like to work on next week?
+
+* As Kathy and I discussed in our meeting Wednesday, I will look at the relationship between salmon productivity/abundance and the monthly growth increments I calculated. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges. This might be a good thing to loop in Andrew on. 
+* Kathy is going to contact folks at NOAA about the concerning biomass trends in the trawl data. 
+
+#### Where do you need help from other lab members?
+
+* I would definitely like to keep Tidy Tuesday/Thursday going! 
+------
+
+
+
 ### Date: 31 May 2019
 
 #### Who did you help this week?
