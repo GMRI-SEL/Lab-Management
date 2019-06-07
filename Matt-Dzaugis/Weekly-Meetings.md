@@ -1,10 +1,54 @@
 ### 2019
 * [10 May 2019](#date-10-May-2019)
 * [17 May 2019](#date-17-May-2019)
+* [24 May 2019](#date-24-May-2019)
+* [31 May 2019](#date-31-May-2019)
+* [7 June 2019](#date-7-June-2019)
+
+# Weekly Notes
+### Date: 7 June 2019
+
+#### What did you achieve?
+
+* I learned about CMIP5 models and all the complexity that surrounds them
+* I read a lot on the best ways to create multimodel means and whether or not to use weighted model means 
+* I downloaded and averaged 31 CMIP5 models and created both spatial and time series plots to be used with the shad project
+
+#### What did you struggle with?
+
+* I struggled with doing batch downloading of netcdf files from a NASA server. It is not a Thredds server and is password protected so it has some added complexity.
+* I have downloaded some of the files individually but there are over 480 so individually is not the answer although works for the short term
+
+#### What would you like to work on next week?
+
+* I am going to continue figure out how to do a batch download. I am pretty much there but was jsut getting frustrated with minor errors so will tackel it again early next week
+
+#### Where do you need help from Kathy?
+
+At the moment I think I am good with what I have and will continue to chug along. I should have both RCP 4.5 and RCP 8.5 raster and timeseries files on hand as well as the NLDAS data on hand by the middle-end of next week
+
+# Weekly Notes
+### Date: 31 May 2019
+
+### I forgot to write a post this week, so this is what I remember
+
+* I learned about Shiny apps and how to code Shiny apps
+* I coded a Shiny app to utilitze the Buoy Anomaly function. The app is available here https://mdzaugis.shinyapps.io/Anomaly_App/
+
+# Weekly Notes
+### Date: 24 May 2019
+
+### I forgot to write a post this week, so this is what I remember
+
+* I contributed to the review of a FO paper
+* I read several other papers on lobster, specifically regarding degree days, and added to my annotated bibliography
+* I re-wrote the UpdateBuoy functions to run a lot faster. It cut the runtime down from ~30 min to ~1 minute.
+* I finished the Buoy Anomaly and stratification index function and incoorporated the new UpdateBuoy data format into those functions
+* I need to remember to add a new function that puts the UpdateBuoy data back into its original (matrix style) format in case other people want to use the old functions
+
 
 # Weekly Notes
 ### Date: 17 May 2019
-
 
 #### What did you achieve?
 
