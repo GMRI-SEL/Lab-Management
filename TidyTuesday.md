@@ -10,9 +10,10 @@ Before doing anything, double check that you have a recent version of R and RStu
 2. Click on the link for the data (third column) and this will bring you to a new webpage. 
 3. Copy the code chuck right below "Get the data!". For example, the ramen ratings dataset would be *ramen_ratings <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv")*
 4. Open up R Studio and a new script. At the top of your script (and after installing the tidyverse package) type
->library(tidyverse)
->ramen_ratings <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv")
-
+```{r}
+library(tidyverse)
+ramen_ratings <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv")
+```
 5. Off you go! 
 
 *Option Two -- Fork/clone and establish upstream connection to the Tidy Tuesday repository*
