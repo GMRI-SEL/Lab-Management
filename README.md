@@ -89,7 +89,7 @@ and then
 >git push 
 
 11. After pulling and pushing any changes, go to your GItHub account and your forked copy of the Lab-Management repository. Check out your markdown file for any of Kathy's comments and also feel free to look at other member's Weekly-Meetings.md files to see what everyone else in the lab has been up to!
-12. **Finally, see Andrew when these instructions inevitably do not work**
+12. **Finally, see Andrew when these instructions inevitably do not work!!**
 
 ## Group lab meetings
 Lab meetings are scheduled for every other Wednesday from 1:00 - 2:00. For the late/spring summer, we will have lab meetings on 4/24, 5/8, 5/22, 6/5, 6/19, 7/3, 7/17, 7/31, 8/14, 8/28 in the Boulos (second floor) conference room. Andrew will send out a meeting reminder the morning of, which will also include information if you need to use zoom to connect remotely.
