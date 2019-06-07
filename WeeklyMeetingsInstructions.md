@@ -1,5 +1,5 @@
 # Weekly Meetings Instructions
-We will use Git/GitHub to keep everyone up to date and support lab collaboration following 
+We will use Git/GitHub to keep everyone up to date and support lab collaboration following [Kristie Whitaker's weekly meetings template](https://github.com/WhitakerLab/Onboarding).
 
 # Instructions
 ## Initial set up: Fork/Clone and set up upstream connection to the GMRI-SEL Lab-Management repo
