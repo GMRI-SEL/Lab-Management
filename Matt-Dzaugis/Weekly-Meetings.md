@@ -1,9 +1,35 @@
 ### 2019
+
+* [14 June 2019](#date-7-June-2019)
+* [7 June 2019](#date-7-June-2019)
 * [10 May 2019](#date-10-May-2019)
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
-* [7 June 2019](#date-7-June-2019)
+
+# Weekly Notes
+### Date: 14 June 2019
+
+#### What did you achieve?
+
+* I figured out how to use the function wget in terminal to recursively download all of the pw protected links in a text file and combine the individual netcdf files into a single file in r
+  + This worked great for the 480 monthly averaged netcdf files but will not work for the 354,000+ hourly values
+* With help from Alex, I was able to use a Python script to subset and download data from a DAP server that was pw protected 
+  + There does look to be a way to do this from R but I had issues using the rJava funcitons 
+* I requested the RCP4.5 and RCP8.5 LOCA data for both min and max temperature and received those datafiles
+
+#### What did you struggle with?
+
+* It took awhile to come up with a method to subset and download the data that didn't take 60 hours. Even though the files were only 80kb there were so many it took forever
+
+#### What would you like to work on next week?
+
+* I am going to continue with the shad project
+  + create a daily average from the hourly observational data
+  + create a daily mean projection from the min temp and max temp LOCA projections
+  + compare LOCA with observation
+  + compare LOCA and observation with the river gage data
+
 
 # Weekly Notes
 ### Date: 7 June 2019
