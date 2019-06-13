@@ -2,40 +2,41 @@
 * [29 April 2019](#date-29-april-2019)
 
 # Weekly Notes
-### Date: 29 April 2019
+### Date: 13 June 2019 
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+I helped Graham, another REU intern, with ideas on his proposal and how to format it. 
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+Who didn't help me this week? Lindsay showed me Github, gave me R cheat sheets. Matt gave me the R scripts I'll be using for my research. 
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Completed research proposal with timeline 
+* Got R scripts 
+* Did most of my preliminary research for my project 
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Technical writing in my proposal 
+* Worried about catching on with R quickly enough 
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Finish R training program 
+* Process CPR data through R, try to see patterns
+
 
 #### Where do you need help from Kathy?
 
-* Replace this text with a bullet point list of what you need help from Kathy on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Nothing as of now, probably R things later 
 
 #### Where do you need help from other lab members?
 
+* R and tidyverse after I process this data set 
+
 #### Any other topics
 
-This space is yours to add to as needed.
+* Everyone has been so entirely welcoming, thank you! 
