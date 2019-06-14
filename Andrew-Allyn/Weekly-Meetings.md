@@ -1,52 +1,49 @@
 ### 2019
-* [6 June 2019](#date-6-june-2019)
+* [7 June 2019](#date-7-june-2019)
 * [31 May 2019](#date-31-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
-### Date: 6 June 2019
+### Date: 7 June 2019
 
 #### Who did you help this week?
 
-This is an example of how you would do this on your own machine. Hopefully it works! Fill out your answers and then scroll down to the bottom of the page...
-
-*Here is where you could add comments. Right now, I think this would show up as italics. But we could do something else...slight departure while I figure out block quotes in markdown...*
-
->Other option doing something like this?
+This week I helped (or hopefully helped!) out the lab and Tidy Tuesday group get going, and helped out Leigh by participating in first screening of Learning Researcher candidates, which was really fun. 
 
 #### Who helped you this week?
 
-This week I got help from a couple of people on different tasks. Miguel/Lindsay/Matt/Brian all helped me try to figure out what was going on with a weird coding issue. Brian also helped me out making some figures for the community report.
+Everyone! A really fun week in the lab this week. Everybody was incredibly helpful during lab meeting and especially during the first Tidy Tuesday session as we all worked through things together. I also got some help from the lab on how to best go about calculating percent changes when dealing with seasonal projections. 
 
 #### What did you achieve?
 
-* COCA Stonington community report figures
-* Code checking
-* Moving most files over to Box
-* FO paper review
-* Lab management tidy tuesday
+* Finished up COCA Stonington report figs and edited report code
+* Finished FO review with Kathy and Matt
+* Completed initial plots for Kathy and shelfwide assessment paper
+* Some preliminary work reviewing ME SeaGrant and NASA proposals, outlining objectives, data sources and analysis first steps
+* Beginning shad work gathering rivers shapefile and reading about air-river models
+* Lab management stuff: updated welcome page, added instructions for using these weekly meeting updates and instructions to get going with Tidy Tuesday
 
 #### What did you struggle with?
 
-* Time management with the COCA report figures. I always struggle with making figures and seem to spend hours just going back and forth between RStudio and viewing the output. I should look for opportunities to streamline this process and also maybe retstrict the actual time I dedicate to making figures -- otherwise it can zap entire weeks. 
+* Writing. I really need to just block off this time and not let myself code through the writing time I do have scheduled. I didn't have a lot of writing to do, but was hoping to give the COCA methods paper another run through.
 
 #### What would you like to work on next week?
 
-* Lab management catch up (Tidy tuesday, FreedCamp, Git/GitHub weekly updates, slack channel)
-* COCA MS discussion read through
-* Joint Species Distribution Modeling work
-* Future air temperature work
+Next week looks like it will be a bit of a schmorgasboard:
+* COCA MS discussion read through and "seasonality" check in
+* American shad work with Kathy/Matt/Miguel
+* Joint Species Distribution Modeling work -- see GitHub readme
+* NASA UNSDG work -- see GitHub readme
 
 #### Where do you need help from Kathy?
 
-* Next week: COCA Methods MS review, Lab management stuff (FreedCamp, GitandGitHub for weekly comments)
+* Next week: COCA Methods MS review
 
 #### Where do you need help from other lab members?
 
-* Tidy tuesday!
-* Check in on FreedCamp/Git and GitHub/Slack -- are folks using it? Why or why not? 
+* Keep the momentum going with Tidy Tuesday!
 
 #### Any other topics
 
