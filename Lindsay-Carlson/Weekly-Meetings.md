@@ -26,14 +26,14 @@ Mike initiated a "salmon" meeting to discuss similarities among our datasets, ou
 *Salmon*
 
 * Calculated the "actual" dates for monthly growth increments. Now we can tie "Month 3 at sea" to a specific date (and potentially approximate location. This will be important when pulling in environmental variables. 
-* I looked at the (correlation between productivity/abundance estimates)[http://rpubs.com/lgcarlson/monthlygrowthcorrelation] and monthly growth increments over time. Unfortunately, these datasets only overlap by 14 years.
+* I looked at the [correlation between productivity/abundance estimates](http://rpubs.com/lgcarlson/monthlygrowthcorrelation) and monthly growth increments over time. Unfortunately, these datasets only overlap by 14 years.
 * I learned how to use the "psycho" package to quickly standardize num vars.
 * I learned how to use fuzzyjoin::fuzzyjoin() and tibble::tribble() to easily create new cat vars.
 
 *Trawl*
 
-*  Calculated and visualed (potential leading/trailing edges)[http://rpubs.com/lgcarlson/trawledafigs] when considering 1%, 5%, and 10% of biomass as "edge."
-* Calculated latidunal (differences)[http://rpubs.com/lgcarlson/trawlleadtraileda] between 1%, 5%, and 10% "edges". 
+*  Calculated and visualed [potential leading/trailing edges](http://rpubs.com/lgcarlson/trawledafigs) when considering 1%, 5%, and 10% of biomass as "edge."
+* Calculated latidunal [differences](http://rpubs.com/lgcarlson/trawlleadtraileda) between 1%, 5%, and 10% "edges". 
 
 
 #### What did you struggle with?
