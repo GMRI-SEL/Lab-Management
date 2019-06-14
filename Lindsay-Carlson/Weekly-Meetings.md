@@ -1,11 +1,110 @@
 ### 2019
+#### May
 * [3 May 2019](#date-03-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [24 May 2019](#date-24-may-2019)
 * [31 May 2019](#date-31-may-2019)
+#### June
+* [7 June 2019](#date-07-june-2019)
+* [14 June 2019](#date-14-june-2019)
 
 # Weekly Notes
+
+### Date: 14 June 2019
+
+#### Who did you help this week?
+ 
+I organized this week's Tidy Tuesday and showed Allison how to access the Lab Management GitHub and edit her "Weekly-Meetings.md" file. 
+
+#### Who helped you this week?
+ 
+Mike initiated a "salmon" meeting to discuss similarities among our datasets, our project goals, and methods we should keep consistent among analyses. It was nice to all sit down together, brainstorm, and make sure we're on the same page.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Calculated the "actual" dates for monthly growth increments. Now we can tie "Month 3 at sea" to a specific date (and potentially approximate location. This will be important when pulling in environmental variables. 
+* I looked at the [correlation between productivity/abundance estimates](http://rpubs.com/lgcarlson/monthlygrowthcorrelation) and monthly growth increments over time. Unfortunately, these datasets only overlap by 14 years.
+* I learned how to use the "psycho" package to quickly standardize num vars.
+* I learned how to use fuzzyjoin::fuzzyjoin() and tibble::tribble() to easily create new cat vars.
+
+*Trawl*
+
+*  Calculated and visualed [potential leading/trailing edges](http://rpubs.com/lgcarlson/trawledafigs) when considering 1%, 5%, and 10% of biomass as "edge."
+* Calculated latidunal [differences](http://rpubs.com/lgcarlson/trawlleadtraileda) between 1%, 5%, and 10% "edges". 
+
+
+#### What did you struggle with?
+
+* Realized that trends in trawl dataset wasn't making sense because it needed cleaning pre-analysis.
+
+#### What would you like to work on next week?
+
+* I will acquire SST data for salmon "areas of interest" and look for salinity/density data from Station 27 and any other sources. 
+* I will evaluate correlation between SST and zooplankton model. 
+* I will prepare for Intro to Tidyverse mini-workshop.
+
+#### Where do you need help from Kathy?
+
+*  Kathy was going to send me the data cleaning code for the trawl data. 
+
+#### Where do you need help from other lab members?
+
+*  Miguel graciously offered to translate some tidy code to its "base" equivalent, and I definitely will take him up on that!
+
+------
+
+### Date: 7 June 2019
+
+#### Who did you help this week?
+
+I updated my "Intro to Markdown" document to include examples from Tidy Tuesday and shared it with the quant group via slack. I also put it on [GitHub](https://github.com/LGCarlson/Lab-Markdown-Intro/blob/master/Tidy_Tuesday_Markdown_06042019.Rmd). This week at Tidy Tuesday, I was able to share my knowledge and hopefully help other lab members understand the tidyverse commands better.   
+
+#### Who helped you this week?
+
+Matt shared his Shiny code, and its really helpful to have a familiar working example like that.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Visualed time series of [monthly growth increment](https://rpubs.com/lgcarlson/monthlygrowthlong).
+* Broke growth down into "seasonal increments" and visualized those time series.
+* Used Carlin dataset to create figures similar to Fig 7 in [McCarthy, Friedland, and Hansen 2008](https://doi.org/10.1111/j.1095-8649.2008.01820.x). 
+
+*Trawl*
+
+* Investigated problem of extremely large biomass values for 1990s and 2000s/extermely low biomass for 2010s by creating histograms of tows per year, total biomass per year, biomass/tow per year. Found that tow per year is consistent until 2009, where it nearly doubles. Therefore, the number of tows is not skewing the 1990s/2000s biomass, but faulty biomass adjustment may be responsible for 2010s discrepancies. 
+* Plotted 90, 95, 99 percentile of [latitude distribution](https://rpubs.com/lgcarlson/trawledafigs) for each species. 
+
+*Other*
+
+* Completed vessel safety training and learned how to do survival suit formations! 
+* Tidy Tuesday for Ramen Data
+
+
+#### What did you struggle with?
+
+* Nothing specifically, just accomplishing all of the many things I hoped to get done with such a busy week of extracurriculars (intern meetings, vessel safety, quant group). 
+
+#### What would you like to work on next week?
+
+* As Kathy and I discussed in our meeting Wednesday, I will look at the relationship between salmon productivity/abundance and the monthly growth increments I calculated. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges. This might be a good thing to loop in Andrew on. 
+* Kathy is going to contact folks at NOAA about the concerning biomass trends in the trawl data. 
+
+#### Where do you need help from other lab members?
+
+* I would definitely like to keep Tidy Tuesday/Thursday going! 
+------
+
+
+
 ### Date: 31 May 2019
 
 #### Who did you help this week?
