@@ -17,6 +17,15 @@
 * With help from Alex, I was able to use a Python script to subset and download data from a DAP server that was pw protected 
   + There does look to be a way to do this from R but I had issues using the rJava funcitons 
 * I requested the RCP4.5 and RCP8.5 LOCA data for both min and max temperature and received those datafiles
+  + wrote a R code to get the 32 model mean and combine min and max into a daily average
+* I have compiled all of the data in R scripts 
+  + Middle Haddam RCP 4.5 model mean
+  + Middle Haddam RCP 8.5 model mean
+  + Thomsonville RCP 4.5 model mean
+  + Thompsonville RCP 8.5 model mean
+  + Middle Haddam NLDAS observation - daily means
+  + Thompsonville NLDAS observations - daily means
+  + Middle Haddam and Thompsonville gage river temp observations
 
 #### What did you struggle with?
 
