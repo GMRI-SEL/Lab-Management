@@ -7,8 +7,54 @@
 * [31 May 2019](#date-31-may-2019)
 #### June
 * [7 June 2019](#date-07-june-2019)
+* [14 June 2019](#date-14-june-2019)
 
 # Weekly Notes
+
+### Date: 14 June 2019
+
+#### Who did you help this week?
+ 
+I organized this week's Tidy Tuesday and showed Allison how to access the Lab Management GitHub and edit her "Weekly-Meetings.md" file. 
+
+#### Who helped you this week?
+ 
+Mike initiated a "salmon" meeting to discuss similarities among our datasets, our project goals, and methods we should keep consistent among analyses. It was nice to all sit down together, brainstorm, and make sure we're on the same page.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Calculated the "actual" dates for monthly growth increments. Now we can tie "Month 3 at sea" to a specific date (and potentially approximate location. This will be important when pulling in environmental variables. 
+* I looked at the (correlation between productivity/abundance estimates)[http://rpubs.com/lgcarlson/monthlygrowthcorrelation] and monthly growth increments over time. Unfortunately, these datasets only overlap by 14 years.
+* I learned how to use the "psycho" package to quickly standardize num vars.
+* I learned how to use fuzzyjoin::fuzzyjoin() and tibble::tribble() to easily create new cat vars.
+
+*Trawl*
+
+*  Calculated and visualed (potential leading/trailing edges)[http://rpubs.com/lgcarlson/trawledafigs] when considering 1%, 5%, and 10% of biomass as "edge."
+* Calculated latidunal (differences)[http://rpubs.com/lgcarlson/trawlleadtraileda] between 1%, 5%, and 10% "edges". 
+
+
+#### What did you struggle with?
+
+* Realized that trends in trawl dataset wasn't making sense because it needed cleaning pre-analysis.
+
+#### What would you like to work on next week?
+
+* I will acquire SST data for salmon "areas of interest" and look for salinity/density data from Station 27 and any other sources. 
+* I will evaluate correlation between SST and zooplankton model. 
+* I will prepare for Intro to Tidyverse mini-workshop.
+
+#### Where do you need help from Kathy?
+
+*  Kathy was going to send me the data cleaning code for the trawl data. 
+
+#### Where do you need help from other lab members?
+
+*  Miguel graciously offered to translate some tidy code to its "base" equivalent, and I definitely will take him up on that!
+
+------
 
 ### Date: 7 June 2019
 
