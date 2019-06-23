@@ -1,4 +1,5 @@
 ### 2019
+* [14 June 2019](#date-14-june-2019)
 * [7 June 2019](#date-7-june-2019)
 * [31 May 2019](#date-31-may-2019)
 * [17 May 2019](#date-17-may-2019)
@@ -6,6 +7,43 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 14 June 2019
+
+#### Who did you help this week?
+
+This week I provided a basic guide to spatial data manipulation and operations to the quant group -- mainly for Kyle and Allison (REUs) after hearing they will be doing some spatial data analysis. I also helped Leigh and participated in the final learning researcher interview. Finally, I provided a video to Andy about how I work with Git/GitHub/RStudio as he begins to migrate from Matlab to R.
+
+#### Who helped you this week?
+
+This week Lindsay, Miguel and Kenae kept the TidyTuesday on a Thursday rolling, which was awesome! I also got help from Lindsay as I referred to her RMarkdown guide while making the spatial data manipulaiton/operations guide. 
+
+#### What did you achieve?
+
+* Shad project work, including getting some basic maps together additional spatial data layers we might need (jurisdictional boundaries, rivers, lakes), downloading the CMIP5 RCP85 sst projections files
+* Some work for Kathy and her shelfwide analysis, including some data manipulation and map making
+* Lab management stuff: Added new spatial data vingette, wrote a function to automatically establish paths to shared folders inside the Mills Lab and outside the Mills Lab
+
+#### What did you struggle with?
+
+* Climate data. I had spent some time working on a climate data function that would generate URLs to THREDDS servers, establish a connection to the netcdf file, and then extract the data for a specific region of interest. Of course, when I went to implement this across all ~20 models, it failed. Despite testing it on a few different sources when I originally made it, I ran into models that required authorization, or that had completely unique THREDDS URL paths. So, I just downloaded these things manually.
+* Coding time completely engulfed any writing time again.
+
+#### What would you like to work on next week?
+
+Next week:
+* Focused writing time COCA MS discussion read through and "seasonality" check in
+* American shad work: get climate data cropped and aggreagated, meet with Miguel and Matt to discuss next steps
+* Joint Species Distribution Modeling work -- see GitHub readme
+* NASA UNSDG work -- see GitHub readme
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA Methods MS review
+
+#### Where do you need help from other lab members?
+
+* Next week, may really try to get the entire lab to upload a weekly meetings update. Seems like a good time with Kathy away.
+
 ### Date: 7 June 2019
 
 #### Who did you help this week?
