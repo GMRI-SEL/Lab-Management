@@ -8,8 +8,57 @@
 #### June
 * [7 June 2019](#date-07-june-2019)
 * [14 June 2019](#date-14-june-2019)
+* [21 June 2019](#date-21-june-2019)
 
 # Weekly Notes
+
+### Date: 21 June 2019
+
+#### Who did you help this week?
+ 
+I put together the "Intro to Tidyverse workshop" and wrote a code to work through as a group.
+
+#### Who helped you this week?
+ 
+Miguel helped me translate some tidy code to base code. He also updated the ERSST code for me!
+
+#### What did you achieve?
+
+*Salmon*
+
+* I located the [Station 27](https://rpubs.com/lgcarlson/station27data) data that Kathy and I talked about last week. Despite the funny file format, I was able to pull this data and begin working with it. It contains temperature measurements at multiple depths as well as salinity and density. 
+* I got the ERSST data from Miguel and began looking at that as well. 
+
+*Trawl*
+
+*  Did some reading and created visualizations to better understand the [sampling design](https://rpubs.com/lgcarlson/trawlsummary). Worked on cleaning data. 
+
+*Other*
+
+* Put together the [Intro to Tidyverse](https://rpubs.com/lgcarlson/tidyverseminiworkshop) workshop and GitHub repository.
+
+
+#### What did you struggle with?
+
+* I am not 100% sure what the best method for incorporating the temperature/etc data. 
+
+#### What would you like to work on next week?
+
+* Creating individual "environmental profiles" that each fish likely experienced. 
+
+* Further work on cleaning trawl data. 
+
+
+#### Where do you need help from Kathy?
+
+*  It would be great to meet again before Kathy is on vacation. 
+
+#### Where do you need help from other lab members?
+
+*  I think it would be a good idea plan our next quant group meeting. 
+
+------
+
 
 ### Date: 14 June 2019
 
