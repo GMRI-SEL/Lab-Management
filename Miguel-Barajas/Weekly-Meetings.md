@@ -1,5 +1,6 @@
 ### 2019
 * [25 June 2019](#date-25-june-2019)
+* [29 April 2019](#date-29-april-2019)
 
 # Weekly Notes
 ### Date: 25 June 2019
@@ -39,8 +40,6 @@ Replace this text with a one/two sentence description of who helped you this wee
 #### Any other topics
 
 This space is yours to add to as needed.
-
-* [29 April 2019](#date-29-april-2019)
 
 ### Date: 29 April 2019
 
