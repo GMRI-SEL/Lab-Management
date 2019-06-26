@@ -1,7 +1,325 @@
 ### 2019
+#### May
 * [3 May 2019](#date-03-may-2019)
+* [10 May 2019](#date-10-may-2019)
+* [17 May 2019](#date-17-may-2019)
+* [24 May 2019](#date-24-may-2019)
+* [31 May 2019](#date-31-may-2019)
+#### June
+* [7 June 2019](#date-07-june-2019)
+* [14 June 2019](#date-14-june-2019)
+* [21 June 2019](#date-21-june-2019)
 
 # Weekly Notes
+
+### Date: 21 June 2019
+
+#### Who did you help this week?
+ 
+I put together the "Intro to Tidyverse workshop" and wrote a code to work through as a group.
+
+#### Who helped you this week?
+ 
+Miguel helped me translate some tidy code to base code. He also updated the ERSST code for me!
+
+#### What did you achieve?
+
+*Salmon*
+
+* I located the [Station 27](https://rpubs.com/lgcarlson/station27data) data that Kathy and I talked about last week. Despite the funny file format, I was able to pull this data and begin working with it. It contains temperature measurements at multiple depths as well as salinity and density. 
+* I got the ERSST data from Miguel and began looking at that as well. 
+
+*Trawl*
+
+*  Did some reading and created visualizations to better understand the [sampling design](https://rpubs.com/lgcarlson/trawlsummary). Worked on cleaning data. 
+
+*Other*
+
+* Put together the [Intro to Tidyverse](https://rpubs.com/lgcarlson/tidyverseminiworkshop) workshop and GitHub repository.
+
+
+#### What did you struggle with?
+
+* I am not 100% sure what the best method for incorporating the temperature/etc data. 
+
+#### What would you like to work on next week?
+
+* Creating individual "environmental profiles" that each fish likely experienced. 
+
+* Further work on cleaning trawl data. 
+
+
+#### Where do you need help from Kathy?
+
+*  It would be great to meet again before Kathy is on vacation. 
+
+#### Where do you need help from other lab members?
+
+*  I think it would be a good idea plan our next quant group meeting. 
+
+------
+
+
+### Date: 14 June 2019
+
+#### Who did you help this week?
+ 
+I organized this week's Tidy Tuesday and showed Allison how to access the Lab Management GitHub and edit her "Weekly-Meetings.md" file. 
+
+#### Who helped you this week?
+ 
+Mike initiated a "salmon" meeting to discuss similarities among our datasets, our project goals, and methods we should keep consistent among analyses. It was nice to all sit down together, brainstorm, and make sure we're on the same page.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Calculated the "actual" dates for monthly growth increments. Now we can tie "Month 3 at sea" to a specific date (and potentially approximate location. This will be important when pulling in environmental variables. 
+* I looked at the [correlation between productivity/abundance estimates](http://rpubs.com/lgcarlson/monthlygrowthcorrelation) and monthly growth increments over time. Unfortunately, these datasets only overlap by 14 years.
+* I learned how to use the "psycho" package to quickly standardize num vars.
+* I learned how to use fuzzyjoin::fuzzyjoin() and tibble::tribble() to easily create new cat vars.
+
+*Trawl*
+
+*  Calculated and visualed [potential leading/trailing edges](http://rpubs.com/lgcarlson/trawledafigs) when considering 1%, 5%, and 10% of biomass as "edge."
+* Calculated latidunal [differences](http://rpubs.com/lgcarlson/trawlleadtraileda) between 1%, 5%, and 10% "edges". 
+
+
+#### What did you struggle with?
+
+* Realized that trends in trawl dataset wasn't making sense because it needed cleaning pre-analysis.
+
+#### What would you like to work on next week?
+
+* I will acquire SST data for salmon "areas of interest" and look for salinity/density data from Station 27 and any other sources. 
+* I will evaluate correlation between SST and zooplankton model. 
+* I will prepare for Intro to Tidyverse mini-workshop.
+
+#### Where do you need help from Kathy?
+
+*  Kathy was going to send me the data cleaning code for the trawl data. 
+
+#### Where do you need help from other lab members?
+
+*  Miguel graciously offered to translate some tidy code to its "base" equivalent, and I definitely will take him up on that!
+
+------
+
+### Date: 7 June 2019
+
+#### Who did you help this week?
+
+I updated my "Intro to Markdown" document to include examples from Tidy Tuesday and shared it with the quant group via slack. I also put it on [GitHub](https://github.com/LGCarlson/Lab-Markdown-Intro/blob/master/Tidy_Tuesday_Markdown_06042019.Rmd). This week at Tidy Tuesday, I was able to share my knowledge and hopefully help other lab members understand the tidyverse commands better.   
+
+#### Who helped you this week?
+
+Matt shared his Shiny code, and its really helpful to have a familiar working example like that.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Visualed time series of [monthly growth increment](https://rpubs.com/lgcarlson/monthlygrowthlong).
+* Broke growth down into "seasonal increments" and visualized those time series.
+* Used Carlin dataset to create figures similar to Fig 7 in [McCarthy, Friedland, and Hansen 2008](https://doi.org/10.1111/j.1095-8649.2008.01820.x). 
+
+*Trawl*
+
+* Investigated problem of extremely large biomass values for 1990s and 2000s/extermely low biomass for 2010s by creating histograms of tows per year, total biomass per year, biomass/tow per year. Found that tow per year is consistent until 2009, where it nearly doubles. Therefore, the number of tows is not skewing the 1990s/2000s biomass, but faulty biomass adjustment may be responsible for 2010s discrepancies. 
+* Plotted 90, 95, 99 percentile of [latitude distribution](https://rpubs.com/lgcarlson/trawledafigs) for each species. 
+
+*Other*
+
+* Completed vessel safety training and learned how to do survival suit formations! 
+* Tidy Tuesday for Ramen Data
+
+
+#### What did you struggle with?
+
+* Nothing specifically, just accomplishing all of the many things I hoped to get done with such a busy week of extracurriculars (intern meetings, vessel safety, quant group). 
+
+#### What would you like to work on next week?
+
+* As Kathy and I discussed in our meeting Wednesday, I will look at the relationship between salmon productivity/abundance and the monthly growth increments I calculated. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges. This might be a good thing to loop in Andrew on. 
+* Kathy is going to contact folks at NOAA about the concerning biomass trends in the trawl data. 
+
+#### Where do you need help from other lab members?
+
+* I would definitely like to keep Tidy Tuesday/Thursday going! 
+------
+
+
+
+### Date: 31 May 2019
+
+#### Who did you help this week?
+
+I dug into the documentation for dplyr::nest() when Andrew was having difficulties with it. I didn't solve his problem, but I sure tried!  
+
+#### Who helped you this week?
+
+Andrew sent me some leading/trailing edge papers, and we talked a little about how you could define leading/trailing edges quantitatively. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* I finished loop to assign growth period/monthly growth increments.
+* Calculated "early growth" [growth rates](https://rpubs.com/lgcarlson/monthlygrowthlong).
+
+*Trawl*
+
+* Wrote loop to save the (many) species density plots to PDF, picked out the seemingly most interesting to [discuss with Kathy](https://docs.google.com/presentation/d/1LRz5f86rx5A9Pk98QLI72aoYjNMYzEVd4zivEsc8T0E/edit?usp=sharing).
+* Did more reading about leading/trailing edges. I still haven't found a paper that provides a quantitiative definition. The closest thing I found in the supplementary information of a meta-analysis by [Poloczanska et al. 2013](https://media.nature.com/original/nature-assets/nclimate/journal/v3/n10/extref/nclimate1958-s1.pdf):
+
+>We classified each observation as leading edge (n=111), trailing edge (n=106) or centre (n=105). Centre of distribution encompassed any observations that were not leading or trailing edge e.g. abundance centre, mean latitude of occurrence. Leading edges were not restricted to the poleward edge of a distribution but were taken as any section at the edge of the distribution where it is likely that distribution may be moderated by cooler waters beyond the distributional edge. For example, expansions of intertidal invertebrates eastwards along the English Channel towards the colder North Sea were classified as leading edge expansions. Similarly, equatorward range shifts of flatfish in the southern North Sea were also classified as leading edge as the species were previously excluded from these waters by cold winter temperatures. Conversely, trailing range edges were taken as locations where it is possible that distributions may be constrained by warmer temperatures beyond the range edge. Changes in range edges were calculated as the average of all observed shifts,  including no change observations.
+
+*Other*
+
+* Spent some time beginning to learn Shiny tools to prepare for our group coding session next week.
+
+
+#### What did you struggle with?
+
+* I struggled to find any description of how to define/calculate a leading/trailing edge. 
+
+#### What would you like to work on next week?
+
+* I need to figure out next steps for both salmon and trawl analyses. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges. This might be a good thing to loop in Andrew on.    
+
+#### Where do you need help from other lab members?
+
+* We had further discussion about workflow/files organization in the shared Box folders. I'm still not sure how the trawl/Pew project fits in to everything, so I might need some help figuring out the best home for that work. 
+------
+
+
+### Date: 24 May 2019
+
+#### Who did you help this week?
+
+I put together a RMarkdown "how to" document and example and put it on GitHub so everyone can access it easily. 
+
+#### Who helped you this week?
+
+Miguel and I had a really good discussion about the zooplankton dataset we are working to incorporate into the salmon work. 
+Kathy generously picked up my IKEA furniture and brought it to Portland! 
+
+#### What did you achieve?
+
+* I worked on code to assign growth increment values to each month using monthly growth models I wrote last week. 
+* I used Kathy's code to calculate the center of biomass for each species, I rewrote some of the data wrangling steps using dplyr pipes rather than base
+* I created the [plots](http://rpubs.com/lgcarlson/trawledafigs) that Kathy and I discussed last week (biomass by latitude over decades, biomass weighted density by decade, and slope of center, leading, trailing edge)
+* I used these plots to visualize what different proportions of biomass would look like as leading/trailing edges
+* I read [Poloczanska et al. 2013](https://doi.org/10.1038/nclimate1958), [Hampe et al. 2005](https://doi.org/10.1111/j.1461-0248.2005.00739.x), [Knutsen et al. 2013](https://doi.org/10.1371/journal.pone.0067492), [Woolbright et al. 2014](http://dx.doi.org/10.1016/j.tree.2014.05.003), [Sunday et al. 2012](https://doi.org/10.1098/rspb.2010.1295), and [Haak et al. 2010](https://doi.org/10.1577/1548-8446-35.11.530). None had useful descriptions/definitions of leading/trailing edges
+
+#### What did you struggle with?
+
+* I struggled to find any description of how to define/calculate a leading/trailing edge. 
+* I got stuck on the loop to assign monthly growth increment values. 
+
+#### What would you like to work on next week?
+
+* I will go back and try to finish the growth increment assignment loop. 
+* I will continue to explore the leading/trailing edge literature to get a better understanding of how these are defined. 
+
+#### Where do you need help from Kathy?
+
+* It will be good to reconvene and discuss defining leading/trailing edges.   
+
+#### Where do you need help from other lab members?
+
+* We had further discussion about workflow/files organization in the shared Box folders. I'm still not sure how the trawl/Pew project fits in to everything, so I might need some help figuring out the best home for that work. 
+------
+
+
+
+
+### Date: 17 May 2019
+
+#### Who did you help this week?
+
+I found a conflict between the "here" and "lubridate" packages and posted the solution on the lab Slack page so other people can avoid it.
+
+#### Who helped you this week?
+
+Kathy and Tim helped me understand the salmon dataset better by taking some time to answer some of the big questions about it. Andrew suggested a Wednesday meeting, and we all brainstormed some good ideas to better integrate Box and a Git workflow, as well as longer-term goals and projects we want to work together on. 
+
+#### What did you achieve?
+
+* I wrote code to calculate monthly growth increments based on methods decribed by Todd et al. 2013 in a paper titled [A simple method of dating marine growth circuli on scales of wild one sea-winter and two-sea winter Atlantic salmon](https://www.nrcresearchpress.com/doi/10.1139/cjfas-2013-0359#.XN8CzchKi70).
+* I created [glms](http://rpubs.com/lgcarlson/growthincrementglm) to better understand the effect of some of the cat vars on first year increments (age, state, season, etc).
+* I compiled lists of missing data in Carlin dataset for Tim.
+* I set up Git on a new computer and made it talk to R successfully!
+* I wrote lots of loops, used some if/else statements, and improved my function writing/understanding substantially!
+
+#### What did you struggle with?
+
+* I struggled for a while on Friday to conceptualize a nested loop I thought I needed for the monthly growth calculation. I figured out the nested loop, but in the processed realized there was a much less verbose method. 
+
+#### What would you like to work on next week?
+
+* I will finish the monthly growth increment calculations.
+* I will work on the trawl EDA Kathy and I discussed during our meeting on Friday.
+
+#### Where do you need help from Kathy?
+
+* I think we are all set for a while after our Friday meeting! 
+
+#### Where do you need help from other lab members?
+
+* I am looking forward to collaborating on our Shiny project. 
+------
+
+
+
+
+### Date: 10 May 2019
+
+#### Who did you help this week?
+
+I helped Andrew work through some Shared Box->RProject navigation using the 'here' package. He put together a cool "test run," then I worked through it on my computer to see if it would work as a shared code. I think we found and solved a few issues!
+
+#### Who helped you this week?
+
+Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation I ran into on my computer when running a shared code.
+
+#### What did you achieve?
+
+* I rewrote some of my hacky code using a more sophisticated loop
+* I created a version-controlled R project and associated repository for the trawl data
+* I worked on the [exploratory data analysis](http://rpubs.com/lgcarlson/CarlinEDA5102019) for the salmon growth data that Kathy and I talked about during this week's meeting
+* I read a few papers about how to calculate leading/trailing edge
+* I learned how to use the packages 'here' and 'formattable'
+
+#### What did you struggle with?
+
+* I struggled for quite some time with the memory problem on my computer before asking for help. Then, once I asked for help, a lot of time was spent by all parties trying to figure it out. I stopped working on the trawl data after Karen determined that we were sent the wrong computer. Hopefully that solves the problem, but it didn't make sense to keep spending time on fixing something that seems to work for everyone but me. 
+
+#### What would you like to work on next week?
+
+* I will keep working on the salmon growth data and figure out next steps for the analysis. 
+* I did not get to it this week, so next week I would like to do some reading to figure out a better MS-CMR encounter history structure.
+
+#### Where do you need help from Kathy?
+
+* Meeting with Kathy and Matt at some point to get oriented to the trawl data would be helpful.
+* There are still some unanswered questions about the salmon data that I have listed in the [Ask Kathy Freedcamp project](https://freedcamp.com/Lindsay_6rU/Ask_Kathy_pAt/todos). 
+
+#### Where do you need help from other lab members?
+
+* I don't necessarily need help from anyone, but I think I will do the function-writing Datacamp over the weekend or next week to improve my function skills. I wrote a few successful functions and loops this week, but I just couldn't figure out how to do one and reverted to the longhand approach. 
+------
+
+
+
 ### Date: 3 May 2019
 
 #### Who did you help this week?
