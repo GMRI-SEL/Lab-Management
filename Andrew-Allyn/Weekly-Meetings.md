@@ -39,6 +39,8 @@ Next week (short week with the holiday):
 
 * Next week: COCA revision edits
 
+> Okay!
+
 #### Where do you need help from other lab members?
 
 * Give the weekly meetings update a shot
