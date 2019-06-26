@@ -1,4 +1,5 @@
 ### 2019
+* [26 June 2019](#date-26-june-2019)
 * [14 June 2019](#date-14-june-2019)
 * [7 June 2019](#date-7-june-2019)
 * [31 May 2019](#date-31-may-2019)
@@ -7,6 +8,42 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 26 June 2019
+
+#### Who did you help this week?
+
+Over the last week I helped Sam with his material for the REU R workshop and then helped out a few of the REU students (inside and outside of the workshop), mainly providing example code for spatial data visualization and analysis.
+
+#### Who helped you this week?
+
+I got help from the entire lab this week thinking through NETCDF headaches. 
+
+#### What did you achieve?
+
+* Executing climate data operation (cdo) tools in the terminal through RStudio and using "system" calls, which efficiently opens/re grids/crops NETCDF climate projection data.
+* COCA ms revisions
+
+#### What did you struggle with?
+
+* NETCDF climate projection data. I was finally able to come up with a solution for acessing, subsetting, and storing NETCDF climate model projection data. This took longer than I would like to admit. I spent the better part of the week trying to get this done in R, modidying functions I had written that use the ncdf4 and raster libraries to accomplish similar tasks with the OISST data. Eventually, I hit a road block with netcdf files that had rotated lat/long grids, and yet no way of extracting the information needed (rotated lat/lon of poles) to deal with it. So, I ended up turin
+* Coding time completely engulfed any writing time again.
+
+#### What would you like to work on next week?
+
+Next week (short week with the holiday):
+* COCA MS out to co-authors by the end of the week
+* Project planning
+* ME SeaGrant JSDM progress
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA revision edits
+
+#### Where do you need help from other lab members?
+
+* Give the weekly meetings update a shot
+* Upcoming lab meeting topics
+
 ### Date: 14 June 2019
 
 #### Who did you help this week?
