@@ -1,4 +1,6 @@
 ### 2019
+* [27 June 2019 ](#date-27-june-2019)
+* [13 June 2019 ](#date-13-june-2019)
 * [29 April 2019](#date-29-april-2019)
 
 # Weekly Notes
