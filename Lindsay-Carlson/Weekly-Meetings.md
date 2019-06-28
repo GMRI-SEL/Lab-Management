@@ -9,8 +9,58 @@
 * [7 June 2019](#date-07-june-2019)
 * [14 June 2019](#date-14-june-2019)
 * [21 June 2019](#date-21-june-2019)
+* [28 June 2019](#date-28-june-2019)
 
 # Weekly Notes
+
+### Date: 28 June 2019
+
+#### Who did you help this week?
+ 
+I spent some time helping Allie and Graham with various coding problems. 
+
+#### Who helped you this week?
+ 
+Miguel created a N Atlantic shapefile and wrote a cool spatial correlation code for SST and growth markers. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* Miguel and I came up with a SST gameplan. 
+* I started writing growth marker ~ SST lms to get a basic understanding of growth marker relationships with N Atlantic and migration area SST means. 
+
+*Trawl*
+
+*  Wrote a cleaning code for the trawl surveys and updated my faulty histograms. 
+
+*Other*
+
+* Spent Friday doing Datacamp and learning about purrr and GAMs. 
+
+
+#### What did you struggle with?
+
+* Miguel and I were both a little overwhelmed by the many directions you could go with the salmon ERSST analysis, but I think after some struggle, we came up with a good gameplan. 
+
+#### What would you like to work on next week?
+
+* Continue visualizing growth marker SST relationships. Expand upon modeling/hypothesis testing. Make decisions about which migration areas/months are most valuable to include in final models. 
+
+* Continue learning about GAMs. 
+
+
+#### Where do you need help from Kathy?
+
+*  Nothing! Enjoy your vacation! 
+
+#### Where do you need help from other lab members?
+
+*  Miguel, Mike and I should have another salmon group meeting/game plan session. 
+
+------
+
+
 
 ### Date: 21 June 2019
 
