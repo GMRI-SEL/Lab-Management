@@ -11,11 +11,11 @@
 * [21 June 2019](#date-21-june-2019)
 * [28 June 2019](#date-28-june-2019)
 #### July
-* [5 July 2019](#date-05-july-2019)
+* [05 July 2019](#date-05-july-2019)
 
 # Weekly Notes
 
-### Date: 5 July 2019
+### Date: 05 July 2019
 
 #### Who did you help this week?
  
@@ -31,7 +31,7 @@ Matt showed the lab how he used Python to grab large, annoying datasets online.
 
 * Finished growth marker ~ SST lm code
 * Used Miguel's spatial correlation code to visualize spatial relationships for each growth marker
-* Calculated correlation between entire North Atlantic SST and each migration area
+* Calculated [correlation](https://rpubs.com/lgcarlson/sstxgrowthEDA) between entire North Atlantic SST and each migration area
 * Calculated correlation between Station 27 0m data and Newfoundland ERSST
 * Began creating brief presentation to show Tim monthly growth rate and beginning SST findings
 
