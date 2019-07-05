@@ -10,8 +10,53 @@
 * [14 June 2019](#date-14-june-2019)
 * [21 June 2019](#date-21-june-2019)
 * [28 June 2019](#date-28-june-2019)
+#### July
+* [5 July 2019](#date-05-july-2019)
 
 # Weekly Notes
+
+### Date: 5 July 2019
+
+#### Who did you help this week?
+ 
+I shared the growth marker ~ SST lm code with Miguel. 
+
+#### Who helped you this week?
+ 
+Matt showed the lab how he used Python to grab large, annoying datasets online.  
+
+#### What did you achieve?
+
+*Salmon*
+
+* Finished growth marker ~ SST lm code
+* Used Miguel's spatial correlation code to visualize spatial relationships for each growth marker
+* Calculated correlation between entire North Atlantic SST and each migration area
+* Calculated correlation between Station 27 0m data and Newfoundland ERSST
+* Began creating brief presentation to show Tim monthly growth rate and beginning SST findings
+
+*Other*
+
+* Did more GAM reading.
+
+
+#### What did you struggle with?
+
+* Miguel and I had a long discussion about using the annulus versus the winter minimum for calculating my monthly growth rates. It seems like using the minimum is the way to go, but the minimum would be the algorithm calculated and the annulus would be the human marked. Sounds like a question for Tim. 
+
+#### What would you like to work on next week?
+
+Further work on picking out most important months for SST modelling. Further learning about GAMs.
+
+#### Where do you need help from Kathy?
+
+I can't specifically think of anything. 
+
+#### Where do you need help from other lab members?
+
+Miguel, Mike and I should have another salmon group meeting/game plan session. 
+
+------
 
 ### Date: 28 June 2019
 
