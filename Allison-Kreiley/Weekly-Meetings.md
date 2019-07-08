@@ -1,7 +1,52 @@
 ### 2019
+* [8 July 2019 ] (#date-08-july-2019)
 * [27 June 2019 ](#date-27-june-2019)
 * [13 June 2019 ](#date-13-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+
+# Weekly Notes
+### Date: 8 July 2019 
+
+#### Who did you help this week?
+
+I helped Keith and Zach with some seining field work. 
+
+#### Who helped you this week?
+
+Lindsay helped me with R coding questions, Sam helped me with placing a fitted line on my plots, Andy helped me determine which depths and plots to analyze and how to do so. 
+
+#### What did you achieve?
+
+* Presented my chosen reading at journal club  
+* Presented my progress report and asked for feedback 
+* Created time series plots for all my data available
+* Placed into powerpoint (Andy's suggestion) to look over and analyze 
+* Understood how to read and manipulate the buoy data to do so 
+
+
+#### What did you struggle with?
+
+* I did not have a lot of time last week to work on my own research. Seining field work took all day with journal club afterward, then the fourth of July everyone was unavailable or away. I did not have a lot of time in the lab to focus or to be with other colleagues to ask questions. I'm using this week to catch up. 
+
+#### What would you like to work on next week?
+
+* This week I'm going to finish analyzing the buoy data by faceting the plots avaiable, and looking over anything that visually jumps out at me. After that, I'm going to conduct any statistical analysis necessary and then try to move into the correllation aspect of my work. I'm on track as of right now. 
+
+
+#### Where do you need help from Kathy?
+
+* I will need some help on how to conduct the correllation analysis in R 
+* After peeking at all produced plots tonight, I want to discuss further steps 
+
+#### Where do you need help from other lab members?
+
+* Nothing as of right now 
+
+#### Any other topics
+
+* Had a great 4th weekend! 
+
 
 # Weekly Notes
 ### Date: 27 June 2019 
