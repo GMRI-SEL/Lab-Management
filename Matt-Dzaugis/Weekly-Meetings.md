@@ -1,11 +1,52 @@
 ### 2019
 
-* [14 June 2019](#date-7-June-2019)
+* [5 July 2019](#date-5-July-2019)
+* [28 June 2019](#date-28-June-2019)
+* [21 June 2019](#date-21-June-2019)
+* [14 June 2019](#date-14-June-2019)
 * [7 June 2019](#date-7-June-2019)
 * [10 May 2019](#date-10-May-2019)
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
+
+# Weekly Notes
+### Date: 5 July 2019
+* I made a rmarkdown that compares gam and lm for the river temperature data and air temperature
+* Created a comprehensive markdown that compares all sites and projections
+* Wrote up the methods for analysing the CMIP5 data, air temp observations, and river temp data
+
+### Who helped you this week?
+* Mike and Andrew heled me with some gam modeling of the CT river temperature
+
+### Who did you help this week?
+* I helped Allie with the buoy data to create anomalies and stratificaiton
+* I explained my methods of using python and wget to download LOCA data
+
+# Weekly Notes
+### Date: 28 June 2019
+
+Short week, I took vacation on Monday 24/6
+
+### What did you achieve?
+
+* I worked on temperature projections and bias corrections
+* I came up with three functions to add in the data analysis
+  + climatology function
+  + Function to calculate the difference in observed vs. projected data
+  + Funciton to correct for any biases in the projected data
+
+
+# Weekly Notes
+### Date: 21 June 2019
+
+Short week, I took vacation on Tuesday and Friday.
+
+### What did you achieve?
+
+* I worked on the temperature projections and added Turner Falls to the observation and projection data. 
+* Created some markdown documents to give an overview of the different projections
+* Compared observed and modeled air temperature data at the Middle Haddam site to see if a bias correction is necessary
 
 # Weekly Notes
 ### Date: 14 June 2019
