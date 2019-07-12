@@ -1,19 +1,59 @@
 ### 2019
 #### May
-* [3 May 2019](#date-03-may-2019)
+* [03 May 2019](#date-03-may-2019)
 * [10 May 2019](#date-10-may-2019)
 * [17 May 2019](#date-17-may-2019)
 * [24 May 2019](#date-24-may-2019)
 * [31 May 2019](#date-31-may-2019)
 #### June
-* [7 June 2019](#date-07-june-2019)
+* [07 June 2019](#date-07-june-2019)
 * [14 June 2019](#date-14-june-2019)
 * [21 June 2019](#date-21-june-2019)
 * [28 June 2019](#date-28-june-2019)
 #### July
 * [05 July 2019](#date-05-july-2019)
+* [12 July 2019](#date-12-july-2019)
 
 # Weekly Notes
+
+### Date: 12 July 2019
+
+#### Who did you help this week?
+ 
+I answered tidyverse questions for a few labmates.
+
+#### Who helped you this week?
+ 
+Mike and Miguel helped me talk through a few strange things I was seeing in the salmon increment data.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Put together a slideshow for Tim's visit summarizing what I've done so far on the Carlin data
+* Re-did increment vs migration area SST models with annual anomaly rather than raw SST
+* Revisited sea age classifications, quantified number of post-annulus circuli for each fish
+* Found erroneous sea age classifications
+* Modeled relationship between [emigration date and post-smolt/marine growth](http://rpubs.com/lgcarlson/seaageEDA)
+* Searched for Newfoundland fishery logs 
+
+#### What did you struggle with?
+
+* After the discussion with Tim, I'm definitely left unsure about what date I should use as the annulus formation date. It sounds like people think it could be anywhere between December and June. I think the idea of using the coldest SST date is a good idea, but this requires us deciding which areas to consider. 
+
+#### What would you like to work on next week?
+
+Further work on picking out most important months for SST modelling.
+
+#### Where do you need help from Kathy?
+
+I can't specifically think of anything. 
+
+#### Where do you need help from other lab members?
+
+It would be fun to talk more about a Google trends paper ideas!
+
+------
 
 ### Date: 05 July 2019
 
@@ -200,7 +240,7 @@ Mike initiated a "salmon" meeting to discuss similarities among our datasets, ou
 
 ------
 
-### Date: 7 June 2019
+### Date: 07 June 2019
 
 #### Who did you help this week?
 
@@ -415,7 +455,7 @@ Andrew, Miguel, Matt, and Kathy all helped me troubleshoot the memory limitation
 
 
 
-### Date: 3 May 2019
+### Date: 03 May 2019
 
 #### Who did you help this week?
 
