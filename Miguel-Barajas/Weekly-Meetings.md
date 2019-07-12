@@ -1,8 +1,42 @@
 ### 2019
+* [12 July 2019](#date-12-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [29 April 2019](#date-29-april-2019)
 
 # Weekly Notes
+### Date: 12 July 2019
+
+#### Who did you help this week?
+
+* This week I helped Ally by giving her some code for Tukey plots and I helped Andrew by making a merged shapefile for the DMR Lobster Management zones. I also talked with Mike and Lindsay about using dynamic time warping to cluster growth patterns...not sure if this method will be useful...to be determined!
+
+#### Who helped you this week?
+
+* This week Lindsay helped me with summarizing the months that smolts were released by year. Andrew helped me with setting Date attributes to raster files in order to query layers better.
+
+#### What did you achieve?
+
+* I presented some work to Tim and the salmon group, transferred scale samples to Tim, had productive discussions about the timing of annulus formation and possible misclassification of sea-age for PN data. I figured out how to produce Rmarkdown documents for the phenology work. I incorporated Brandon's new FMC locations and reanalyzed the data. I was able to figure out how to notate significance as a symbol overlay for the SST and growth marker spatial correlations.
+
+#### What did you struggle with?
+
+* I struggled with being able to calculate monthly means for each cell within a raster layer and then subtract those from corresponding months to create anomalies. After some discussion and some reading, I was able to figure it out. I had some trouble with selecting specific layers out of a raster stack but by the end of the week and talking with Andrew, we figured it out. I tried running GAMS on the SST and growth markers by year but I don't think there are enough data points (n=12) to use GAMs on the PN growth marker data.
+
+#### What would you like to work on next week?
+
+* I made some progress with subsetting the SST data from May to the following July rather than Jan to Dec and then performing the spatial correlations with the first year growth increments. The first three year-groups showed a clear positive correlation with SST but when the fourth year-group was included, things got messy. Strangely, on its own, the series of years from the fourth year-group correlated well with SST, just not when included with the rest of the years. I'd like to investigate this further and maybe try including the calanus abundance predictions as another variable in the linear regression.
+
+#### Where do you need help from Kathy?
+
+* It would be nice to discuss the more recent spatial correlation work with Kathy and show the changes between including the fourth year-group vs. not including and also talk about building-in the calanus abundance data into the model.
+
+#### Where do you need help from other lab members?
+
+I think talking with Lindsay and Mike about how we can integrate our datasets together for some analyses into the future might be productive.
+
+#### Any other topics
+
+This space is yours to add to as needed.
 ### Date: 28 June 2019
 
 #### Who did you help this week?
