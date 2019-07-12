@@ -1,5 +1,6 @@
 ### 2019
 
+* [12 July 2019](#date-12-July-2019)
 * [5 July 2019](#date-5-July-2019)
 * [28 June 2019](#date-28-June-2019)
 * [21 June 2019](#date-21-June-2019)
@@ -9,6 +10,28 @@
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
+
+# Weekly Notes
+### Date: 12 July 2019
+
+### What did you achieve this week?
+* I have been working on converting and updating the lobster forecast model so it can pull in the new UpdateBuoys data. This is taking a little longer than expected because there are several associcated functions that needed to be changed. It has been an good learning experience and I understand the lobster model much more than I did.
+* The ultimate goal is to create a shiny app for the lobster model that allows the user to define the time frame for the forecast. I hope to incorporate more data into to forecast as well.
+* I have been waiting for the lobster catch data to come in, but at least we have sent in the seleciton fields for the data query.
+* I have initiated a meeting with Ashley to go over the FVCOM data. It looks like we might be able to use the data we already have in house - keep posted.
+
+### Who helped you this week?
+* I received some general R help from the lab
+
+### Who did you help this week?
+* I worked with Allie on the buoy data and stratificaiton index a bit.
+
+### What did you struggle with?
+* It took awhile to understand all of the parts that went into the lobster model and how they interact.
+
+### What would you like to work on next week?
+* I hope the lobster data comes in, so I can start back up with the indicators again.
+* I am going to continue with the lobster model shiny app
 
 # Weekly Notes
 ### Date: 5 July 2019
