@@ -1,4 +1,5 @@
 ### 2019
+* [5 July 2019](#date-5-july-2019)
 * [26 June 2019](#date-26-june-2019)
 * [14 June 2019](#date-14-june-2019)
 * [7 June 2019](#date-7-june-2019)
@@ -8,6 +9,41 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 5 July 2019
+
+#### Who did you help this week?
+
+This week I helped Kyle as he continues to work through SST data and Atlantic bluefin CPUE. 
+
+#### Who helped you this week?
+
+This week, Matt/Linday/Mike and I got together to discuss downloading and processing netcdf files -- particularly those from climate model projections. They were all really helpful thinking through things, especially seeing what Matt has come up with as an option for using python to download/process the data. Moving forward, seems like a fun lab activity to try to write a function we can all use to efficiently work with these common data sets. I also got help from Kathy as she sent along her draft COCA methods paper comments back!
+
+#### What did you achieve?
+
+* COCA MS draft revisions made and then sent along to Kathy and Andy
+* Climate model projections for RCP4.5 and RCP8.5 downloaded, processed, saved as raster stack
+
+#### What did you struggle with?
+
+* Letting the COCA MS draft go, but finally got there! 
+
+#### What would you like to work on next week?
+
+* COCA methods paper wrapped up and distributed to external co-authors for review
+* NASA project planning ideas, paper review
+* ME SeaGrant progress
+* EcoForecasting School prep work
+* Get Kathy all set on GitHub for weekly updates
+
+#### Where do you need help from Kathy?
+
+* Next week: COCA revision edits, potential EcoForecasting school projects/discussions with NASA team
+
+#### Where do you need help from other lab members?
+
+* Keep these weekly updates coming!
+
 ### Date: 26 June 2019
 
 #### Who did you help this week?
