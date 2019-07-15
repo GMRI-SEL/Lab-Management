@@ -1,4 +1,5 @@
 ### 2019
+* [12 July 2019](#date-12-july-2019)
 * [5 July 2019](#date-5-july-2019)
 * [26 June 2019](#date-26-june-2019)
 * [14 June 2019](#date-14-june-2019)
@@ -9,6 +10,43 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 12 July 2019
+
+#### Who did you help this week?
+
+This week I helped Kyle as he continues to work through SST data and Atlantic bluefin CPUE. 
+
+#### Who helped you this week?
+
+This week I got help from Miguel creating a single shapefile of the lobster management zones (trying to create a map for the ME/NH inshore trawl survey), from Kathy thinking through NASA projects and links to the NEFI summer course, and from Ashley with the ME/NH inshore trawl data. 
+
+#### What did you achieve?
+
+* COCA draft sent along to collaborators
+* Shad climate model projections all completed, ready for review by Jamie and Mike
+* First two chapters of Ecological Forecasting text and project selection
+* Joint Species Distribution Model -- Thorson paper review and example code
+
+#### What did you struggle with?
+
+* Understanding Thorson model
+* Creating map of ME/NH inshore trawl survey that matches the ones they display in reports
+
+#### What would you like to work on next week?
+
+* Send off shad climate model projections to confirm results
+* JSDM Thorson paper review for understanding and get one example species model going
+* EcoForecasting class prep
+* Identify upcoming potential proposals and brainstorm ideas
+
+#### Where do you need help from Kathy?
+
+* Bugging co-authors on COCA paper, GitHub for lab updates
+
+#### Where do you need help from other lab members?
+
+* I'm sure there'll be something else that comes up, like always, for now though, weekly updates!
+
 ### Date: 5 July 2019
 
 #### Who did you help this week?
