@@ -1,5 +1,6 @@
 ### 2019
 
+* [19 June 2019](#date-12-July-2019)
 * [12 July 2019](#date-12-July-2019)
 * [5 July 2019](#date-5-July-2019)
 * [28 June 2019](#date-28-June-2019)
@@ -10,6 +11,13 @@
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
+
+# Weekly Notes
+### Date: 19 July 2019
+
+### What did you achieve this week?
+* Monday, I continued working on dissecting the lobster forecast to understand all of the components and how they work together. I am rewriting the code to be compatable with the new UpadateBuoys function and to put in a shiny app
+* Tuesday, I compiled all of the CT river temperature projecttions and wrote an rmarkdown script 2
 
 # Weekly Notes
 ### Date: 12 July 2019
