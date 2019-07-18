@@ -1,8 +1,103 @@
 ### 2019
+* [18 July 2019 ](#date-18-july-2019)
 * [8 July 2019 ](#date-08-july-2019)
 * [27 June 2019 ](#date-27-june-2019)
 * [13 June 2019 ](#date-13-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 8 July 2019 
+
+#### Who did you help this week?
+
+I helped Kyle on my REU team with some ideas on how to store his videos. Unfortunately, I did not help anyone in the lab. I 
+
+#### Who helped you this week?
+
+Miguel gave me code to make plots for a Tukey HSD test in R. Andrew helped me with some plot and stats ideas for my project.
+
+#### What did you achieve?
+
+* Found an increase in salinity in the GoM, and understood why 
+* Found a significant decrease in calanus 
+* Created a markdown file for my stratification code 
+* Presented my progress report to the REU team 
+* Presented my UMASS research with my ESA poster to the lab meeting 
+
+
+#### What did you struggle with?
+
+* Understanding the TUKEY code that Miguel gave me. 
+
+#### What would you like to work on next week?
+
+* Creating a layout for my presentation, and addressing any gaps 
+* Combination of biological and physical data 
+* Fixing plots to make them presentable 
+
+
+#### Where do you need help from Kathy?
+
+* I will send Kathy the code so she can help me with the regime shift and change point analysis. 
+
+#### Where do you need help from other lab members?
+
+* I will need help from Miguel on the TUKEY code. 
+
+#### Any other topics
+
+* This REU went by too quickly. I don't want to leave yet! 
+
+
+# Weekly Notes
+### Date: 27 June 2019 
+
+#### Who did you help this week?
+
+I helped Kyle, another REU intern on some R coding questions. I talked with Miguel and Lindsay about requirements for the Tukey HSD test, and we all figured out together some R coding details for that (must be set as factors). Outside of research, I helped Ellen and Margaret clean up from the BBQ.  
+
+#### Who helped you this week?
+
+Andrew and Lindsay helped me get back some missing plots 20 minutes before my meeting with Kathy. Turns out it was some mislabeling in code. Lindsay also helped me with a line of code "mutate" in order to determine decadal changes in zooplankton. Miguel helped me understand the statiscal differences between ANOVA and TUKEY HSD. Sam's R training course for all REU interns was extremely helpful! 
+
+#### What did you achieve?
+
+* Made time series line plots for yearly average anamolies, and all quarters 
+* Learned how to do basic statistical analysis in R and applied it to my zooplankton    anamoly data to see if there is differences between decades 
+* Finally figured out some details wit github, got set up on freedcamp and mendeley
+* Entirely read through the lab's page on github 
+* Gained a better understanding of decadal changes on callanus 
+* Posted my first question on stack overflow 
+* Completely finished the R training program that Sam provided 
+* Attended my first lab meeting and first tidyverse thursday session 
+
+#### What did you struggle with?
+
+* I tried (too long) to make my line plots cleaner by adding a dashed line in between   misssing values. I posted on stack overflow to get some help and got some code that     worked, but I need to figure out a way to map it to each graph that I have 
+* Trying to get the TUKEY HSD stats analysis to comply with my data, but we eventually   figured it out 
+* Learning curve in figuring out how to successfully clone the github repository        branch
+
+#### What would you like to work on next week?
+
+* Look into physical data 
+* Determine correlations between stratification index and temperature, and strat index and salinity 
+* Determine if I have to create a loop code (with help from Sam) to determine a stratification index, or if I can just use the code that Matt provided to me the beginning of last week 
+
+
+#### Where do you need help from Kathy?
+
+* I want to make sure that I'm on the right track with my processing of both the biologial and the physical data. At this point I've spent more time on the biological data than I've allotted for myself, so I just want to make sure it's okay that I keep analyzing this instead of moving onto the physical data 
+
+#### Where do you need help from other lab members?
+
+* I may need help in making sure that I've cloned and pulled correctly from the tidyverse github repository 
+
+#### Any other topics
+
+* This lab seems extremely organized from what I can tell after reading the lab welcome sheet in github, and I'm grateful to have been placed in this lab out of all available at GMRI. I believe this is the best spot I could have been placed for my own advancement in R and statistical analysis 
+
+
+
 
 
 # Weekly Notes
