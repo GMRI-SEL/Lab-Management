@@ -1,7 +1,39 @@
 ### 2019
+* [19 July 2019](#date-19-july-2019)
 * [12 July 2019](#date-12-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* This week the lab had some discussions with Andrew about order of operations when collapsing down daily spatial rasters into monthly means. I made a map of the Connecticut River watershed with the 3 temperature gage sites for the Shad project. I helped Lindsay with interpreting GAMs results
+
+#### Who helped you this week?
+
+* Andy was able to take a look at the spatial plots of the calanus predictions and confirm for me that the December results were off and should be replaced by interpolating November to January of the next year. Mike helped me with some reading materials explaining boosted regression trees.
+
+#### What did you achieve?
+
+* This week I worked on converting the calanus prediction results into a .grd file for fasting loading and subsetting. From there I was able to extract the monthly values of calanus abundance within each of the salmon migration area shapefiles. After that I averaged over all cells in each raster to get one monthly mean calanus abundance value for each migration area 1950-2018.
+
+#### What did you struggle with?
+
+* There were some strange results within the calanus predictions occurring at northern latitudes in the month of december. I was not sure whether these results were realistic or just a source of error from the model predictions.
+
+#### What would you like to work on next week?
+
+* Next week I would like to run GAMs using the salmon growth increments as the response variable, with SST and calanus abundance as the explanatory variables.
+
+#### Where do you need help from Kathy?
+
+* I would like to go over the model results with Kathy.
+
+#### Where do you need help from other lab members?
+
+* I could use help looking at the model results and evaluating model fits.
 
 # Weekly Notes
 ### Date: 12 July 2019
