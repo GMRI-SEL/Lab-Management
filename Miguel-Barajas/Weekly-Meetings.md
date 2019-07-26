@@ -1,8 +1,38 @@
 ### 2019
+* [26 July 2019](#date-26-july-2019)
 * [19 July 2019](#date-19-july-2019)
 * [12 July 2019](#date-12-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* I helped Ally with her change point analyses by showing her how to change the parameters and penalty values for the type of algorithm used and sensitivity in detecting change points. I helped Lindsay in clarifying some of the data structure within the DFO data set.
+
+#### Who helped you this week?
+
+* Lindsay helped me with suggestions on looking at the correlations between the ERSST data and the calanus data. Andrew and Matt helped me by talking through modelling the salmon scale growth markers using SST and the calanus data using GAMs in a series of nested for loops.
+
+#### What did you achieve?
+
+* This week I was able to run some model variations using nested for loops to evaluate model performance across different spatio-temporal spaces and different growth mark increments.
+
+#### What did you struggle with?
+
+* I struggled with setting up the loops in a way to try out all the various combinations of SST and calanus data for different time periods and different migration areas.
+
+#### What would you like to work on next week?
+
+* Next week I would like to incorporate the 2014 2SW data into the analyses that Brandon sent on Thursday, put together a list of additional scales and go collect them, and look at the growth patterns between the hatchery and wild fish.
+
+#### Where do you need help from Kathy?
+
+* Taking a look at the GAM results and putting together a final list of additional scales to collect
+
+#### Where do you need help from other lab members?
 
 # Weekly Notes
 ### Date: 19 July 2019
