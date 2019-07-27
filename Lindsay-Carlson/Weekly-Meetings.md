@@ -13,8 +13,49 @@
 #### July
 * [05 July 2019](#date-05-july-2019)
 * [12 July 2019](#date-12-july-2019)
+* [19 July 2019](#date-19-july-2019)
 
 # Weekly Notes
+
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+I put together a Tidy Tuesday Rmd using the forecast package.
+
+#### Who helped you this week?
+ 
+Mike pointed out a solution to improve my GAM of lat ~ days at sea model.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Calculated number of days at sea for all Carlin-tagged salmon, not just those with scales collected
+* Used GAM to model [latitude of recapture/return ~ days at sea](http://rpubs.com/lgcarlson/daysatseaGAM)
+* Explored the effect of adding interaction terms for sea age
+* Explored days at sea ~ s(lat,long), not as successful as I'd hoped
+* Created a map of monthly centroid encounter locations for all Carlin-tagged salmon to better understand movement patterns/narrow down which migration areas we should be considering for each month
+
+*Trawl*
+
+* Revamped trawl cleaning code
+* Remade centroid lat/long code/figures in [tidyverse/ggplot](https://rpubs.com/lgcarlson/tidycleantrawl)
+* Began investigating fish lengths, added weighted mean for length
+* Investigated bottom depths in survey area
+* Thought about how to quantify spatial distribution, explored the idea of 1x1 lat/long blocks
+
+#### What did you struggle with?
+
+* The GAM I made does a good job, so long as you know how many days the fish has been at sea. I think to apply this to Mike/Miguel's data, we'll need to come up with a method to estimate number of days at sea based on number of circuli. 
+
+#### What would you like to work on next week?
+
+* Addressing Kathy's comments about trawl cleaning code and exploring ideas discussed in meeting with Tim.
+* Learning more about understanding/interpreting GAMS
+
+
+------
 
 ### Date: 12 July 2019
 
