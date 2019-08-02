@@ -15,8 +15,53 @@
 * [12 July 2019](#date-12-july-2019)
 * [19 July 2019](#date-19-july-2019)
 * [26 July 2019](#date-26-july-2019)
+#### August
+* [02 August 2019](#date-02-august-2019)
 
 # Weekly Notes
+
+### Date: 02 August 2019
+
+#### Who did you help this week?
+
+Helped answer some tidyverse questions for Graham and Allie.
+
+#### Who helped you this week?
+ 
+Miguel and I had a really good discussion about a priori model selection for the salmon analyses.
+
+#### What did you achieve?
+
+*Salmon*
+
+* I added some temperature exploration to the [DFO data analysis](http://rpubs.com/lgcarlson/dfodistribution)
+* Began putting together salmon migration "meta-analysis" in shared Google doc
+
+*Trawl*
+
+* Did a few more revisions to the trawl cleaning code
+* Worked on defining length relationships, thinking about how to use sized-based approached
+* Read a few papers on size-based approaches to community ecology questions
+* Worked on species richness by area model
+
+#### What did you struggle with?
+
+I struggled to find papers that used a size-based approach for a similar question, but Kathy informed me that that's probably because there aren't any!
+
+#### What would you like to work on next week?
+
+Next week, I'll continue working on the salmon migration meta-analysis, I'll do the survival/increment correlations, and I'll put together a synthesis of the trawl findings for Kathy. 
+
+#### Where do you need help from Kathy?
+
+It would be great to for us to meet with Andrew re: the leading/trailing edge question.
+
+#### Where do you need help from other lab members?
+
+Mike, Miguel, and I are going to work on the salmon analysis together. 
+
+------
+
 
 ### Date: 26 July 2019
 
