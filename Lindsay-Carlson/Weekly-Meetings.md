@@ -14,8 +14,93 @@
 * [05 July 2019](#date-05-july-2019)
 * [12 July 2019](#date-12-july-2019)
 * [19 July 2019](#date-19-july-2019)
+* [26 July 2019](#date-26-july-2019)
+#### August
+* [02 August 2019](#date-02-august-2019)
 
 # Weekly Notes
+
+### Date: 02 August 2019
+
+#### Who did you help this week?
+
+Helped answer some tidyverse questions for Graham and Allie.
+
+#### Who helped you this week?
+ 
+Miguel and I had a really good discussion about a priori model selection for the salmon analyses.
+
+#### What did you achieve?
+
+*Salmon*
+
+* I added some temperature exploration to the [DFO data analysis](http://rpubs.com/lgcarlson/dfodistribution)
+* Began putting together salmon migration "meta-analysis" in shared Google doc
+
+*Trawl*
+
+* Did a few more revisions to the trawl cleaning code
+* Worked on defining length relationships, thinking about how to use sized-based approached
+* Read a few papers on size-based approaches to community ecology questions
+* Worked on species richness by area model
+
+#### What did you struggle with?
+
+I struggled to find papers that used a size-based approach for a similar question, but Kathy informed me that that's probably because there aren't any!
+
+#### What would you like to work on next week?
+
+Next week, I'll continue working on the salmon migration meta-analysis, I'll do the survival/increment correlations, and I'll put together a synthesis of the trawl findings for Kathy. 
+
+#### Where do you need help from Kathy?
+
+It would be great to for us to meet with Andrew re: the leading/trailing edge question.
+
+#### Where do you need help from other lab members?
+
+Mike, Miguel, and I are going to work on the salmon analysis together. 
+
+------
+
+
+### Date: 26 July 2019
+
+#### Who did you help this week?
+
+I sat in on the Sustainable Seafood project manager all-staff interviews and provided feedback about the candidates.
+
+#### Who helped you this week?
+ 
+Kanae and I had a really great discussion about the role of traditional ecological knowledge in documenting climate change impacts.
+
+#### What did you achieve?
+
+*Salmon*
+
+This week, I mostly worked on the [DFO dataset](http://rpubs.com/lgcarlson/dfodistribution):
+
+* Looked at catch per 1 x 1 lat/long block
+* Created utilization distribution kernels for each month
+* Calculated salmon/hour effort in each lat long block
+* Plotted monthly mean surface temperature recorded in each block by the fisherman
+* Looked at the correlation between salmon/hour effort and SST
+
+*Trawl*
+
+* Made Kathy's suggested changes to the trawl cleaning code
+* Started investigating length/space relationships
+* Species richness model data wrangling
+
+#### What did you struggle with?
+
+I was under the impression that the DFO dataset was "presence only", but that is not quite the case. I would definitely like to understand more about how this data was collected, study design, sampling effort, etc. 
+
+#### What would you like to work on next week?
+
+I think as a salmon group, we should make some decisions about which months/migration areas are relevant to salmon in our datasets so we can start narrowing down which model parameters make sense. I think we can do this based on what I've found from the Carlin dataset and the DFO dataset. 
+
+------
+
 
 ### Date: 19 July 2019
 
