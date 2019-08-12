@@ -17,8 +17,40 @@
 * [26 July 2019](#date-26-july-2019)
 #### August
 * [02 August 2019](#date-02-august-2019)
+* [09 August 2019](#date-09-august-2019)
 
 # Weekly Notes
+
+### Date: 09 August 2019
+
+#### Who did you help this week?
+
+Gave Allie some recommendations for her presentation.
+
+#### Who helped you this week?
+
+Miguel took charge of organizing a Mendeley folder for our salmon lit review.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Completed and summarized the salmon [meta-analysis](https://docs.google.com/document/d/1urPFtigYs4WttConMmAtD5jK_WtxAaZ88gzbNxKFHgE/edit?usp=sharing)
+* Correlations between growth increment and productivity/survial 
+* Calculated mean monthly temps in each salmon migration area
+* Reviewed Maxent publications to devise strategy for DFO analysis
+* Created working "summer" [SDM](https://rpubs.com/lgcarlson/maxentDFO) based on DFO data
+
+#### What did you struggle with?
+
+I struggled to get the maxent model working and eventually had to add another environmental variable, but neither bathymetry nor calanus is especially helpful. 
+
+#### What would you like to work on next week?
+
+Complete maxent model for each season. Summarize past analyses for Tim's visit.
+
+------
+
 
 ### Date: 02 August 2019
 
