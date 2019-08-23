@@ -18,8 +18,41 @@
 #### August
 * [02 August 2019](#date-02-august-2019)
 * [09 August 2019](#date-09-august-2019)
+* [23 August 2019](#date-23-august-2019)
 
 # Weekly Notes
+
+### Date: 23 August 2019
+
+#### Who did you help this week?
+
+Put together DFO maps for Tim. 
+
+#### Who helped you this week?
+
+Miguel tried to load JSON and KML files into QGIS for me after they wouldn't work in R.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Scale dynamics literature review: papers I've found and papers we discussed with Tim
+* Found and removed scales with impossible days at sea versus annulus combinatings
+* Pulled original dataset to evaluate confidence in "end" dates
+* Started scale dynamics investigation (8-12 days/circulus)
+* Updated catch per unit effort calculations of DFO data to include fathoms/net in CPUE
+* Created maps of DFO data for Tim's collaborator's proposal
+
+#### What did you struggle with?
+
+I could not get the JSON and KMZ files that I pulled to make the DFO map to open in R or QGIS. I solved the problem by making my own shapefiles by drawing them in Google Earth based on the KMZ file that you could only open in Google Earth Pro. 
+
+#### What would you like to work on next week?
+
+Continue with scale dynamics investigation. Calculate minimum SST day for Labrador. Present at NADS!
+
+------
+
 
 ### Date: 09 August 2019
 
