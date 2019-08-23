@@ -36,10 +36,10 @@ Miguel tried to load JSON and KML files into QGIS for me after they wouldn't wor
 
 *Salmon*
 
-* Scale dynamics literature review: papers I've found and papers we discussed with Tim
+* Scale dynamics [literature review](https://docs.google.com/document/d/1f2sQ_-z2jRf9412M7dTlxMjl3DQa5dBBqyUR0Sbk8-U/edit?usp=sharing): papers I've found and papers we discussed with Tim
 * Found and removed scales with impossible days at sea versus annulus combinatings
 * Pulled original dataset to evaluate confidence in "end" dates
-* Started scale dynamics investigation (8-12 days/circulus)
+* Started [scale dynamics investigation](http://rpubs.com/lgcarlson/scaledynamics) (8-12 days/circulus)
 * Updated catch per unit effort calculations of DFO data to include fathoms/net in CPUE
 * Created maps of DFO data for Tim's collaborator's proposal
 
