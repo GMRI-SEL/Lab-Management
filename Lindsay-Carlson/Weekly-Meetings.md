@@ -17,8 +17,73 @@
 * [26 July 2019](#date-26-july-2019)
 #### August
 * [02 August 2019](#date-02-august-2019)
+* [09 August 2019](#date-09-august-2019)
+* [23 August 2019](#date-23-august-2019)
 
 # Weekly Notes
+
+### Date: 23 August 2019
+
+#### Who did you help this week?
+
+Put together DFO maps for Tim. 
+
+#### Who helped you this week?
+
+Miguel tried to load JSON and KML files into QGIS for me after they wouldn't work in R.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Scale dynamics [literature review](https://docs.google.com/document/d/1f2sQ_-z2jRf9412M7dTlxMjl3DQa5dBBqyUR0Sbk8-U/edit?usp=sharing): papers I've found and papers we discussed with Tim
+* Found and removed scales with impossible days at sea versus annulus combinatings
+* Pulled original dataset to evaluate confidence in "end" dates
+* Started [scale dynamics investigation](http://rpubs.com/lgcarlson/scaledynamics) (8-12 days/circulus)
+* Updated catch per unit effort calculations of DFO data to include fathoms/net in CPUE
+* Created maps of DFO data for Tim's collaborator's proposal
+
+#### What did you struggle with?
+
+I could not get the JSON and KMZ files that I pulled to make the DFO map to open in R or QGIS. I solved the problem by making my own shapefiles by drawing them in Google Earth based on the KMZ file that you could only open in Google Earth Pro. 
+
+#### What would you like to work on next week?
+
+Continue with scale dynamics investigation. Calculate minimum SST day for Labrador. Present at NADS!
+
+------
+
+
+### Date: 09 August 2019
+
+#### Who did you help this week?
+
+Gave Allie some recommendations for her presentation.
+
+#### Who helped you this week?
+
+Miguel took charge of organizing a Mendeley folder for our salmon lit review.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Completed and summarized the salmon [meta-analysis](https://docs.google.com/document/d/1urPFtigYs4WttConMmAtD5jK_WtxAaZ88gzbNxKFHgE/edit?usp=sharing)
+* Correlations between growth increment and productivity/survial 
+* Calculated mean monthly temps in each salmon migration area
+* Reviewed Maxent publications to devise strategy for DFO analysis
+* Created working "summer" [SDM](https://rpubs.com/lgcarlson/maxentDFO) based on DFO data
+
+#### What did you struggle with?
+
+I struggled to get the maxent model working and eventually had to add another environmental variable, but neither bathymetry nor calanus is especially helpful. 
+
+#### What would you like to work on next week?
+
+Complete maxent model for each season. Summarize past analyses for Tim's visit.
+
+------
+
 
 ### Date: 02 August 2019
 
