@@ -19,8 +19,40 @@
 * [02 August 2019](#date-02-august-2019)
 * [09 August 2019](#date-09-august-2019)
 * [23 August 2019](#date-23-august-2019)
+#### September
+* [13 August 2019](#date-13-september-2019)
 
 # Weekly Notes
+
+### Date: 13 September 2019
+
+#### Who did you help this week?
+
+I just tried not to infect anyone with my cold this week!
+
+#### Who helped you this week?
+
+Mike helped me talk through my concerns about using a constant growth rate. Andrew sent me a great paper. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* I figured out when Atlantic salmon form their annulus! It was pretty simple to use the known dates just do some algebra. How did we not think of this before?
+* I backcalculated FMC date to ensure that they were matching up with the known dates, especially important for 0SW fish. 
+* I calculated the month of minimum temperature in the South Labrador blocks over time. 
+* I plotted the relationship between annulus date and month of min temperature. 
+* I did a thorough [literature review](https://docs.google.com/document/d/167_9ZsFspZMpZNRQ9nWdH1HiMWHdP-sd0bnh7_4jib8/edit?usp=sharing) on annulus formation date for salmonids. 
+
+#### What did you struggle with?
+
+Containing my excitement re: annulus formation date knowledge. 
+
+#### What would you like to work on next week?
+
+Presenting annulus formation date analysis to Tim, shoring up analysis, starting to write?
+
+------
 
 ### Date: 23 August 2019
 
