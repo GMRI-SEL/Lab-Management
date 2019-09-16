@@ -1,5 +1,6 @@
 ### 2019
 
+* [13 September 2019](#date-13-September-2019)
 * [19 June 2019](#date-12-July-2019)
 * [12 July 2019](#date-12-July-2019)
 * [5 July 2019](#date-5-July-2019)
@@ -11,6 +12,14 @@
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
+
+# Weekly Notes
+### Date: 13 September 2019
+
+### What did you achieve this week?
+* I finished the zone lobster forecast using the OISST data averaged by lobster zone and modeled bottom temperature using the surface to bottom temp relationship of the nearest buoy.
+* I made slides for the LRC meeting next week.
+* I explored the molting-temperature lobster relationship using the LSS data
 
 # Weekly Notes
 ### Date: 19 July 2019
