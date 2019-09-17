@@ -14,6 +14,11 @@
 * [31 May 2019](#date-31-May-2019)
 
 # Weekly Notes
+### Date: 20 September 2019
+* Monday - worked on r shiny app, made slides for LRC meeting Wednesday
+* Finialized LRC slides, worked on shiny app, listened to SAC research talks
+
+# Weekly Notes
 ### Date: 13 September 2019
 
 ### What did you achieve this week?
