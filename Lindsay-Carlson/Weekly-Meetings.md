@@ -21,8 +21,51 @@
 * [23 August 2019](#date-23-august-2019)
 #### September
 * [13 August 2019](#date-13-september-2019)
+* [20 August 2019](#date-20-september-2019)
+
 
 # Weekly Notes
+
+### Date: 20 September 2019
+
+#### Who did you help this week?
+
+I attended the meeting with the SAC/technical staff this week. Hopefully the great ideas and well-spoken opinions expressed by everyone in attendance will be heard and put into action by the managment and improve the workplace for all of us. 
+
+#### Who helped you this week?
+
+Tim took some time to talk to me about Greenlandic fisheries and traditional ecological knowledge. Dorothy Dankel also took the time to talk to me about her work with social ecological systems, her career path, her opinions on scientists' role in media/social media/politics. It was a great conversation that I learned so much from, and I feel extremely lucky to have had a chance to talk with her for so long! (Jeg elsker Norge!)
+
+#### What did you achieve?
+
+*Salmon*
+
+* I put together a presentation on my most recent salmon findings for our meeting with Tim
+* I did back-calculations with alternate deposition rates to determine FMC estimation inaccuracy
+* I started writing the methods for the annulus formation paper
+* I created a master-list of usable river-recaps to pull for Brandon to analyze
+
+*Trawl*
+
+* Dug back into trawl literature and annotated the paper we'll discuss in next week's lab meeting
+
+*LICCI*
+
+* Had my interview for the LICCI project on Tuesday.
+
+#### What did you struggle with?
+
+Getting things done amidst the many meetings this week.
+
+#### What would you like to work on next week?
+
+1 Acquiring and delivering scales to Brandon
+2 Exploring additional suggestions re: annulus analysis from Kathy/Tim
+3 Continuing to write methods, possibly introduction, since results will now be changing
+
+
+------
+
 
 ### Date: 13 September 2019
 
