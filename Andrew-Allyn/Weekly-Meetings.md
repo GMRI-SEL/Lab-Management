@@ -1,4 +1,5 @@
 ### 2019
+* [20 September 2019](#date-20-september-2019)
 * [12 July 2019](#date-12-july-2019)
 * [5 July 2019](#date-5-july-2019)
 * [26 June 2019](#date-26-june-2019)
@@ -10,6 +11,42 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 20 September 2019
+
+#### Who did you help this week?
+
+This week I helped some of the NSF C-Accel SDM team work through data questions (mainly Cornell folks)
+
+#### Who helped you this week?
+
+This week I got help from the entire NSF C-Accel project in thinking about the incredible challenge of fish, fisheries, coastal communities and climate change. More specifically, I got a lot of help from Kathy on SDM overview slides and then the Cornell group who asked quite interesting and challenging questions concerning our current modeling approaches. Finally, I got help from Felix as he passed along paper edits.
+
+#### What did you achieve?
+
+* COCA methods paper progress -- just have edits from Jon and Brad and then we should be ready to submit!
+* NSF C-Accel SDM work -- Pulled together background materials and structured overview presentation
+* JSDM -- more work reviewing basic Bayesian stats and relationship to new JSDM models
+* MAPP/COCA proposal -- background reading and idea creation
+
+#### What did you struggle with?
+
+* Finding JSDM time as the NSF C-Accel effort took priority
+
+#### What would you like to work on next week?
+
+* Wrap up COCA methods paper
+* NSF C-Accel plan, especially in terms of model as it looks like some may already have implemented VAST model. Could I visit them and would this open up chance to try alternative Tikhinov model (species covariance a function of temperature)
+* Progress on MAPP/COCA proposal, especially identifying a "Bayesian" expert partner
+
+#### Where do you need help from Kathy?
+
+* COCA methods paper/Jon
+* NSF C-Accel strategic planning
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
 ### Date: 12 July 2019
 
 #### Who did you help this week?
