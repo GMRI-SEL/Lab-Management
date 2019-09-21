@@ -1,9 +1,39 @@
 ### 2019
+* [09 September 2019](#date-09-september-2019)
 * [26 July 2019](#date-26-july-2019)
 * [19 July 2019](#date-19-july-2019)
 * [12 July 2019](#date-12-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* 
+
+#### Who helped you this week?
+
+* Mike and Lindsay provided some feedback on my results using principal components
+
+#### What did you achieve?
+
+* synthesized results for hatchery and naturally reared comparisons
+
+#### What did you struggle with?
+
+* incorporating all growth markers together and reading about techniques for multivariate analysis 
+
+#### What would you like to work on next week?
+
+* Next week I would like to explore multivariate analyses using linear discriminant analysis to see if it is possible to predict between sea-age, origin, year-group using selection of growth markers
+
+#### Where do you need help from Kathy?
+
+* Taking a look at the slides for the hatchery and naturally reared comparison results
+
+#### Where do you need help from other lab members?
 
 # Weekly Notes
 ### Date: 19 July 2019
