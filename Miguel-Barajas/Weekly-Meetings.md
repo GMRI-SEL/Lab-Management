@@ -32,7 +32,7 @@
 
 #### Where do you need help from Kathy?
 
-* Finalizing AFS talk
+* Finalizing AFS talk for next week
 
 #### Where do you need help from other lab members?
 
