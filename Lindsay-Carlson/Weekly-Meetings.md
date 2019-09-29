@@ -20,11 +20,44 @@
 * [09 August 2019](#date-09-august-2019)
 * [23 August 2019](#date-23-august-2019)
 #### September
-* [13 August 2019](#date-13-september-2019)
-* [20 August 2019](#date-20-september-2019)
-
+* [13 September 2019](#date-13-september-2019)
+* [20 September 2019](#date-20-september-2019)
+* [27 September 2019](#date-27-september-2019)
 
 # Weekly Notes
+### Date: 27 September 2019
+
+#### What did you achieve?
+
+*Salmon*
+
+* Explored the possibility of calculating an annulus "start" date in addition to the annulus completion date. 
+* Integrated Carlin database with multiple tables from the DMR database to create a final table of 2SW river-recapture scale analysis candidates. Only 424 fish are available, assuming we can find them. Text mining of DMR tables. 
+* Did changepoint analysis for first year at sea growth incrments using package bcp for [Bayesian change points](http://rpubs.com/lgcarlson/carlinBCP)
+* Explored chronological clustering for growth increments
+
+
+#### What did you struggle with?
+
+* I struggled with the figuring out when the annulus formation "starts" because when looking at the circulus spacings, there isn't a clear difference in the spacings  of "summer" and "winter" circuli. The winter minimum could occur anywhere within the annulus, and the annulus marked by the observer only tells us where the annulus "ends." Because there is such a small difference between spacings of "summer" versus "winter" circuli, its not clear how we could determine which circuli are associated with the annulus. 
+* I used a few changepoint methods, and none of them were able to distinguish a changepoint within the time series of the mean growth increments. I eventually stuck with the bcp because the probability distributuion around the changepoint location was helpful for me. 
+* I was also not able to glean any insights of interest from the chronological clustering. I think, with the 1SW marine recaps at least, there just aren't very substantial temporal changes. 
+
+#### What would you like to work on next week?
+
+* Hopefully talking to Ruth and Brandon
+* Hopefully picking up/dropping off scales?
+* Discuss with Kathy which questions (other salmon questions that we've discussed but ranked lower in priority vs trawl)
+
+The other salmon questions I have written down are: 
+* marine survival of 2yo vs 3yo hatchery smolt using mark-recapture
+* placing salmon in space/time to model thermal environment experienced
+* comparison with Penobscot data (I can't remember what exactly this entailed)
+* temporal changes in marine-recap salmon growth (I've already investigated this fairly thoroughly)
+
+
+------
+
 
 ### Date: 20 September 2019
 
