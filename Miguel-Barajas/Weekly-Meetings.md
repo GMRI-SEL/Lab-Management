@@ -1,4 +1,5 @@
 ### 2019
+* [27 September 2019](#date-27-september-2019)
 * [09 September 2019](#date-09-september-2019)
 * [26 July 2019](#date-26-july-2019)
 * [19 July 2019](#date-19-july-2019)
@@ -7,7 +8,38 @@
 * [29 April 2019](#date-29-april-2019)
 
 # Weekly Notes
-### Date: 19 July 2019
+### Date: 27 September 2019
+
+#### Who did you help this week?
+
+* Talked with Lindsay and Mike about growth as mechanism for salmon survival
+
+#### Who helped you this week?
+
+* Lindsay helped me with some ggplot code
+
+#### What did you achieve?
+
+* I finished my slides for AFS conference next week
+
+#### What did you struggle with?
+
+* calculating salmon run timing phenology 3-day and 5-day smooths and making sure that R was doing what I thought it was doing...
+
+#### What would you like to work on next week?
+
+* next week I'll be in Reno, NV presenting at the AFS conference
+
+#### Where do you need help from Kathy?
+
+* Finalizing AFS talk for next week
+
+#### Where do you need help from other lab members?
+
+*
+
+# Weekly Notes
+### Date: 09 September 2019
 
 #### Who did you help this week?
 
