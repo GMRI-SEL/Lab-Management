@@ -1,4 +1,5 @@
 ### 2019
+* [27 September 2019](#date-27-september-2019)
 * [20 September 2019](#date-20-september-2019)
 * [12 July 2019](#date-12-july-2019)
 * [5 July 2019](#date-5-july-2019)
@@ -11,6 +12,43 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 27 September 2019
+
+#### Who did you help this week?
+
+This week I worked with Shufeng from Cornell and helped him (and I) better understand delta models, specifically the delta log normal GAM and then the delta Poisson-link model implemented in the VAST framework. I also helped Lisa out with three interviews (two for bluefin post doc and one for MSE post doc).
+
+#### Who helped you this week?
+
+This week I got help from Shufeng working through the VAST model. Interestingly, the VAST model, which uses Template Model Builder, relies on automatic differentiation -- the same algorithm used by a lot of machine learning algorithms! I also got help from Miguel/Lindsay on a few questions about the dynamic occupancy lab paper.
+
+#### What did you achieve?
+
+* COCA methods paper -- Brad's edits included, sent back to Kathy for final review/bugging Jon
+* NSF C-Accel SDM work -- Met with Shufeng twice to talk about SDMs and the VAST model
+* JSDM MESeaGrant -- VAST model tutorials, foundational Bayes and JSDM models
+* Other -- COCA SDMs with RCP4.5
+* MAPP -- More brainstorming/structuring potential proposal
+
+#### What did you struggle with?
+
+* Scheduling/planning for some of the projects that are just starting to take shape (NSF, NASA)
+
+#### What would you like to work on next week?
+
+* MAPP proposal (depending on DB input)
+* JSDM figure out what is going on with some wacky results in the first pass of a lobster/cod/herring run
+* Formalize NSF C-Accel plan ater talk with VS, RM and then the full team
+
+#### Where do you need help from Kathy?
+
+* COCA methods paper/Jon
+* Shelfwide results (RCP4.5) direction
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
 ### Date: 20 September 2019
 
 #### Who did you help this week?
