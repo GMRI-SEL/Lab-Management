@@ -29,6 +29,9 @@
   + Seems limited - most people use flow and air temp to derive water temperature
   + Flow and gage height are more complete time series
   + Ask Rob about river temperature accuracy and reliability
+* Should have bottom temp data from ROMS model soonish
+  + Continue with lobster catchability work
+
 
 # Weekly Notes
 ### Date: 27 September 2019
