@@ -23,8 +23,44 @@
 * [13 September 2019](#date-13-september-2019)
 * [20 September 2019](#date-20-september-2019)
 * [27 September 2019](#date-27-september-2019)
+#### October
+* [04 October 2019](#date-04-october-2019)
+
 
 # Weekly Notes
+
+### Date: 04 October 2019
+
+#### What did you achieve?
+
+*Salmon*
+
+* Revisited temporal trends in growth data, including adding summaries of changepoint analysis and chronological clustering to ppt
+* Recreated spatial trends in growth figures with only FS, FW, PS, and marine increments
+* Created mark-recapture powerpoint to present to Tim re: survival analysis
+* Created encounter histories for river-recap salmon
+* Revised the annulus formation presentation for meeting with Brandon and Ruth (Box\Mills Lab\Projects\Atlantic salmon\Presentations\Carlin_annulus_formation_LGC.pptx)
+
+*VFR*
+
+* Plotted center of [VFR biomass versus trawl biomass at survey-level](http://rpubs.com/lgcarlson/vfrcentroid)
+* Read papers Kathy sent
+
+#### What did you struggle with?
+
+* Had issues with Box/MARK Gui synching
+* Ran into more questions about the survival analysis that we need to ask Tim before we proceed
+* Discouraged by outcome of LICCI proposal
+
+#### What would you like to work on next week?
+
+* Hopefully picking up/dropping off scales?
+* Continuing to work on the VFR centroid stuff, might need additional data from Brian/Andrew/Kathy?
+
+
+------
+
+
 ### Date: 27 September 2019
 
 #### What did you achieve?
