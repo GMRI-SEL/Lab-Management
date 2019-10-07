@@ -1,4 +1,5 @@
 ### 2019
+* [4 October 2019](#date-4-october-2019)
 * [27 September 2019](#date-27-september-2019)
 * [20 September 2019](#date-20-september-2019)
 * [12 July 2019](#date-12-july-2019)
@@ -12,6 +13,42 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 4 October 2019
+
+#### Who did you help this week?
+
+This week I helped Kathy with some small ggplot stuff and Lindsay with compiling detection histories, where for a given individual the detections are recored in different rows rather than different columns and one row per individual -- aggregate did the trick. 
+
+#### Who helped you this week?
+
+This week I got help from Convergence team with continued joint species distribution work and navigating the Morley et al. (2018) bottom trawl survey data set. I also got help from Kathy, wrapping up the COCA paper and thinking through some of the plots for the shelfwide assessment. 
+
+#### What did you achieve?
+
+* COCA methods paper -- All done! Heard from Jon over the weekend that he is not interested in being an author, so we will be submitting the paper this week to PLoSOne.
+* COCA Other -- COCA SDMs with 8.5 and 4.5 out to 2500 and 2100. While getting the temps was easy, I ended up spending a bit of time cleaning up the code to accomodate the three new projection scenarios. Another example of the importance of thinking really hard about all possible applications of a code before hand.
+* JSDM MESeaGrant -- kept rolling with getting the VAST model up and running
+* Convergence -- Odds and ends data work and discussions with Cornell team
+* MAPP -- Edited draf for one page problem/solution statement 
+
+#### What did you struggle with?
+
+* JSDM work, didn't get as much done here as I wanted in trying to get the COCA results done for shelfwide assessment 
+
+#### What would you like to work on next week?
+
+* JSDM
+* Submit COCA paper to PLoSOne
+* Shelfwide figures completed to discuss with Kathy when she returns
+
+#### Where do you need help from Kathy?
+
+* MAPP pitch to Roger G
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
 ### Date: 27 September 2019
 
 #### Who did you help this week?
