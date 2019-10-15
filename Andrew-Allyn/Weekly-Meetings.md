@@ -1,4 +1,5 @@
 ### 2019
+* [11 October 2019](#date-11-october-2019)
 * [4 October 2019](#date-4-october-2019)
 * [27 September 2019](#date-27-september-2019)
 * [20 September 2019](#date-20-september-2019)
@@ -13,6 +14,42 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 11 October 2019
+
+#### Who did you help this week?
+
+This week I helped Zach with some bubble plotting, though, I didn't actually solve the concentrc circles legend issue, which seems to be a major pain in R. 
+
+#### Who helped you this week?
+
+This week I got help from everyone in the lab with paper discussions, especially thinking about multivariate statistics and principal component analysis.
+
+#### What did you achieve?
+
+* COCA methods paper -- Formatted for PLOS One and sent to M Alexander for internal review.
+* COCA Other -- All scenarios and time scales are completed and synthesized, making plots next week.
+* JSDM MESeaGrant -- Really dug into the VAST model and resolved to making my own R Markdown file trying to descript the model in detail. I *think* I understand things a lot better, though still have some technical questions that hopefully Cornell folks (Comp Science folks and maybe Pat?) can help me with. The good thing, at least feel confident now implementing this with a better understanding of what is actually going on under the hood.
+
+#### What did you struggle with?
+
+* Understanding the difference between fixed effects and random effects, and more specifically, random effects that themselves are surfaces (Gaussian Random Fields). 
+
+#### What would you like to work on next week?
+
+* VAST Markdown document completed, sent to Cornell, set up time to discuss
+* VAST for NSF C Accel coded
+* COCA shelfwide assessment paper potential figures reviewed with Kathy
+* Nancy/Will NASA SD budget review
+
+#### Where do you need help from Kathy?
+
+* I'm sure something will come up, likely surrounding shelfwide paper guidance   
+
+#### Where do you need help from other lab members?
+
+* Future lab meeting ideas. We've had two sessions of paper reading and curious to hear how people think those have been going, and what we'd like to do next?
+
+
 ### Date: 4 October 2019
 
 #### Who did you help this week?
