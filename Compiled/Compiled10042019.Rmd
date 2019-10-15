@@ -1,0 +1,80 @@
+---
+title: "Lab Updates October 4 2019"
+author: "Andrew Allyn"
+date: "10/04/2019"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Lindsay
+
+#### What did you achieve?
+
+*Salmon*
+
+* Revisited temporal trends in growth data, including adding summaries of changepoint analysis and chronological clustering to ppt
+* Recreated spatial trends in growth figures with only FS, FW, PS, and marine increments
+* Created mark-recapture powerpoint to present to Tim re: survival analysis
+* Created encounter histories for river-recap salmon
+* Revised the annulus formation presentation for meeting with Brandon and Ruth (Box\Mills Lab\Projects\Atlantic salmon\Presentations\Carlin_annulus_formation_LGC.pptx)
+
+*VFR*
+
+* Plotted center of [VFR biomass versus trawl biomass at survey-level](http://rpubs.com/lgcarlson/vfrcentroid)
+* Read papers Kathy sent
+
+#### What did you struggle with?
+
+* Had issues with Box/MARK Gui synching
+* Ran into more questions about the survival analysis that we need to ask Tim before we proceed
+* Discouraged by outcome of LICCI proposal
+
+#### What would you like to work on next week?
+
+* Hopefully picking up/dropping off scales?
+* Continuing to work on the VFR centroid stuff, might need additional data from Brian/Andrew/Kathy?
+
+
+### Andrew
+
+#### Who did you help this week?
+
+This week I helped Kathy with some small ggplot stuff and Lindsay with compiling detection histories, where for a given individual the detections are recored in different rows rather than different columns and one row per individual -- aggregate did the trick. 
+
+#### Who helped you this week?
+
+This week I got help from Convergence team with continued joint species distribution work and navigating the Morley et al. (2018) bottom trawl survey data set. I also got help from Kathy, wrapping up the COCA paper and thinking through some of the plots for the shelfwide assessment. 
+
+#### What did you achieve?
+
+* COCA methods paper -- All done! Heard from Jon over the weekend that he is not interested in being an author, so we will be submitting the paper this week to PLoSOne.
+* COCA Other -- COCA SDMs with 8.5 and 4.5 out to 2500 and 2100. While getting the temps was easy, I ended up spending a bit of time cleaning up the code to accomodate the three new projection scenarios. Another example of the importance of thinking really hard about all possible applications of a code before hand.
+* JSDM MESeaGrant -- kept rolling with getting the VAST model up and running
+* Convergence -- Odds and ends data work and discussions with Cornell team
+* MAPP -- Edited draf for one page problem/solution statement 
+
+#### What did you struggle with?
+
+* JSDM work, didn't get as much done here as I wanted in trying to get the COCA results done for shelfwide assessment 
+
+#### What would you like to work on next week?
+
+* JSDM
+* Submit COCA paper to PLoSOne
+* Shelfwide figures completed to discuss with Kathy when she returns
+
+#### Where do you need help from Kathy?
+
+* MAPP pitch to Roger G
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
