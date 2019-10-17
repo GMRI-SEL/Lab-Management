@@ -1,0 +1,109 @@
+---
+title: "Lab Updates Sept 27 2019"
+author: "Andrew Allyn"
+date: "9/27/2019"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Lindsay
+
+#### What did you achieve?
+
+*Salmon*
+
+* Explored the possibility of calculating an annulus "start" date in addition to the annulus completion date. 
+* Integrated Carlin database with multiple tables from the DMR database to create a final table of 2SW river-recapture scale analysis candidates. Only 424 fish are available, assuming we can find them. Text mining of DMR tables. 
+* Did changepoint analysis for first year at sea growth incrments using package bcp for [Bayesian change points](http://rpubs.com/lgcarlson/carlinBCP)
+* Explored chronological clustering for growth increments
+
+#### What did you struggle with?
+
+* I struggled with the figuring out when the annulus formation "starts" because when looking at the circulus spacings, there isn't a clear difference in the spacings  of "summer" and "winter" circuli. The winter minimum could occur anywhere within the annulus, and the annulus marked by the observer only tells us where the annulus "ends." Because there is such a small difference between spacings of "summer" versus "winter" circuli, its not clear how we could determine which circuli are associated with the annulus. 
+* I used a few changepoint methods, and none of them were able to distinguish a changepoint within the time series of the mean growth increments. I eventually stuck with the bcp because the probability distributuion around the changepoint location was helpful for me. 
+* I was also not able to glean any insights of interest from the chronological clustering. I think, with the 1SW marine recaps at least, there just aren't very substantial temporal changes. 
+
+#### What would you like to work on next week?
+
+* Hopefully talking to Ruth and Brandon
+* Hopefully picking up/dropping off scales?
+* Discuss with Kathy which questions (other salmon questions that we've discussed but ranked lower in priority vs trawl)
+
+The other salmon questions I have written down are: 
+* marine survival of 2yo vs 3yo hatchery smolt using mark-recapture
+* placing salmon in space/time to model thermal environment experienced
+* comparison with Penobscot data (I can't remember what exactly this entailed)
+* temporal changes in marine-recap salmon growth (I've already investigated this fairly thoroughly)
+
+### Miguel
+
+#### Who did you help this week?
+
+* Talked with Lindsay and Mike about growth as mechanism for salmon survival
+
+#### Who helped you this week?
+
+* Lindsay helped me with some ggplot code
+
+#### What did you achieve?
+
+* I finished my slides for AFS conference next week
+
+#### What did you struggle with?
+
+* calculating salmon run timing phenology 3-day and 5-day smooths and making sure that R was doing what I thought it was doing...
+
+#### What would you like to work on next week?
+
+* next week I'll be in Reno, NV presenting at the AFS conference
+
+#### Where do you need help from Kathy?
+
+* Finalizing AFS talk for next week
+
+#### Where do you need help from other lab members?
+
+### Andrew
+
+#### Who did you help this week?
+
+This week I worked with Shufeng from Cornell and helped him (and I) better understand delta models, specifically the delta log normal GAM and then the delta Poisson-link model implemented in the VAST framework. I also helped Lisa out with three interviews (two for bluefin post doc and one for MSE post doc).
+
+#### Who helped you this week?
+
+This week I got help from Shufeng working through the VAST model. Interestingly, the VAST model, which uses Template Model Builder, relies on automatic differentiation -- the same algorithm used by a lot of machine learning algorithms! I also got help from Miguel/Lindsay on a few questions about the dynamic occupancy lab paper.
+
+#### What did you achieve?
+
+* COCA methods paper -- Brad's edits included, sent back to Kathy for final review/bugging Jon
+* NSF C-Accel SDM work -- Met with Shufeng twice to talk about SDMs and the VAST model
+* JSDM MESeaGrant -- VAST model tutorials, foundational Bayes and JSDM models
+* Other -- COCA SDMs with RCP4.5
+* MAPP -- More brainstorming/structuring potential proposal
+
+#### What did you struggle with?
+
+* Scheduling/planning for some of the projects that are just starting to take shape (NSF, NASA)
+
+#### What would you like to work on next week?
+
+* MAPP proposal (depending on DB input)
+* JSDM figure out what is going on with some wacky results in the first pass of a lobster/cod/herring run
+* Formalize NSF C-Accel plan ater talk with VS, RM and then the full team
+
+#### Where do you need help from Kathy?
+
+* COCA methods paper/Jon
+* Shelfwide results (RCP4.5) direction
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!

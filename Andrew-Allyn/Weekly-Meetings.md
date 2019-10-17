@@ -1,4 +1,8 @@
 ### 2019
+* [11 October 2019](#date-11-october-2019)
+* [4 October 2019](#date-4-october-2019)
+* [27 September 2019](#date-27-september-2019)
+* [20 September 2019](#date-20-september-2019)
 * [12 July 2019](#date-12-july-2019)
 * [5 July 2019](#date-5-july-2019)
 * [26 June 2019](#date-26-june-2019)
@@ -10,6 +14,151 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 11 October 2019
+
+#### Who did you help this week?
+
+This week I helped Zach with some bubble plotting, though, I didn't actually solve the concentrc circles legend issue, which seems to be a major pain in R. 
+
+#### Who helped you this week?
+
+This week I got help from everyone in the lab with paper discussions, especially thinking about multivariate statistics and principal component analysis.
+
+#### What did you achieve?
+
+* COCA methods paper -- Formatted for PLOS One and sent to M Alexander for internal review.
+* COCA Other -- All scenarios and time scales are completed and synthesized, making plots next week.
+* JSDM MESeaGrant -- Really dug into the VAST model and resolved to making my own R Markdown file trying to descript the model in detail. I *think* I understand things a lot better, though still have some technical questions that hopefully Cornell folks (Comp Science folks and maybe Pat?) can help me with. The good thing, at least feel confident now implementing this with a better understanding of what is actually going on under the hood.
+
+#### What did you struggle with?
+
+* Understanding the difference between fixed effects and random effects, and more specifically, random effects that themselves are surfaces (Gaussian Random Fields). 
+
+#### What would you like to work on next week?
+
+* VAST Markdown document completed, sent to Cornell, set up time to discuss
+* VAST for NSF C Accel coded
+* COCA shelfwide assessment paper potential figures reviewed with Kathy
+* Nancy/Will NASA SD budget review
+
+#### Where do you need help from Kathy?
+
+* I'm sure something will come up, likely surrounding shelfwide paper guidance   
+
+#### Where do you need help from other lab members?
+
+* Future lab meeting ideas. We've had two sessions of paper reading and curious to hear how people think those have been going, and what we'd like to do next?
+
+
+### Date: 4 October 2019
+
+#### Who did you help this week?
+
+This week I helped Kathy with some small ggplot stuff and Lindsay with compiling detection histories, where for a given individual the detections are recored in different rows rather than different columns and one row per individual -- aggregate did the trick. 
+
+#### Who helped you this week?
+
+This week I got help from Convergence team with continued joint species distribution work and navigating the Morley et al. (2018) bottom trawl survey data set. I also got help from Kathy, wrapping up the COCA paper and thinking through some of the plots for the shelfwide assessment. 
+
+#### What did you achieve?
+
+* COCA methods paper -- All done! Heard from Jon over the weekend that he is not interested in being an author, so we will be submitting the paper this week to PLoSOne.
+* COCA Other -- COCA SDMs with 8.5 and 4.5 out to 2500 and 2100. While getting the temps was easy, I ended up spending a bit of time cleaning up the code to accomodate the three new projection scenarios. Another example of the importance of thinking really hard about all possible applications of a code before hand.
+* JSDM MESeaGrant -- kept rolling with getting the VAST model up and running
+* Convergence -- Odds and ends data work and discussions with Cornell team
+* MAPP -- Edited draf for one page problem/solution statement 
+
+#### What did you struggle with?
+
+* JSDM work, didn't get as much done here as I wanted in trying to get the COCA results done for shelfwide assessment 
+
+#### What would you like to work on next week?
+
+* JSDM
+* Submit COCA paper to PLoSOne
+* Shelfwide figures completed to discuss with Kathy when she returns
+
+#### Where do you need help from Kathy?
+
+* MAPP pitch to Roger G
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
+### Date: 27 September 2019
+
+#### Who did you help this week?
+
+This week I worked with Shufeng from Cornell and helped him (and I) better understand delta models, specifically the delta log normal GAM and then the delta Poisson-link model implemented in the VAST framework. I also helped Lisa out with three interviews (two for bluefin post doc and one for MSE post doc).
+
+#### Who helped you this week?
+
+This week I got help from Shufeng working through the VAST model. Interestingly, the VAST model, which uses Template Model Builder, relies on automatic differentiation -- the same algorithm used by a lot of machine learning algorithms! I also got help from Miguel/Lindsay on a few questions about the dynamic occupancy lab paper.
+
+#### What did you achieve?
+
+* COCA methods paper -- Brad's edits included, sent back to Kathy for final review/bugging Jon
+* NSF C-Accel SDM work -- Met with Shufeng twice to talk about SDMs and the VAST model
+* JSDM MESeaGrant -- VAST model tutorials, foundational Bayes and JSDM models
+* Other -- COCA SDMs with RCP4.5
+* MAPP -- More brainstorming/structuring potential proposal
+
+#### What did you struggle with?
+
+* Scheduling/planning for some of the projects that are just starting to take shape (NSF, NASA)
+
+#### What would you like to work on next week?
+
+* MAPP proposal (depending on DB input)
+* JSDM figure out what is going on with some wacky results in the first pass of a lobster/cod/herring run
+* Formalize NSF C-Accel plan ater talk with VS, RM and then the full team
+
+#### Where do you need help from Kathy?
+
+* COCA methods paper/Jon
+* Shelfwide results (RCP4.5) direction
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
+### Date: 20 September 2019
+
+#### Who did you help this week?
+
+This week I helped some of the NSF C-Accel SDM team work through data questions (mainly Cornell folks)
+
+#### Who helped you this week?
+
+This week I got help from the entire NSF C-Accel project in thinking about the incredible challenge of fish, fisheries, coastal communities and climate change. More specifically, I got a lot of help from Kathy on SDM overview slides and then the Cornell group who asked quite interesting and challenging questions concerning our current modeling approaches. Finally, I got help from Felix as he passed along paper edits.
+
+#### What did you achieve?
+
+* COCA methods paper progress -- just have edits from Jon and Brad and then we should be ready to submit!
+* NSF C-Accel SDM work -- Pulled together background materials and structured overview presentation
+* JSDM -- more work reviewing basic Bayesian stats and relationship to new JSDM models
+* MAPP/COCA proposal -- background reading and idea creation
+
+#### What did you struggle with?
+
+* Finding JSDM time as the NSF C-Accel effort took priority
+
+#### What would you like to work on next week?
+
+* Wrap up COCA methods paper
+* NSF C-Accel plan, especially in terms of model as it looks like some may already have implemented VAST model. Could I visit them and would this open up chance to try alternative Tikhinov model (species covariance a function of temperature)
+* Progress on MAPP/COCA proposal, especially identifying a "Bayesian" expert partner
+
+#### Where do you need help from Kathy?
+
+* COCA methods paper/Jon
+* NSF C-Accel strategic planning
+
+#### Where do you need help from other lab members?
+
+* I'm sure something will come up!
+
 ### Date: 12 July 2019
 
 #### Who did you help this week?

@@ -1,5 +1,7 @@
 ### 2019
 
+* [13 September 2019](#date-13-September-2019)
+* [19 June 2019](#date-12-July-2019)
 * [12 July 2019](#date-12-July-2019)
 * [5 July 2019](#date-5-July-2019)
 * [28 June 2019](#date-28-June-2019)
@@ -10,6 +12,26 @@
 * [17 May 2019](#date-17-May-2019)
 * [24 May 2019](#date-24-May-2019)
 * [31 May 2019](#date-31-May-2019)
+
+# Weekly Notes
+### Date: 20 September 2019
+* Monday - worked on r shiny app, made slides for LRC meeting Wednesday
+* Finialized LRC slides, worked on shiny app, listened to SAC research talks
+
+# Weekly Notes
+### Date: 13 September 2019
+
+### What did you achieve this week?
+* I finished the zone lobster forecast using the OISST data averaged by lobster zone and modeled bottom temperature using the surface to bottom temp relationship of the nearest buoy.
+* I made slides for the LRC meeting next week.
+* I explored the molting-temperature lobster relationship using the LSS data
+
+# Weekly Notes
+### Date: 19 July 2019
+
+### What did you achieve this week?
+* Monday, I continued working on dissecting the lobster forecast to understand all of the components and how they work together. I am rewriting the code to be compatable with the new UpadateBuoys function and to put in a shiny app
+* Tuesday, I compiled all of the CT river temperature projecttions and wrote an rmarkdown script 2
 
 # Weekly Notes
 ### Date: 12 July 2019

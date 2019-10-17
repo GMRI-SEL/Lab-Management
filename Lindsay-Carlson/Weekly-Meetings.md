@@ -13,8 +13,343 @@
 #### July
 * [05 July 2019](#date-05-july-2019)
 * [12 July 2019](#date-12-july-2019)
+* [19 July 2019](#date-19-july-2019)
+* [26 July 2019](#date-26-july-2019)
+#### August
+* [02 August 2019](#date-02-august-2019)
+* [09 August 2019](#date-09-august-2019)
+* [23 August 2019](#date-23-august-2019)
+#### September
+* [13 September 2019](#date-13-september-2019)
+* [20 September 2019](#date-20-september-2019)
+* [27 September 2019](#date-27-september-2019)
+#### October
+* [04 October 2019](#date-04-october-2019)
+
 
 # Weekly Notes
+
+### Date: 04 October 2019
+
+#### What did you achieve?
+
+*Salmon*
+
+* Revisited temporal trends in growth data, including adding summaries of changepoint analysis and chronological clustering to ppt
+* Recreated spatial trends in growth figures with only FS, FW, PS, and marine increments
+* Created mark-recapture powerpoint to present to Tim re: survival analysis
+* Created encounter histories for river-recap salmon
+* Revised the annulus formation presentation for meeting with Brandon and Ruth (Box\Mills Lab\Projects\Atlantic salmon\Presentations\Carlin_annulus_formation_LGC.pptx)
+
+*VFR*
+
+* Plotted center of [VFR biomass versus trawl biomass at survey-level](http://rpubs.com/lgcarlson/vfrcentroid)
+* Read papers Kathy sent
+
+#### What did you struggle with?
+
+* Had issues with Box/MARK Gui synching
+* Ran into more questions about the survival analysis that we need to ask Tim before we proceed
+* Discouraged by outcome of LICCI proposal
+
+#### What would you like to work on next week?
+
+* Hopefully picking up/dropping off scales?
+* Continuing to work on the VFR centroid stuff, might need additional data from Brian/Andrew/Kathy?
+
+
+------
+
+
+### Date: 27 September 2019
+
+#### What did you achieve?
+
+*Salmon*
+
+* Explored the possibility of calculating an annulus "start" date in addition to the annulus completion date. 
+* Integrated Carlin database with multiple tables from the DMR database to create a final table of 2SW river-recapture scale analysis candidates. Only 424 fish are available, assuming we can find them. Text mining of DMR tables. 
+* Did changepoint analysis for first year at sea growth incrments using package bcp for [Bayesian change points](http://rpubs.com/lgcarlson/carlinBCP)
+* Explored chronological clustering for growth increments
+
+
+#### What did you struggle with?
+
+* I struggled with the figuring out when the annulus formation "starts" because when looking at the circulus spacings, there isn't a clear difference in the spacings  of "summer" and "winter" circuli. The winter minimum could occur anywhere within the annulus, and the annulus marked by the observer only tells us where the annulus "ends." Because there is such a small difference between spacings of "summer" versus "winter" circuli, its not clear how we could determine which circuli are associated with the annulus. 
+* I used a few changepoint methods, and none of them were able to distinguish a changepoint within the time series of the mean growth increments. I eventually stuck with the bcp because the probability distributuion around the changepoint location was helpful for me. 
+* I was also not able to glean any insights of interest from the chronological clustering. I think, with the 1SW marine recaps at least, there just aren't very substantial temporal changes. 
+
+#### What would you like to work on next week?
+
+* Hopefully talking to Ruth and Brandon
+* Hopefully picking up/dropping off scales?
+* Discuss with Kathy which questions (other salmon questions that we've discussed but ranked lower in priority vs trawl)
+
+The other salmon questions I have written down are: 
+* marine survival of 2yo vs 3yo hatchery smolt using mark-recapture
+* placing salmon in space/time to model thermal environment experienced
+* comparison with Penobscot data (I can't remember what exactly this entailed)
+* temporal changes in marine-recap salmon growth (I've already investigated this fairly thoroughly)
+
+
+------
+
+
+### Date: 20 September 2019
+
+#### Who did you help this week?
+
+I attended the meeting with the SAC/technical staff this week. Hopefully the great ideas and well-spoken opinions expressed by everyone in attendance will be heard and put into action by the managment and improve the workplace for all of us. 
+
+#### Who helped you this week?
+
+Tim took some time to talk to me about Greenlandic fisheries and traditional ecological knowledge. Dorothy Dankel also took the time to talk to me about her work with social ecological systems, her career path, her opinions on scientists' role in media/social media/politics. It was a great conversation that I learned so much from, and I feel extremely lucky to have had a chance to talk with her for so long! (Jeg elsker Norge!)
+
+#### What did you achieve?
+
+*Salmon*
+
+* I put together a presentation on my most recent salmon findings for our meeting with Tim
+* I did back-calculations with alternate deposition rates to determine FMC estimation inaccuracy
+* I started writing the methods for the annulus formation paper
+* I created a master-list of usable river-recaps to pull for Brandon to analyze
+
+*Trawl*
+
+* Dug back into trawl literature and annotated the paper we'll discuss in next week's lab meeting
+
+*LICCI*
+
+* Had my interview for the LICCI project on Tuesday.
+
+#### What did you struggle with?
+
+Getting things done amidst the many meetings this week.
+
+#### What would you like to work on next week?
+
+1 Acquiring and delivering scales to Brandon
+2 Exploring additional suggestions re: annulus analysis from Kathy/Tim
+3 Continuing to write methods, possibly introduction, since results will now be changing
+
+
+------
+
+
+### Date: 13 September 2019
+
+#### Who did you help this week?
+
+I just tried not to infect anyone with my cold this week!
+
+#### Who helped you this week?
+
+Mike helped me talk through my concerns about using a constant growth rate. Andrew sent me a great paper. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* I figured out when Atlantic salmon form their annulus! It was pretty simple to use the known dates just do some algebra. How did we not think of this before?
+* I backcalculated FMC date to ensure that they were matching up with the known dates, especially important for 0SW fish. 
+* I calculated the month of minimum temperature in the South Labrador blocks over time. 
+* I plotted the relationship between annulus date and month of min temperature. 
+* I did a thorough [literature review](https://docs.google.com/document/d/167_9ZsFspZMpZNRQ9nWdH1HiMWHdP-sd0bnh7_4jib8/edit?usp=sharing) on annulus formation date for salmonids. 
+
+#### What did you struggle with?
+
+Containing my excitement re: annulus formation date knowledge. 
+
+#### What would you like to work on next week?
+
+Presenting annulus formation date analysis to Tim, shoring up analysis, starting to write?
+
+------
+
+### Date: 23 August 2019
+
+#### Who did you help this week?
+
+Put together DFO maps for Tim. 
+
+#### Who helped you this week?
+
+Miguel tried to load JSON and KML files into QGIS for me after they wouldn't work in R.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Scale dynamics [literature review](https://docs.google.com/document/d/1f2sQ_-z2jRf9412M7dTlxMjl3DQa5dBBqyUR0Sbk8-U/edit?usp=sharing): papers I've found and papers we discussed with Tim
+* Found and removed scales with impossible days at sea versus annulus combinatings
+* Pulled original dataset to evaluate confidence in "end" dates
+* Started [scale dynamics investigation](http://rpubs.com/lgcarlson/scaledynamics) (8-12 days/circulus)
+* Updated catch per unit effort calculations of DFO data to include fathoms/net in CPUE
+* Created maps of DFO data for Tim's collaborator's proposal
+
+#### What did you struggle with?
+
+I could not get the JSON and KMZ files that I pulled to make the DFO map to open in R or QGIS. I solved the problem by making my own shapefiles by drawing them in Google Earth based on the KMZ file that you could only open in Google Earth Pro. 
+
+#### What would you like to work on next week?
+
+Continue with scale dynamics investigation. Calculate minimum SST day for Labrador. Present at NADS!
+
+------
+
+
+### Date: 09 August 2019
+
+#### Who did you help this week?
+
+Gave Allie some recommendations for her presentation.
+
+#### Who helped you this week?
+
+Miguel took charge of organizing a Mendeley folder for our salmon lit review.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Completed and summarized the salmon [meta-analysis](https://docs.google.com/document/d/1urPFtigYs4WttConMmAtD5jK_WtxAaZ88gzbNxKFHgE/edit?usp=sharing)
+* Correlations between growth increment and productivity/survial 
+* Calculated mean monthly temps in each salmon migration area
+* Reviewed Maxent publications to devise strategy for DFO analysis
+* Created working "summer" [SDM](https://rpubs.com/lgcarlson/maxentDFO) based on DFO data
+
+#### What did you struggle with?
+
+I struggled to get the maxent model working and eventually had to add another environmental variable, but neither bathymetry nor calanus is especially helpful. 
+
+#### What would you like to work on next week?
+
+Complete maxent model for each season. Summarize past analyses for Tim's visit.
+
+------
+
+
+### Date: 02 August 2019
+
+#### Who did you help this week?
+
+Helped answer some tidyverse questions for Graham and Allie.
+
+#### Who helped you this week?
+ 
+Miguel and I had a really good discussion about a priori model selection for the salmon analyses.
+
+#### What did you achieve?
+
+*Salmon*
+
+* I added some temperature exploration to the [DFO data analysis](http://rpubs.com/lgcarlson/dfodistribution)
+* Began putting together salmon migration "meta-analysis" in shared Google doc
+
+*Trawl*
+
+* Did a few more revisions to the trawl cleaning code
+* Worked on defining length relationships, thinking about how to use sized-based approached
+* Read a few papers on size-based approaches to community ecology questions
+* Worked on species richness by area model
+
+#### What did you struggle with?
+
+I struggled to find papers that used a size-based approach for a similar question, but Kathy informed me that that's probably because there aren't any!
+
+#### What would you like to work on next week?
+
+Next week, I'll continue working on the salmon migration meta-analysis, I'll do the survival/increment correlations, and I'll put together a synthesis of the trawl findings for Kathy. 
+
+#### Where do you need help from Kathy?
+
+It would be great to for us to meet with Andrew re: the leading/trailing edge question.
+
+#### Where do you need help from other lab members?
+
+Mike, Miguel, and I are going to work on the salmon analysis together. 
+
+------
+
+
+### Date: 26 July 2019
+
+#### Who did you help this week?
+
+I sat in on the Sustainable Seafood project manager all-staff interviews and provided feedback about the candidates.
+
+#### Who helped you this week?
+ 
+Kanae and I had a really great discussion about the role of traditional ecological knowledge in documenting climate change impacts.
+
+#### What did you achieve?
+
+*Salmon*
+
+This week, I mostly worked on the [DFO dataset](http://rpubs.com/lgcarlson/dfodistribution):
+
+* Looked at catch per 1 x 1 lat/long block
+* Created utilization distribution kernels for each month
+* Calculated salmon/hour effort in each lat long block
+* Plotted monthly mean surface temperature recorded in each block by the fisherman
+* Looked at the correlation between salmon/hour effort and SST
+
+*Trawl*
+
+* Made Kathy's suggested changes to the trawl cleaning code
+* Started investigating length/space relationships
+* Species richness model data wrangling
+
+#### What did you struggle with?
+
+I was under the impression that the DFO dataset was "presence only", but that is not quite the case. I would definitely like to understand more about how this data was collected, study design, sampling effort, etc. 
+
+#### What would you like to work on next week?
+
+I think as a salmon group, we should make some decisions about which months/migration areas are relevant to salmon in our datasets so we can start narrowing down which model parameters make sense. I think we can do this based on what I've found from the Carlin dataset and the DFO dataset. 
+
+------
+
+
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+I put together a Tidy Tuesday Rmd using the forecast package.
+
+#### Who helped you this week?
+ 
+Mike pointed out a solution to improve my GAM of lat ~ days at sea model.
+
+#### What did you achieve?
+
+*Salmon*
+
+* Calculated number of days at sea for all Carlin-tagged salmon, not just those with scales collected
+* Used GAM to model [latitude of recapture/return ~ days at sea](http://rpubs.com/lgcarlson/daysatseaGAM)
+* Explored the effect of adding interaction terms for sea age
+* Explored days at sea ~ s(lat,long), not as successful as I'd hoped
+* Created a map of monthly centroid encounter locations for all Carlin-tagged salmon to better understand movement patterns/narrow down which migration areas we should be considering for each month
+
+*Trawl*
+
+* Revamped trawl cleaning code
+* Remade centroid lat/long code/figures in [tidyverse/ggplot](https://rpubs.com/lgcarlson/tidycleantrawl)
+* Began investigating fish lengths, added weighted mean for length
+* Investigated bottom depths in survey area
+* Thought about how to quantify spatial distribution, explored the idea of 1x1 lat/long blocks
+
+#### What did you struggle with?
+
+* The GAM I made does a good job, so long as you know how many days the fish has been at sea. I think to apply this to Mike/Miguel's data, we'll need to come up with a method to estimate number of days at sea based on number of circuli. 
+
+#### What would you like to work on next week?
+
+* Addressing Kathy's comments about trawl cleaning code and exploring ideas discussed in meeting with Tim.
+* Learning more about understanding/interpreting GAMS
+
+
+------
 
 ### Date: 12 July 2019
 
