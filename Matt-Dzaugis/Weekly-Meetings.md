@@ -1,5 +1,8 @@
 ### 2019
 
+* [4 October 2019](#date-4-October-2019)
+* [27 September 2019](#date-27-September-2019)
+* [20 September 2019](#date-20-September-2019)
 * [13 September 2019](#date-13-September-2019)
 * [19 June 2019](#date-12-July-2019)
 * [12 July 2019](#date-12-July-2019)
@@ -14,9 +17,31 @@
 * [31 May 2019](#date-31-May-2019)
 
 # Weekly Notes
+### Date: 4 October 2019
+* Catch up on things I missed while on vacation
+* Worked on river temperature projections for the shad project
+  + Identified the longest temperature time series available for the Penobscot River
+  + Downloaded the observered NLDAS air temp data and the projected LOCA air temp data
+  + Modeled the Penobscot River temperature using the same methods as the CT river
+* Continued working on the cross-habitat project
+  + Meeting with Rob Dudley of the USGS next week to talk FW (invited by Lis)
+* Performed lit review of use of water temperature from USGS river gages
+  + Seems limited - most people use flow and air temp to derive water temperature
+  + Flow and gage height are more complete time series
+  + Ask Rob about river temperature accuracy and reliability
+* Should have bottom temp data from ROMS model soonish
+  + Continue with lobster catchability work
+
+
+# Weekly Notes
+### Date: 27 September 2019
+* on vacation this week
+
+# Weekly Notes
 ### Date: 20 September 2019
-* Monday - worked on r shiny app, made slides for LRC meeting Wednesday
+* worked on r shiny app, made slides for LRC meeting Wednesday
 * Finialized LRC slides, worked on shiny app, listened to SAC research talks
+* LCR meeting Wednesday - sent readout to Andy and Kathy
 
 # Weekly Notes
 ### Date: 13 September 2019
