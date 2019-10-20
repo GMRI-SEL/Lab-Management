@@ -1,4 +1,5 @@
 ### 2019
+* [18 October 2019](#date-18-october-2019)
 * [11 October 2019](#date-11-october-2019)
 * [4 October 2019](#date-4-october-2019)
 * [27 September 2019](#date-27-september-2019)
@@ -14,6 +15,41 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 18 October 2019
+
+#### Who did you help this week?
+
+I helped Zach with some more plotting and then some folks on the NSF Convergence team thinking about ROMS data output and how we end up using these types of data within the distribution models.
+
+#### Who helped you this week?
+
+This week I got help from Alex and the quant group during a productive meeting thinking through work flows, and especially, working with GitHub and Box. 
+
+#### What did you achieve?
+
+* COCA shelfwide assessment -- Found a bug early on in the week (box/GitHub issue, I think), got that fixed and ran things back through. Making plots now.
+* JSDM (mostly NSF C Accel applicaiton) -- Prepped the Morley data, some data exploration, and ready to give the VAST model a shot next week. Talking to Cornell folks on Tuesday.
+
+#### What did you struggle with?
+
+* Data visualization. For the shelfwide assessment paper and COCA 
+* Understanding the difference between fixed effects and random effects, and more specifically, random effects that themselves are surfaces (Gaussian Random Fields). (still don't get this -- but hoping lab meeting next week might help!)
+
+#### What would you like to work on next week?
+
+* Get Kathy shelfwide draft figures
+* JSDM fitted for NSF C-Accel application
+* Plan for how to fill in VAST knowledge gaps
+* Seasonality/skill assessment brainstorm
+
+#### Where do you need help from Kathy?
+
+* I think all set -- a short week coming up for me as I head south Thursday for brother's wedding.   
+
+#### Where do you need help from other lab members?
+
+* Lab meeting: future lab meeting ideas. We've had two sessions of paper reading and curious to hear how people think those have been going, and what we'd like to do next?
+
 ### Date: 11 October 2019
 
 #### Who did you help this week?
