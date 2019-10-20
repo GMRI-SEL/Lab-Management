@@ -1,4 +1,5 @@
 ### 2019
+* [18 October 2019](#date-18-octobber-2019)
 * [27 September 2019](#date-27-september-2019)
 * [09 September 2019](#date-09-september-2019)
 * [26 July 2019](#date-26-july-2019)
@@ -6,6 +7,37 @@
 * [12 July 2019](#date-12-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [29 April 2019](#date-29-april-2019)
+
+# Weekly Notes
+### Date: 18 October 2019
+
+#### Who did you help this week?
+
+* I helped Lindsay collect salmon scales in Bangor
+
+#### Who helped you this week?
+
+* Andy helped me with code for getting started on predicting fish abundance using neural networks
+
+#### What did you achieve?
+
+* I tried using self-organizing maps as a method for pattern recognition for the PN salmon scale growth data
+
+#### What did you struggle with?
+
+* I struggled with trying out different grid sizes and cluster numbers for the self-organizing maps
+
+#### What would you like to work on next week?
+
+* I would like to work on making plots for daily growth rates for the salmon phenology work, compare different grid sizes and cluster numbers in terms of interpretability, and develop alternative neural network configurations
+
+#### Where do you need help from Kathy?
+
+* After I run a series of alternative self-organizing maps and alternative cluster numbers, I need Kathy's help in deciding on which version is best
+
+#### Where do you need help from other lab members?
+
+* I think getting feedback on the self-organizing maps results from the salmon group would be helpful 
 
 # Weekly Notes
 ### Date: 27 September 2019
