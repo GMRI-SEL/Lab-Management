@@ -23,7 +23,7 @@ I helped Zach with some more plotting and then some folks on the NSF Convergence
 
 #### Who helped you this week?
 
-This week I got help from Alex and the quant group during a productive meeting thinking through work flows, and especially, working with GitHub and Box. 
+This week I got help from Alex and the quant group during a productive meeting thinking through work flows, and especially, working with GitHub and Box. I also got help from Lindsay with some plot titles and text wrapping.
 
 #### What did you achieve?
 
