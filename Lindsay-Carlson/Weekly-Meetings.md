@@ -25,10 +25,46 @@
 * [27 September 2019](#date-27-september-2019)
 #### October
 * [04 October 2019](#date-04-october-2019)
-
+* [18 October 2019](#date-18-october-2019)
 
 # Weekly Notes
 
+### Date: 18 October 2019
+
+#### Who did you help this week?
+
+I found the code to wrap strip text in facets for Andrew. I also helped Zach with some ggplot code.
+
+#### Who helped you this week?
+
+Alex gave us a great presentation on the horrors that can arise from mixing Box and Git. 
+
+#### What did you achieve?
+
+*Salmon*
+
+* Searched for Carlin-tagged salmon scales among DMR scale samples
+* Organized, double-checked, put in order, and added necessary labelling to Carlin scales in preperation for handoff to Brandon
+* Created a datasheet for Brandon that contains all necessary identifying information for each sample, but excluding individuals for which there was no scale collected
+* Tried to figure out why DMR database does not include any Carlin-tagged scales collected before 1978... failed. 
+
+*VTR*
+
+* Continued with VTR vs trawl centroid analysis
+* Mapped overlap, convergence of state centroids
+* Conducted [pairwise comparisons of VTR vs trawl centroid trends](https://rpubs.com/lgcarlson/vtrcentroid)
+* Conducted multiple comparisons of state level centroids by species
+
+#### What did you struggle with?
+
+I could not figure out why the 1977 scales I pulled are not in the DMR database, but they are in the Carlin datafile. Unfortunately, I don't think *anyone* knows the answer to this question.
+
+#### What would you like to work on next week?
+
+Next week I will deliver the scales to Brandon and Ruth while they're in town. I will continue working on the VTR data, and I will revisit the trawl data in light of Kathy's ideal to assess biomass accumulation by latitude. I look forward to a good discussion of mixed models at lab meeting. I also need to log my mileage from my trips to Orono. Maybe we can also re-instate Tidy Thursday.
+
+
+------
 ### Date: 04 October 2019
 
 #### What did you achieve?
@@ -41,7 +77,7 @@
 * Created encounter histories for river-recap salmon
 * Revised the annulus formation presentation for meeting with Brandon and Ruth (Box\Mills Lab\Projects\Atlantic salmon\Presentations\Carlin_annulus_formation_LGC.pptx)
 
-*VFR*
+*VTR*
 
 * Plotted center of [VFR biomass versus trawl biomass at survey-level](http://rpubs.com/lgcarlson/vfrcentroid)
 * Read papers Kathy sent
