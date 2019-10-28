@@ -1,4 +1,5 @@
 ### 2019
+* [25 October 2019](#date-25-october-2019)
 * [18 October 2019](#date-18-october-2019)
 * [11 October 2019](#date-11-october-2019)
 * [4 October 2019](#date-4-october-2019)
@@ -15,6 +16,38 @@
 * [3 May 2019](#date-3-may-2019)
 
 # Weekly Notes
+### Date: 25 October 2019
+
+#### Who did you help this week and who helped you this week?
+This week I think all lab members, plus Ashley W, helped each other think through statistical models, and especially differences between fixed and random effects. I also got input from Miguel and Matt on some data visualization things to help with the shelfwide paper.
+
+#### What did you achieve?
+
+* COCA shelfwide assessment -- Passed along some draft figures for Kathy to look at and the corresponding data files
+* JSDM (mostly NSF C Accel applicaiton) -- Provided Cornell folks with Morely model results and got VAST example running!
+
+#### What did you struggle with?
+
+* Data visualization
+* Brainstorming time for seasonality/skill assessment
+
+#### What would you like to work on next week?
+
+* Get Kathy shelfwide draft figures
+* JSDM fitted for NSF C-Accel application
+* Plan for how to fill in VAST knowledge gaps
+* Seasonality/skill assessment brainstorm
+
+#### Where do you need help from Kathy?
+
+* Shelfwide draft figure review
+* Revisiting FreedCamp/distributing some of the project reporting requirements
+
+#### Where do you need help from other lab members?
+
+* Future lab meeting ideas 
+* Updates -- what's working, what's not, what's getting lost
+
 ### Date: 18 October 2019
 
 #### Who did you help this week?
