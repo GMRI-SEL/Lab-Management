@@ -28,8 +28,47 @@
 * [18 October 2019](#date-18-october-2019)
 #### November
 * [01 November 2019](#date-01-november-2019)
+* [08 November 2019](#date-08-november-2019)
 
 # Weekly Notes
+
+### Date: 08 November 2019
+
+#### Who did you help this week?
+
+Facilitated salmon group discussion about abstract-planning.
+
+#### Who helped you this week?
+
+* Andrew sent me templates for applying to the PD fund.
+* Ben Tupper helped me understand intricacies of the MaxEnt models more completely, Ben also offered to put on a "package-making" workshop for the quant group if we are interested (WE ARE INTERESTED!) 
+
+#### What did you achieve?
+
+*Trawl*
+
+* Created the map Kathy suggested with colored points for observations within each percecntile by decade, also added a countour layer to visualize the shifts in edges
+* Redid my original latitude percentile time series plots with the updated biomass-weighted percentiles (90,95), also added the biomass-weighted centroid to that plot, used the the same color scheme as the histogram
+* Create the centroid slope table Kathy suggested
+* Conducted pairwise comparisons of north, south, and center slopes for all species
+* Updated PowerPoint with new figures and descriptions
+
+*Other*
+
+* Prepared PD Fund application and researched workshop attendance budget
+* Attended temperature and sea-level rise talks at GoM2050
+* Attended Ben/Nick Record's talk at the Portland UseR Group
+
+#### What did you struggle with?
+
+I struggled a little this week because in my latitudinal accumuluation script I've written a bunch of plotting code that takes forever to run. I've now saved into pdfs or lists what I need, so I won't have to always run those chunks, but I do need to get better about keeping scripts shorter and not overusing loops. 
+
+#### What would you like to work on next week?
+
+This week I focused on the trawl data/lat accumulation stuff and I completed all the objectives that came out of my meeting with Kathy. I might add on an overlap analysis using density kernels to quantify shifts. Next week I will start on the updates to the VTR analysis. 
+
+
+------
 
 ### Date: 01 November 2019
 
