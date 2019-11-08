@@ -26,8 +26,50 @@
 #### October
 * [04 October 2019](#date-04-october-2019)
 * [18 October 2019](#date-18-october-2019)
+#### November
+* [01 November 2019](#date-01-november-2019)
 
 # Weekly Notes
+
+### Date: 01 November 2019
+
+#### Who did you help this week?
+
+* I edited the references section of the COCA proposal for Lisa. 
+* I talked to two third grade students about microplastics. 
+* I attended the Modeling Change event and remade a few of the figures for that talk. 
+
+#### Who helped you this week?
+
+Miguel found the the NMFS statistical areas shapefile for me. 
+
+#### What did you achieve?
+
+*Trawl*
+
+* Refined biomass-weighted percentiles of major species
+* Calculated the percentage of total biomass within each percentile by decade
+* Plotted percent [above and below the center](https://rpubs.com/lgcarlson/trawllataccumulation) of each species' distribution by decade
+* Calculated change in percent above and below the center 
+
+*Other*
+
+* Edits of COCA proposal
+* Wrote review reflection
+* Modelling change figures
+* Submitted Ecosphere review
+* Created powerpoint to present trawl/vtr results to Kathy
+
+#### What did you struggle with?
+
+Figuring out where to go next with latitudinal accumulation analysis next
+
+#### What would you like to work on next week?
+
+Continue with latitudinal accumulation and VTR analyses. Revisit salmon paper and write abstract for the salmon meeting. 
+
+
+------
 
 ### Date: 18 October 2019
 
