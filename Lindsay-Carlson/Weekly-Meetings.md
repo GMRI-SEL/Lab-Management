@@ -29,8 +29,47 @@
 #### November
 * [01 November 2019](#date-01-november-2019)
 * [08 November 2019](#date-08-november-2019)
+* [22 November 2019](#date-22-november-2019)
 
 # Weekly Notes
+
+### Date: 22 November 2019
+
+#### Who did you help this week?
+
+I helped Miguel with trawl data processing code and associated length data problems. 
+
+#### Who helped you this week?
+
+* Alex helped me with some web-scraping endeavors in an effort to scrape K and L∞ from FishBase.
+
+#### What did you achieve?
+
+*Trawl*
+
+* Fixed newly found errors in trawl-processing code that related to duplicate length entries and updated all previous analyses I had done with the old processing
+* Wrote code to create a "long" trawl dataset by "uncounting" NLEN
+* Tracked down VBGF parameters for all trawl fish species (K, L∞, Lmaturity, and Tmax) and compiled into a single table
+* Calculated VBG curve for all possible species and used age-at-length estimations to group into size class by age
+* Calculated percentile based size classes
+* Compared viability of using age-based size classes vs percentile-based size classes
+* Plotted size-class spatial/latitudinal distribution 
+
+*VTR*
+
+* Calculated differenced and non-differenced data correlations
+
+#### What did you struggle with?
+
+I struggled to decide what the best method is for creating size-classes that would be biologically meaningful. Unfortunately, though classes based on age-at-length estimation seem much more biologically relevant, percentiles are so much clean/clearer to work with. 
+
+#### What would you like to work on next week?
+
+Continue working on size-based analysis and read some papers to gain a better understanding of what this might look like.  
+
+
+------
+
 
 ### Date: 08 November 2019
 
