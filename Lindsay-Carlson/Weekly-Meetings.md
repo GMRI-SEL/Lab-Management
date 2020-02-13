@@ -28,8 +28,121 @@
 * [18 October 2019](#date-18-october-2019)
 #### November
 * [01 November 2019](#date-01-november-2019)
+* [08 November 2019](#date-08-november-2019)
+* [22 November 2019](#date-22-november-2019)
+#### December
+* [13 December 2019](#date-13-december-2019)
 
 # Weekly Notes
+
+### Date: 13 December 2019
+
+#### Who did you help this week?
+
+I helped Miguel with some trawl data problems.
+
+#### Who helped you this week?
+
+Mike helped me work through some of the Carlin pseudo-second-year analyses. 
+
+#### What did you achieve?
+
+*Trawl*
+
+* Wrote raw to adjusted number at length conversion code for all trawl species
+* Reran size-class partitioning analysis with adjusted number at length
+
+*Salmon*
+
+* Revisited Carlin analysis and [cleaned up SST correlations](https://rpubs.com/lgcarlson/growthxersst)
+* [EDA of ERSST spatial variation](https://rpubs.com/lgcarlson/ersst_diffs)
+* Started working on calculating second year increment for Greenland-caught 1SW fish, plus correction for catch date
+
+#### What did you struggle with?
+
+It was a little difficult getting back into salmon analyses after being away from it so long.
+
+#### What would you like to work on next week?
+
+Make some decisions about salmon analyses with salmon group. Finish second year increment analyses. 
+
+
+------
+### Date: 22 November 2019
+
+#### Who did you help this week?
+
+I helped Miguel with trawl data processing code and associated length data problems. 
+
+#### Who helped you this week?
+
+* Alex helped me with some web-scraping endeavors in an effort to scrape K and L∞ from FishBase.
+
+#### What did you achieve?
+
+*Trawl*
+
+* Fixed newly found errors in trawl-processing code that related to duplicate length entries and updated all previous analyses I had done with the old processing
+* Wrote code to create a "long" trawl dataset by "uncounting" NLEN
+* Tracked down VBGF parameters for all trawl fish species (K, L∞, Lmaturity, and Tmax) and compiled into a single table
+* Calculated VBG curve for all possible species and used age-at-length estimations to group into size class by age
+* Calculated percentile based size classes
+* Compared viability of using age-based size classes vs percentile-based size classes
+* Plotted size-class spatial/latitudinal distribution 
+
+*VTR*
+
+* Calculated differenced and non-differenced data correlations
+
+#### What did you struggle with?
+
+I struggled to decide what the best method is for creating size-classes that would be biologically meaningful. Unfortunately, though classes based on age-at-length estimation seem much more biologically relevant, percentiles are so much clean/clearer to work with. 
+
+#### What would you like to work on next week?
+
+Continue working on size-based analysis and read some papers to gain a better understanding of what this might look like.  
+
+
+------
+
+
+### Date: 08 November 2019
+
+#### Who did you help this week?
+
+Facilitated salmon group discussion about abstract-planning.
+
+#### Who helped you this week?
+
+* Andrew sent me templates for applying to the PD fund.
+* Ben Tupper helped me understand intricacies of the MaxEnt models more completely, Ben also offered to put on a "package-making" workshop for the quant group if we are interested (WE ARE INTERESTED!) 
+
+#### What did you achieve?
+
+*Trawl*
+
+* Created the map Kathy suggested with colored points for observations within each percecntile by decade, also added a countour layer to visualize the shifts in edges
+* Redid my original latitude percentile time series plots with the updated biomass-weighted percentiles (90,95), also added the biomass-weighted centroid to that plot, used the the same color scheme as the histogram
+* Create the centroid slope table Kathy suggested
+* Conducted pairwise comparisons of north, south, and center slopes for all species
+* Updated PowerPoint with new figures and descriptions
+
+*Other*
+
+* Prepared PD Fund application and researched workshop attendance budget
+* Attended temperature and sea-level rise talks at GoM2050
+* Attended Ben/Nick Record's talk at the Portland UseR Group
+
+#### What did you struggle with?
+
+I struggled a little this week because in my latitudinal accumuluation script I've written a bunch of plotting code that takes forever to run. I've now saved into pdfs or lists what I need, so I won't have to always run those chunks, but I do need to get better about keeping scripts shorter and not overusing loops. 
+
+#### What would you like to work on next week?
+
+This week I focused on the trawl data/lat accumulation stuff and I completed all the objectives that came out of my meeting with Kathy. I might add on an overlap analysis using density kernels to quantify shifts. Next week I will start on the updates to the VTR analysis. 
+
+
+------
 
 ### Date: 01 November 2019
 
