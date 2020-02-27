@@ -37,8 +37,9 @@ Along with the guiding principles, another key component of an effective colloab
 
 - What are the goals and objectives of the work that will support answering the research question?
 
-- What story does the paper tell? Think about the key parts to any story.
-![The story of a scientific paper](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "[Anna Clemens' Writing a Page Turner](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)")
+- What story does the paper tell? Think about the key parts to any story and Anna Clemens' [Writing a Page Turner figure](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)) </br>
+![The story of a scientific paper](ScientifiPaperPlotElements_AnnaClemens.jpg "[Anna Clemens' Writing a Page Turner](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)")
+
 - What are the takeaway messages of the paper?
 
 - Is the structure of the paper clear and easy to follow?
