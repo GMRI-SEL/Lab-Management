@@ -11,7 +11,7 @@ To break through this bottleneck and produce higher quality papers more efficien
 Writing is incredibly personal. To make sure that everyone feels safe and supported in sharing their writing, we have developed the following guiding principles:
 
 ### As a reviewer...
-- Respect the effort that has gone into producing the work you are reading: writing isn't easy!
+- Respect the effort that has gone into producing the work you are reading. Writing isn't easy!
 
 - Be constructive, avoid value laden statements, and remember that just because something doesn't make sense to you, or doesn't sound right to you, doesn't mean that's the case for the author or other readers.
   * For example, instead of "This paragraph doesn't make any sense" try "I had trouble understanding this paragraph because I couldn’t see how it tied back to our main argument."
@@ -20,12 +20,12 @@ Writing is incredibly personal. To make sure that everyone feels safe and suppor
 
 - Provide both technical and emotional support throughout the entire writing process, not just the end.
 
-- Be an empathetic reviewer, placing yourself in the author's shoes and think about your own experience struggling to write that introduction or final paragraph of your discussion. 
+- Be an empathetic reviewer. Place yourself in the author's shoes and think about your own experience struggling to write that introduction or final paragraph of your discussion. 
 
 ### As an author...
 - Check your ego at the door. We can all improve our writing.
 
-- Don't just focus on the weaknesses or the suggested edits, make sure to remind yourself about the strengths of your paper, too.
+- Don't just focus on the weaknesses or the suggested edits. Remind yourself about the strengths of your paper, too.
 
 - Celebrate the little victories. Writing is difficult and if you wait until you hit the submit button on your manuscript to celebrate your accomplishments, you're likely going to be disappointed. By that time in the process, many of us are are sick of our paper and we hit the submission button with a "get this out of my face" frustration. Of course this collaborative approach hopes to combat that by increasing our efficiency, but we can also make sure to celebrate each of the steps along the process to hopefully make the submission a celebration.
 
