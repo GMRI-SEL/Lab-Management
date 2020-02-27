@@ -1,6 +1,6 @@
 # Collaborative Writing
 >"While [the writer] works [they are] alone. If the work is difficult . . .[they] feel alone, and sometimes even abandoned. But the real question is: how much loneliness can you know? But the word itself isn't especially accurate, in any case: that which is named loneliness is probably more nearly ineffectiveness, a form of failure, a form of fear. ...
-When the going is good a writer knows very little, if any loneliness. When it is bad [they] believe [they] know nothing else. The flaw is the same in either event: when the writer thought the going was good and therefore felt no loneliness, the writing was not necessarily good, and when [they] believed the going was bad and therefore felt ineffective, the writing may actually have been good. [They] just happened to feel loneliness at the time. If it wasn'tsomething [they] ate, it was surely something that was eating [them]." - "Why Does a Writer Write? *In* Writer to Writer, ed. Floyd Watkins and KarlKnight(Boston: Houghton Mifflin, 1966), p. 30.</>
+When the going is good a writer knows very little, if any loneliness. When it is bad [they] believe [they] know nothing else. The flaw is the same in either event: when the writer thought the going was good and therefore felt no loneliness, the writing was not necessarily good, and when [they] believed the going was bad and therefore felt ineffective, the writing may actually have been good. [They] just happened to feel loneliness at the time. If it wasn'tsomething [they] ate, it was surely something that was eating [them]." - "Why Does a Writer Write? *In* Writer to Writer, ed. Floyd Watkins and KarlKnight(Boston: Houghton Mifflin, 1966), p. 30.
 
 ## Overview
 Although the lab has made great strides towards implementing collaborative and supportive data analysis workflows and practices, the writing process is still largely carried out in solitude. Potentially even more problematic, many of us do not spend time regulalry reading or writing. We spend a whole lot of time on the data analysis side, working together with confidence, and then isolate ourselves, put in our headphones, open up a blank word document and attempt to write a manuscript for publication in a high-level peer reviewed journal. It's no wonder then that the writing process is such an incredible bottleneck as we struggle to put words to paper. 
@@ -38,7 +38,7 @@ Along with the guiding principles, another key component of an effective colloab
 - What are the goals and objectives of the work that will support answering the research question?
 
 - What story does the paper tell? Think about the key parts to any story.
-
+![The story of a scientific paper](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "[Anna Clemens' Writing a Page Turner](https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/)")
 - What are the takeaway messages of the paper?
 
 - Is the structure of the paper clear and easy to follow?
